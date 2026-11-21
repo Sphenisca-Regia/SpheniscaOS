@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Custom-theme rendering reaches every secondary surface (slice W1-B).
 
 ``window.resolve_theme`` is the canonical preset resolver: theme == 'custom'

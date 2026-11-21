@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Home tab presentation logic. Port of ui/home/HomeModel.kt (pure part).
 
 Pure functions of the rows already in the local database: no I/O, no GI.

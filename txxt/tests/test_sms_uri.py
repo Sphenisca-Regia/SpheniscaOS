@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """RFC 5724 ``sms:``-family URI parsing (headless, pure presenter)."""
 
 from pathlib import Path

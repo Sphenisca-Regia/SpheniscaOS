@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """File backup to removable or network storage (ref backup-restore.sh).
 
 Pure transfer logic: volume listing, destination safety rules, rsync

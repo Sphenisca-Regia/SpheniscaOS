@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for wiring toplevel_manager into app_switcher.py.
 
 The switcher is a Gtk.Window, so it cannot be instantiated in a headless

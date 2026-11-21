@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Serve the current cast item to a speaker on the LAN.
 
 Only stdlib. One token path is valid at a time; setting a new item

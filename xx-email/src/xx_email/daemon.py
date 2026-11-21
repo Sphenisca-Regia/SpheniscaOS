@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Background poll service for milestone 8 (no GTK, worker process).
 
 The poller lives in the systemd user service xx-email-sync.service

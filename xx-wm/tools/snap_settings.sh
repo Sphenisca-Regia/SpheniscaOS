@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Render the in-shell Settings (menu, every category subpage at each
 # viewport, and the sheets/menus its rows open) for every theme.
 #   xx-wm/tools/snap_settings.sh OUTDIR [theme ...]

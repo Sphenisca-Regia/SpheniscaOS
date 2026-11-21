@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MIME from extension, for Properties and open-with display.
 
 Port of the Android ``Mime`` JVM seam: the ``ACTION_VIEW``/Share

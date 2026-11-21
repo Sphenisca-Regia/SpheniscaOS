@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of FtsEscaperTest: raw input never reaches MATCH."""
 
 from xx_email.db import escape_fts_prefix_query as escape

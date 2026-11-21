@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """First-run directories follow XDG and stay per app."""
 
 import os

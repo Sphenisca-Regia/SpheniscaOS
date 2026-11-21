@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Display text (fmt.py): times, speed, time left, initials."""
 
 from xx_audiobook import fmt

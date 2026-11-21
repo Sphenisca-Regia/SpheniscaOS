@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real-service playback: a generated tone through GStreamer (fakesink).
 
 No audio device is needed; the backend runs with audio-sink=fakesink and

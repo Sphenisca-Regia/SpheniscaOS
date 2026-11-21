@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Account detail page: live code, edit, reveal, move, delete. Linux
 mapping of Android `ui/AccountDetailScreen.kt`."""
 

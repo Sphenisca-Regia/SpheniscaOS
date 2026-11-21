@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L5 Broadway smoke test: real import/export page over seeded data.
 
 Builds the real contacts window plus the new import/export page against

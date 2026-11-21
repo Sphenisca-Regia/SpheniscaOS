@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GLib wake-up scheduling (Linux half of scheduler/ExactScheduler.kt).
 
 Android registers each ring with AlarmManager (`setAlarmClock` for alarms,

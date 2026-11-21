@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """radio_wire: YouTube wiring, first run, service entry and GUI side.
 
 No network, no real accounts, no real system: fixtures and fakes only.

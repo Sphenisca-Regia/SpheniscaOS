@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Plain-text body tests: sanitizer, HTML conversion, render choice.
 
 Ports the thread-body contract (§2.9): text/plain wins, HTML converts

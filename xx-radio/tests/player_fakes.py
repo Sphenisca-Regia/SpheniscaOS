@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared doubles for player tests: fake clock, file:// proxy, Ogg baking.
 
 The fake proxy implements the radio_m2 StreamProxy contract surface the

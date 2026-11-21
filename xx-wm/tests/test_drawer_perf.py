@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Drawer cost per keystroke and per app-monitor burst: entries carry their
 folded search keys and .desktop mtime from the index refresh, so search
 folds only the query and a populate stats nothing; a rescan that changes

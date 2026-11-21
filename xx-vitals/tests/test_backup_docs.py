@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Backup-exclusion documentation names every store and its posture."""
 
 from pathlib import Path

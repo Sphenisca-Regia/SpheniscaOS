@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Fresh-interpreter driver for the Minimal Mode live test.
 
 Run like broadway_probe_app.py (GDK_BACKEND=broadway against a live

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MPRIS property/Seeked tests against the real service on a private bus.
 
 Runs tests/mpris_driver.py under dbus-run-session, so nothing touches the

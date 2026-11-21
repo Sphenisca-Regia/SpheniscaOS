@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L3 hardening: atomic config writes + shared xx_ui theme follow."""
 import json
 import os

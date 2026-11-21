@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Overlay first run: model download in progress (state only)."""
 win._downloading = True
 win._progress.set_visible(True)

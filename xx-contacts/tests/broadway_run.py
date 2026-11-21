@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Run a Broadway driver subprocess with one connection-error retry.
 
 A contacts Broadway run once hit "Connection reset by peer": the

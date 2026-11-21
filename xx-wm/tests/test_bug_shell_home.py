@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane bug_shell home/shell findings: 5, 11, 14.
 
 5: startup must not permanently delete home slots when the app index is

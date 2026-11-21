@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Phone-fit pins: a code is never cut, rows never squeeze a button."""
 
 from __future__ import annotations

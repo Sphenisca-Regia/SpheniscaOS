@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Byte-exact YAML-frontmatter view of one Markdown note.
 
 Port of ``core/Frontmatter.kt`` (design sections 4.3, 8): parsing is

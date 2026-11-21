@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Prefs defaults mirror Android AppPrefs; speed/rewind clamp."""
 
 from xx_audiobook import prefs as prefs_module

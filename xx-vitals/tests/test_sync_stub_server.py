@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sync over real HTTP on 127.0.0.1: ports of SyncEnginePushTest,
 SyncEnginePullTest, SyncEndToEndTest, HttpSyncApiTest and CleartextPolicyTest.
 

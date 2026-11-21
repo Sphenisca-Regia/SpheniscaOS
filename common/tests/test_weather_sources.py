@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of NwsSourceTest, OpenMeteoSourceTest and CacheStampTest: recorded
 fixtures in fixtures/weather/ stand in for the network, exactly like the
 JVM resource files."""

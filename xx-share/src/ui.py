@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-share GTK4 UI in the XX design language.
 
 Three tabs (Share, History, Settings) built only from

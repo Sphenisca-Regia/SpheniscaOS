@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xxdb hardening: pairing without the code on the wire, main-loop hops,
 pre-auth limits, off means off, lock and trust rules, per-session
 streams, PTY lifecycle. Loopback sockets and temp certs only.

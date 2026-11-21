@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 # ruff: noqa: F821 (win/app/Gtk/GLib come from scripts/snap.py)
 _open_me = getattr(win, "open_me_card", None)
 if _open_me is not None:

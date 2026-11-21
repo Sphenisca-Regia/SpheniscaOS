@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway smoke test for the compose lane (needs a real display).
 
 Starts gtk4-broadwayd, seeds the real store with real-looking rows

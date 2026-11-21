@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Capture-rate audio to engine-rate audio (pure, no hardware).
 
 Capture may deliver 44.1/48 kHz stereo s16 while the engines consume

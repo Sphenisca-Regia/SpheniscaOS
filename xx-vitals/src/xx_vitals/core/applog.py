@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """On-phone log: stdlib logging to the state file plus an in-memory ring.
 
 Nothing is uploaded; Profile copies recent lines to the clipboard and shows

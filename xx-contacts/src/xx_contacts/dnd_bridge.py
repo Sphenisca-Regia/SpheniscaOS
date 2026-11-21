@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Starred-contacts bridge toward the XX-WM Do-Not-Disturb exceptions.
 
 Pure helpers: collect starred numbers from contacts and merge them into

@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Build the river compositor xx-os carries: the pinned upstream commit with
 # every patch in patches/ applied in name order.
 #

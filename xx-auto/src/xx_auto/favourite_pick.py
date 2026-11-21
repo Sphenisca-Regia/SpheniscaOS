@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Primary-number pick for starred contacts (port of FavouritePick)."""
 
 from __future__ import annotations

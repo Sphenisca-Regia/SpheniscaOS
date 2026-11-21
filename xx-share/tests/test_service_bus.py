@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Service wiring added for the UI milestone: history, signals, sends."""
 import service as service_module
 from config import ShareConfig

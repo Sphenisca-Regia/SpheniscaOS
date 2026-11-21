@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Worker results come back on the posting thread; stale ones are dropped."""
 
 import queue

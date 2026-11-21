@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """HOTP (RFC 4226) and TOTP (RFC 6238). Port of Android `engine/Hotp.kt`,
 `engine/Totp.kt` and `engine/Digest.kt`."""
 

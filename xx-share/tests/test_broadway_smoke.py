@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway smoke test: the real ShareWindow on a seeded temp HOME.
 
 Seeds through the real store APIs (ShareConfig, HistoryStore,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """font_theme hardening: the custom font family (settable via a restored
 backup) must never break CSS parsing or kill startup. Covers the sanitizer
 and the guarded provider load. Headless: apply_global_font runs against a

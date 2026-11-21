@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for Nope-Mode: derived state, the launch gate, silent drops.
 
 Ports the Android JVM tests (NopeController truth table, midnight-crossing

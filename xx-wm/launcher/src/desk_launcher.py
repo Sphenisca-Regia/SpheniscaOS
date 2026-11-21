@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Docked launcher: tapping Super (or Alt+Tab) opens the shell's own app
 search as a centered prompt on the monitor that has focus.
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Firewall settings section: one row; the firewall follows the features.
 
 One entry point per feature: SSH, wireless debugging, KDE Connect,

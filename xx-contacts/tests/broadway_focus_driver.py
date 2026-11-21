@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver for the L3 round-3 focus tests.
 
 Runs one focus scenario against a real GTK display (the parent pytest

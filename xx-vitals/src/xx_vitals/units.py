@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Display-unit conversions. Pure port of core/UnitConvert.kt.
 
 Storage is always kilograms and metres; conversion happens at the view

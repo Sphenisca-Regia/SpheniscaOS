@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Power long-press contract + fingerprint node routing (headless).
 
 The key-up handler must blank only when the press was short: after a fired

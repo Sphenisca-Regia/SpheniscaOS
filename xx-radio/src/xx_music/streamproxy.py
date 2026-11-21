@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """A local loopback proxy between the player and an audio source.
 
 The player never plays a raw upstream address directly: some origins only

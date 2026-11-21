@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GUI write-helper tests: vCard payloads and D-Bus error mapping.
 
 These drive ``service_client`` — the exact helper the list, detail

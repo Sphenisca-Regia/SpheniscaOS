@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Demo snapshots for screenshots and smoke tests (no D-Bus needed)."""
 
 from __future__ import annotations

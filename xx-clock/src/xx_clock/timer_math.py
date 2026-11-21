@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure timer math (port of time/TimerMath.kt)."""
 
 from __future__ import annotations

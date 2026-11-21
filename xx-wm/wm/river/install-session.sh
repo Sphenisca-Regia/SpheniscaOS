@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Install xxwm and the "XX-WM (river)" greeter session next to the phoc
 # one, after `sh build.sh --install` and `cargo build --release` in wm/.
 # The session needs wlr-randr for output scales (Debian: wlr-randr).

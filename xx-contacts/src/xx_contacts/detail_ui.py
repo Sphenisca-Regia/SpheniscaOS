@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L3 contact detail page pushed on the list's ``Adw.NavigationView``.
 
 Phone-first 360x720: a compact back header with an edit action, a big

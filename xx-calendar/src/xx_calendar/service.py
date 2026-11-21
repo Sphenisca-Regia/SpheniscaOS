@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Session-bus calendar service: ``io.piercingxx.Calendar`` (Revision 2 §2).
 
 Headless entry: ``xx-calendar --service`` owns the bus name, serves

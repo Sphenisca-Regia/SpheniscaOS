@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure lock-screen decisions (GTK-free, unit-testable headlessly):
 notification-line formatting, the swipe-to-unlock rule and the lockout
 resume/clock-jump rule.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of the Android xx-weather JVM suites: LogicTests, FmtHiloTest,
 ZipGeocoderTest, PlacesCodecTest, AlertEvaluatorTest (+ZipAlertCodecTest),
 RefreshUiTest and HourlyOnDateTest. Same cases, same pins."""

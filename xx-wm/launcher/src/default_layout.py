@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Default home layout seeding on first boot.
 

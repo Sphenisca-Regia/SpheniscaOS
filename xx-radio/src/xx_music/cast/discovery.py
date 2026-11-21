@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Find Cast devices on the LAN without blocking the main loop.
 
 The daemon over D-Bus (``org.freedesktop.Avahi``) comes first; when it

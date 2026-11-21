@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Render every TxxT screen in four themes and montage one labeled contact
 # sheet per theme into OUTDIR, plus fit checks: every screen at 320 px
 # wide and at large text (text-size scale 1.5) on 360 px, montaged into

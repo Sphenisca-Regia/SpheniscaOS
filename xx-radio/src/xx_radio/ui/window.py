@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The XX-Radio window: the xx_music shell plus this app's own screens.
 
 Adds, through ``xx_music.ui.context.Hooks``: Settings › Account (browser

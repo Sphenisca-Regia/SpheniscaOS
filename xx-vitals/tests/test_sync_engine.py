@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of SyncEnginePushTest + SyncEnginePullTest + end-to-end via fakes.
 
 No network: SyncApi is the FakeSyncApi in-memory transport. Covers queue

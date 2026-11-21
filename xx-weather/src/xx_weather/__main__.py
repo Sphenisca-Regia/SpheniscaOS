@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Run the app from a checkout: PYTHONPATH=src python3 -m xx_weather."""
 import sys
 

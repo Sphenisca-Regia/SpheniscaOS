@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Opt-in malware scan and report-only security check (ref virus-scan.sh).
 
 Clamscan only (never clamd), lowered priority, hard size limits. The

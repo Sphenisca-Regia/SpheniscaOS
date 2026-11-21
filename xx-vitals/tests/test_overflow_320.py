@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """320 px overflow audit: every page at the smallest supported width.
 
 Spawns gtk4-broadwayd, runs the REAL production window at 320x640 in a

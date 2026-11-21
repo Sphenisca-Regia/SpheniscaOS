@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 editor-model tests: validation, preview, dirty, lossless apply."""
 
 import pytest

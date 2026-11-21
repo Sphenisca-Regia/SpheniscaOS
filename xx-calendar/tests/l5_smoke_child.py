@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway smoke child: builds the real window and reports markers.
 
 Runs in its own process (started by ``test_l5_broadway.py``) so the

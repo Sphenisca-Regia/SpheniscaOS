@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver: apply() + build every widget helper, pump the loop.
 
 Run as a subprocess by tests/test_broadway.py with GDK_BACKEND=broadway.

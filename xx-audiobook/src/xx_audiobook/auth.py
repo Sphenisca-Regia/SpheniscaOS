@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Estate origin rules, hub probe, estate login and 401/403 handling.
 
 Mirrors hub/EstateOrigin.kt, hub/HubDiscovery.kt (minus the provider: no

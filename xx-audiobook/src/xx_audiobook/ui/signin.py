@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sign in and the auth gate's first frame (ui/login/SignInScreen.kt,
 ui/App.kt).
 

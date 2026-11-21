@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Receiving HTTPS server: LocalSend v2 endpoints with held prepare-upload.
 
 The prepare-upload request stays open until the local user Accepts or

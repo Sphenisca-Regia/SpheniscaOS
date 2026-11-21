@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Server-synced bookmarks with a Room cache and a queue (M5).
 
 Mirrors data/repo/BookmarkRepository.kt: every change lands in Room

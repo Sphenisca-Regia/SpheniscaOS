@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Plain-text bodies for the thread view (stdlib only, no GTK, no WebKit).
 
 WebKit is outside the allowed stack, so bodies render as sanitized

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Screen-time / usage statistics: data collection layer (no UI).
 
 Counts foreground seconds per app_id while the screen is on and unlocked,

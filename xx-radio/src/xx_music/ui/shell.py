@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The window shell: core tabs, extra tabs from the AppSpec, bottom bar,
 the mini player above it, health banners, and Now Playing sliding up
 over everything.

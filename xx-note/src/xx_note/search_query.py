@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """FTS-safe search sanitizer (port of ``ui/grid/SearchQuery.kt``).
 
 Free user text becomes an inert token list the local index can match

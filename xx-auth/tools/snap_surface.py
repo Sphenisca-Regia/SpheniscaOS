@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Helpers for snap_all.sh navigation snippets (run inside snap.py with
 ``win``, ``app``, ``Gtk`` and ``GLib`` in scope; never imported).
 

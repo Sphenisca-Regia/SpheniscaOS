@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Backend choice: sherpa when ready, else vosk, else an explicit gap.
 
 Probing never raises and never downloads: a backend is available only

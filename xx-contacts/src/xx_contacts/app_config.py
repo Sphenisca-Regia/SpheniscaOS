@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App preferences. Pure module: JSON file at a given path, no GTK."""
 
 from __future__ import annotations

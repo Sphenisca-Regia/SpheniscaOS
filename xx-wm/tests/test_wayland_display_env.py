@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """WAYLAND_DISPLAY handling: children spawned by the shell (wlopm/grim,
 waydroid) must target the session the shell actually runs on, not a
 hardcoded wayland-0. The env maps are built at module import time, so each

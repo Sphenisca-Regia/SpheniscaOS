@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Wayland registry lifetime: the WlRegistry proxy must outlive setup.
 
 pywayland resolves ``new_id`` event arguments (e.g. the foreign-toplevel

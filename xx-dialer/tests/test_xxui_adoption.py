@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx_ui adoption: the app holds no theme reader and no CSS of its own.
 
 Styling comes from ``common/xx_ui`` (``xx_ui.apply`` once at startup,

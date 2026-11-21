@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Rules ends in an About section opening the licenses dialog."""
 from pathlib import Path
 

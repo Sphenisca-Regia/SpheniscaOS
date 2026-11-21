@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for runtime-generated Wayland protocol bindings.
 
 The shell no longer vendors generated pywayland modules: the installed

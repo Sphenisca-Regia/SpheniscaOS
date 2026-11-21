@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Keypad page: large keys, T9 matches, label-driven number field.
 
 The number field is a ``Gtk.Label`` driven by the keypad — never a

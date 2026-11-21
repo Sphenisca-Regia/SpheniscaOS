@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """OAuth loopback flow tests: PKCE, state validation, and token endpoint.
 
 Covers AuthRepository/OAuthConfig behavior as ported to the loopback

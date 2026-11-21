@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W2 lock screen + idle behavior (blank-driven auto-lock).
 
 Headless: real widgets are never constructed. window/main/lock_screen/

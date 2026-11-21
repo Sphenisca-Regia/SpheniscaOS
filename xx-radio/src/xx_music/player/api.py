@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The window-to-service API: JSON payloads of contract models over D-Bus."""
 
 from __future__ import annotations

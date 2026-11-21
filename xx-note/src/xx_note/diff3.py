@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Line-based three-way merge (port of ``core/Diff3.kt``).
 
 Classic diff3 from the published algorithm: O(nm) LCS alignment of

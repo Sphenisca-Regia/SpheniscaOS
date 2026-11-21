@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Software-update flow helpers: reboot notice, update log, dots row.
 
 File reads and the ``xx-apps-update --check`` probe only (no D-Bus): the

@@ -38,4 +38,4 @@ xx-note --sync-once   # headless WebDAV pass (systemd timer entry)
 
 ## License
 
-GPL-3.0-only. See [LICENSE](../LICENSE).
+Mozilla Public License 2.0. See [LICENSE](../LICENSE).

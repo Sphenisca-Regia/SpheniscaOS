@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Now Playing, sliding up over the shell; Lyrics and Up next inside it;
 the sleep sheet.
 

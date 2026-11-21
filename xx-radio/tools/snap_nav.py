@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Navigation driver for scripts/snap.py (``win`` and ``app`` in scope).
 
 SNAP_TARGET picks the surface. Headless Broadway never ticks the frame

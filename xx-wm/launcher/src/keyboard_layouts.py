@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Primary keyboard layout contract shared with the setup screen.
 
 The ``keyboard_layout`` key in ``~/.config/xx-wm/config.json`` holds the

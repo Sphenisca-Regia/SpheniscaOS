@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Owner server core: device store, command queue, pure HTTP handler.
 
 The server stores location reports as opaque ciphertext (`box` field);

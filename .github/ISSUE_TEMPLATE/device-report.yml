@@ -1,5 +1,5 @@
 name: Device report
-description: You ran xx-os on a phone. Tell us what worked and what didn't.
+description: You ran SpheniscaOS on a phone. Tell us what worked and what didn't.
 labels: [device, triage]
 body:
   - type: markdown
@@ -23,7 +23,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: xx-os commit
+      label: SpheniscaOS commit
       placeholder: 4c88daf
   - type: checkboxes
     id: works

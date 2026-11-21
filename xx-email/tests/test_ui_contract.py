@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Device-rule contract for the mailbox stack (headless static checks).
 
 The runtime traps in XXWM_RULES.md bit on a real phone while unit

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Static guards for the first-launch crash and the screenshot fixes.
 
 These read the sources (never construct widgets, so they run headless)

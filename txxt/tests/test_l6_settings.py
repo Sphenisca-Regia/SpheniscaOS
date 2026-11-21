@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L6 settings/blocking/quarantine rules tests: store round-trip, rule sync, dialer import."""
 
 import json

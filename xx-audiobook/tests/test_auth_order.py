@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Auth order: hub probe -> stored token -> Sign in (no provider on Linux).
 
 Covers decide/resolve/login/renew, the untrusted-hub rule, adopt/wipe on

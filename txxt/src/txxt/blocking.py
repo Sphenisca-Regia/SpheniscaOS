@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Inbound blocking engine.
 
 Pure-Python port of the Android blocking stack:

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings helpers and config round-trips (headless, no GTK window)."""
 from __future__ import annotations
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings: the model card mid-download (no network: state only)."""
 from xx_captions import config
 

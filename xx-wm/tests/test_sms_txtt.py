@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SMS deferral to the device's messaging app (Chatty and TxxT).
 
 When a full messaging app owns its bus name it posts its own

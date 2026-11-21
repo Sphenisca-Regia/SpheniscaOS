@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Silenced-record cards have one owner: the policy service process.
 
 The service posts the batched cards when ``NoteCall`` reports an

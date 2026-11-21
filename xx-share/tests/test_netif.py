@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Interface filtering with a fake sysfs tree and fake ioctl."""
 import socket
 import struct

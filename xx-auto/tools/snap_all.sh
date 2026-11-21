@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Seeded screenshots of every xx-auto screen, one labeled sheet per run:
 #   xx-auto/tools/snap_all.sh OUTDIR
 #   THEMES="amoled paper forest" SIZES="450x1000 360x800" ... OUTDIR

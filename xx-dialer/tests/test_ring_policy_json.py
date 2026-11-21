@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of RingPolicyJsonTest (app/.../backup/RingPolicyJsonTest.kt).
 
 Pure codec: the ring-policy JSON round-trips (BK-1). Star tiers never

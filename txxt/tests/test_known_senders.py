@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Unknown-sender fix tests: per-sender known verdicts.
 
 A sender is known when xx-contacts' ``LookupNumber`` returns a

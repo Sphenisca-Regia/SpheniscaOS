@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of ProfileEditModelTest: goals, height, birth year validation."""
 
 from xx_vitals.core import profile_edit

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The LAN speaker server: tokens, single item, lifetime. Loopback only."""
 
 import socket

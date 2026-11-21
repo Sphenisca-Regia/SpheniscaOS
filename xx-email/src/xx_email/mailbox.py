@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Mailbox / thread / search model for milestone 6 (stdlib only, no GTK).
 
 Ports the UI-driving parts of the Android app that stay unit-testable:

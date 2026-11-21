@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """A small Cast V2 sender: TLS to port 8009, no new dependencies.
 
 Trust: receivers serve self-signed certificates, so this socket skips

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Maps-tile handoff targets (port of Android MapsLaunch)."""
 
 from __future__ import annotations

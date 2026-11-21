@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real display power-off over zwlr_output_power_manager_v1 (version 1).
 
 phoc 0.56 offers the output-power manager, which cuts panel/GPU power and

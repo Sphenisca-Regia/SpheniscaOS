@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sending client: fingerprint-pinned HTTPS against a peer's server.
 
 Every TLS connection verifies the peer certificate fingerprint BEFORE

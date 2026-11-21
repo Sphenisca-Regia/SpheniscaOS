@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Long-press action menus shared by the app drawer and home folder members —
 the shell's counterpart to the Android launcher's AppItemActions.

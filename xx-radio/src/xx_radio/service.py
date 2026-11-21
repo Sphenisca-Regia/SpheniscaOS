@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The xx-radio player service entry point (headless, D-Bus activatable).
 
 Builds the service from the AppSpec: the YouTube engine from

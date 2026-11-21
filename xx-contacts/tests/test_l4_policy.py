@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 static guards: the new pages must keep the XXWM runtime traps shut.
 
 These read the sources (never construct widgets, so they run headless)

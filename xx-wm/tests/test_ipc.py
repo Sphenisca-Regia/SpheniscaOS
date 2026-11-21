@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """IPC server hardening: runtime-dir auto-creation, socket 0600, bounded
 reads (silent client cannot stall the loop), and handler-error isolation.
 The GLib watch callback is driven manually against a fake GLib, so no main

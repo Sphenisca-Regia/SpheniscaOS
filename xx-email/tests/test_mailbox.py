@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Mailbox model tests: folder dispatch, pagination keys, local-first
 actions with undo, offline search projection, selection, tap routing.
 

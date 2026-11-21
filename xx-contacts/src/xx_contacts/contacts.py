@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Contact model and lookup helpers. EDS binding arrives in a later lane.
 
 This module stays importable without EDS typelibs: the EBook import

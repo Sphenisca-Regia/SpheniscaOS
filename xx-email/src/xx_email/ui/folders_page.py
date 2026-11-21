@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Folders page: accounts plus every mailbox folder (thin view).
 
 Replaces the old folder bottom-sheet dialog with a full page so it

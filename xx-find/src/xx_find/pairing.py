@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pairing bundle: one-time QR payload plus a short numeric check code.
 
 The owner's trusted device calls ``Store.pair_device`` (which returns the

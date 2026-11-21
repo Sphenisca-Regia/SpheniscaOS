@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Notifications leave the shade once their thread is read.
 
 txxt posted a card per inbound SMS but never called

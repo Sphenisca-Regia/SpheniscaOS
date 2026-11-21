@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Captions capture nodes light the shell privacy dot (real classifier).
 
 Loads the REAL classify_node from the shell tree (lane copy first,

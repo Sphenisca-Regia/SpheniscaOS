@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Collector one-shot: opt-in gate, hardware verbatim, no-source honesty."""
 
 from xx_vitals import prefs

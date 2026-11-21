@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings Gestures card: system lisgd slots exposed for rebinding.
 
 The four system slots (swipe_up_short/swipe_up_long/swipe_down_top/

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver for the row-alignment regression test.
 
 Builds the REAL contacts window against a seeded temp database with two

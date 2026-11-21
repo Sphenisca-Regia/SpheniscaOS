@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Fabric login + libsecret boundary: credentials go to xx-chat only, the
 token carries display claims without verification, and secrets never land in
 config.json or SQLite. No test touches a real keyring or session bus."""

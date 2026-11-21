@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sync wire helpers: endpoint paths, cursor handling, status mapping.
 
 Mirrors the contract in sync/SyncApi.kt and HttpSyncApi.kt status mapping

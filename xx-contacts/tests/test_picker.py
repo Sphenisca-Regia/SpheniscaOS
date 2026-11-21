@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L6 picker tests: kinds/rows pure logic plus the held ``Pick`` reply.
 
 Fakes mirror the real library exactly: parameters are real

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Session-start wiring checks for main.py (W1-C).
 
 ``_show_shell`` constructs a second ``PowerMenu`` for the hardware

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """JSON vault store. Linux mapping of Android's Room `VaultDao`: the same
 row contract (insert aborts on duplicate id, update throws when absent,
 ordered reads, HOTP-only `advance_counter`, C17 reorder), persisted as one

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver for the row-hairline audit (not collected by pytest).
 
 Builds a real thread_list_view, fills it through

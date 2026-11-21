@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Battery-use settings section: honest per-app estimates.
 
 Linux has no per-app power meter, so this combines what is measurable:

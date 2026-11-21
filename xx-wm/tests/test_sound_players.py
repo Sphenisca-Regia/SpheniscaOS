@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Ringtone and notification sounds (sound.py, the main.py hookup).
 
 - The ringtone loop and notification sounds use separate players: a

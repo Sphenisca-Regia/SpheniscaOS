@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Stock Phosh after a startup crash loop (launcher/data/xx-wm-session.in).
 
 The real session script runs under `sh` with a fake phoc and a fake

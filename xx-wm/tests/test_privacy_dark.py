@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The privacy monitor's thread sleeps while the screen is dark: it
 woke every 3 s whether or not anything could show its indicators, and
 catches up at once when the screen comes back."""

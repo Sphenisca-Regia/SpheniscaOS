@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Setup-flow tests: first-run account add, sign-out, keyring lock.
 
 Covers the milestone 4 UI lane's headless side: the reported

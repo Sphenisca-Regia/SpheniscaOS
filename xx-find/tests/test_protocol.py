@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Protocol validation: signatures, counters, expiry (no clock but `now`)."""
 
 from __future__ import annotations

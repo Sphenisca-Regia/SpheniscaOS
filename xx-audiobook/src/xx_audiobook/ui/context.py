@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Everything the pages share (AppGraph on Android), plus the player model
 and the cover loader.
 

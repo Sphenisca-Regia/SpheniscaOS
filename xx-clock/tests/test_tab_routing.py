@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tab routing (the portable half of ui/ClockSystemIntentsTest.kt).
 
 Android manifest assertions are OUT (no manifest). What stays: a launch

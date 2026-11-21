@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Collector-owned step state: the toggle is re-checked in the loop and
 processes never overwrite each other's config fields.
 

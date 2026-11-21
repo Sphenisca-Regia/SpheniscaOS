@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Which MPRIS player is active (port of Android SessionPick)."""
 
 from __future__ import annotations

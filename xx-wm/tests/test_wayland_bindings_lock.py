@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Binding generation is serialized and swapped in atomically: two
 workers used to rmtree the cache under each other's scanner (Librem,
 pywayland 0.4.19: "No such file ... wayland.py")."""

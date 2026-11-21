@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of core/PhoneNumbersTest.kt.
 
 Locks the format-tolerant sender comparison: every variant a carrier or

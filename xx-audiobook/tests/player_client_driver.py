@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """PlayerClient driver for test_player_client.py (under dbus-run-session).
 
 Runs the REAL PlayerService (FakeBackend, in-memory DB, offline) on the

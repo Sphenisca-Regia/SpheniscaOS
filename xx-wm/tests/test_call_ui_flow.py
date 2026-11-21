@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """CallUI button flow + CallBar show/hide contract (P2-D, W1-A async).
 
 window.py already calls ``CallBar.show_bar(number)`` / ``hide_bar()`` and

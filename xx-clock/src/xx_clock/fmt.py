@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Time formatting helpers (port of util/Fmt.kt)."""
 
 from __future__ import annotations

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Discovery parsing for Avahi and zeroconf records. No network."""
 
 from xx_music.cast import discovery as d

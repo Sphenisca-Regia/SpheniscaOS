@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real-bus tests: activation, idle re-activation, sender-filtered Changed.
 
 Each driver runs under ``dbus-run-session`` with ``XDG_DATA_DIRS``

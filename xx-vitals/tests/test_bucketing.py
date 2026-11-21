@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of DayBucketingTest: UTC instant -> local day in the sample zone."""
 
 from datetime import datetime, timezone

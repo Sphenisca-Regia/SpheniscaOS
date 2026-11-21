@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared widgets for the music screens, thin over xx_ui.widgets.
 
 Art tiles (monochrome initials until the real art lands), song rows,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Backup v1 tests: byte-compatible read/write/restore (L4).
 
 Headless: no display, no GTK import.

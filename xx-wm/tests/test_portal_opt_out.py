@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The shell starts with the portal opted out (a stale portal cost 90 s of
 black screen at session start on the FLX1) but apps it launches keep the
 portal, which carries the dark color-scheme."""

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Render the stylesheet for a theme and install it on the display.
 
 ``render`` is pure. ``apply`` installs the CSS, forces the libadwaita

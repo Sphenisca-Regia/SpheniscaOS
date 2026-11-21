@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings load/save/clamp (plus the editor-save rule from
 ui/AlarmToggleThenSaveTest.kt, asserted at the prefs layer: drafts keep
 their own enabled flag, toggles persist)."""

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Card preview text (pure): the Android ``styledPreview`` in Pango markup.
 
 The first non-blank body lines, clipped like the Android card, with the

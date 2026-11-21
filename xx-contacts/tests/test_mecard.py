@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 Me-card tests: designate, resolve, and share one contact."""
 
 from xx_contacts import mecard, vcard

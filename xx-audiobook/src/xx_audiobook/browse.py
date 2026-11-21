@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Home shelves, browse views and collections (M3).
 
 Mirrors data/repo/HomeRepository.kt, ui/browse/BrowseViewModel.kt

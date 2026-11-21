@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """config.json robustness: a corrupt file is moved aside and never
 overwritten, junk home slots never reach the UI, defaults are never
 aliased, the font import saves only on the main thread and gestures.json

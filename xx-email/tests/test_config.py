@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Headless smoke tests for config parsing (no display, no GI imports)."""
 
 import json

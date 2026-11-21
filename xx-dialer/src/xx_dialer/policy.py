@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Ring-policy engine: pure Python, stdlib only.
 
 A faithful port of the Android core

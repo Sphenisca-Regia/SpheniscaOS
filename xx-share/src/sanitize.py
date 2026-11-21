@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Filename sanitization: stray path components never reach the disk.
 
 Received fileName values are sender-controlled, so every one is reduced

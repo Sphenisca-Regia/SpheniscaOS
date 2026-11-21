@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings pickers open in-window sheets, and Home & launcher matches the
 Android launcher's preference screen.
 

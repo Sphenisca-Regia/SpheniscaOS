@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Static guard against GTK3-isms and invented API (each one below crashed a
 real session while the headless suite stayed green): every signal the shell
 connects to must exist on some GTK4/Gdk/Adw/Gio type, and a few known

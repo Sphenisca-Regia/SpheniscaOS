@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Timer math (translation of time/TimerMathTest.kt). All clocks injected."""
 
 from xx_clock import timer_math as math

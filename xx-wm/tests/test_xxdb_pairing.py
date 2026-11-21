@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xxdb pairing + trust store: HMAC accept/reject/burn, expiry, 0600."""
 import os
 import stat

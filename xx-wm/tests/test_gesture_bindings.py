@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for gesture_bindings.py — generated lisgd system-level bindings.
 
 gestures.json stores action names (home, app_switcher, ...); lisgd can only

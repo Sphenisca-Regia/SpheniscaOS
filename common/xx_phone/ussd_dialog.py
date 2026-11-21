@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Text-first sheet for USSD replies and the ``*#06#`` IMEI.
 
 Shared by the XX-WM shell dialer and the xx-dialer app so a code typed in

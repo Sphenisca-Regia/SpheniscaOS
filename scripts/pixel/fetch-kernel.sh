@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Fetch a pinned kernel source tree for the Pixel 9 (tokay) bring-up.
 #
 #   fetch-kernel.sh grapheneos   downstream 6.1, GrapheneOS's tree (default)

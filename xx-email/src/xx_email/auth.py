@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """OAuth installed-app flow for XX Email (stdlib only, no GTK).
 
 Ports AuthRepository/OAuthConfig (ref/xx-email data/auth/): the Android

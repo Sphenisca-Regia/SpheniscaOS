@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Notification pipeline hardening: real GLib Variants where the fakes
 used to be more forgiving than the library.
 

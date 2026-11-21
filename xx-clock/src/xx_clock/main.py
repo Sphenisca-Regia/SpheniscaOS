@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-clock entry point: Adw.Application window or `--daemon` service.
 
 `xx-clock --daemon` runs the schedule-owning user service (no display).

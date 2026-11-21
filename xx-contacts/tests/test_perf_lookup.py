@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """LookupNumber answers from the in-memory index in < 5 ms per call."""
 
 import time

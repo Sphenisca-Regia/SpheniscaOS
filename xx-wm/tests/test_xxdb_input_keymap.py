@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xxdb keymap: letters map to the kernel's KEY_* codes."""
 import sys
 from pathlib import Path

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Root helper and nftables: caller strings never become nft grammar,
 per-app blocks fail closed, and the Firewall switch is a real drop policy.
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-wm.in keyboard watchdog: if xx-keyboard exits within a few seconds
 (e.g. too-new build on an older compositor), start phosh-osk-stevia or
 squeekboard instead so the session never ends up without a keyboard.

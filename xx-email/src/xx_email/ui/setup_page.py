@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """First-run setup page: BYO client ID plus Google sign-in (thin view).
 
 Ports SetupScreen over xx_email.auth (loopback flow) and

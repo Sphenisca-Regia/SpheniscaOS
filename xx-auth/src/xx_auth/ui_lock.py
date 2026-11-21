@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lock, first-run setup and app-lock settings pages. The lock model is new
 on Linux (Android used the Keystore + device lock): with a keyring the
 vault key is random and the password only gates the UI; without one the

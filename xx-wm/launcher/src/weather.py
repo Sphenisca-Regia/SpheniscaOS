@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Weather widget backend — Open-Meteo current conditions, no API key.
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Account flows. Port of the pure-JVM halves of Android
 `ui/AddAccountScreen.kt`, `ui/AccountListScreen.kt`,
 `ui/AccountDetailScreen.kt` and `ui/ImportExportScreen.kt`: add paths,

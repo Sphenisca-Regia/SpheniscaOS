@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Screen lock through ext-session-lock-v1 (river, sway, any compositor
 offering it except phoc).
 

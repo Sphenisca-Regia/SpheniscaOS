@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Post-hoc call record cards over org.freedesktop.Notifications.
 
 The dialer policy service owns every missed-call card; the shell posts

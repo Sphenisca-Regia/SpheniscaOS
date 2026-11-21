@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Location parsing/selection. No modem, no GeoClue daemon."""
 
 from __future__ import annotations

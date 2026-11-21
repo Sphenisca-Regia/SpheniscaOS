@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ytmusicapi responses into xx_music.engine models.
 
 Every function takes the decoded value one ``YTMusic`` method returns

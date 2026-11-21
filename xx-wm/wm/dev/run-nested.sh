@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Run river nested in the current Wayland session with xxwm as its window
 # manager, for development. Two outputs by default (WLR_WL_OUTPUTS) so the
 # handset and desktop policies can be watched side by side: make one window

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings.json backup unit: export/parse round-trip, never half-applied."""
 
 from __future__ import annotations

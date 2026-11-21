@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Live Markdown styling for the editor TextView.
 
 Applies ``Gtk.TextTag``s per line: headings (scale), bold/italic/strike

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for wiring the brightness slider to the HUD overlay + silent absence (plan T4).
 
 The running app (main.py) builds a Hud and passes it down the real call chain:

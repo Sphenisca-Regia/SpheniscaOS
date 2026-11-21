@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of BlocklistImportTest (app/.../util/BlocklistImportTest.kt).
 
 Offline blocklist import: messy real-world files parsed with no network.

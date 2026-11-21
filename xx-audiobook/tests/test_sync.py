@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Session sync: 15 s cadence, immediate writes, reopen rule, LWW."""
 
 import json

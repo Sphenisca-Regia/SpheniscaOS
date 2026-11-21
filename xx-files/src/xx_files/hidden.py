@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Dotfile rule: hidden unless the persisted toggle is on.
 
 Port of the Android ``Hidden`` JVM seam. The freedesktop Trash has no

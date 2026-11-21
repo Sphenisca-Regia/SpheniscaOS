@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lifecycle rules (translation of alarm/AlarmCoordinatorTest.kt).
 
 The coordinator drives an in-memory-behaving store with recorder hooks —

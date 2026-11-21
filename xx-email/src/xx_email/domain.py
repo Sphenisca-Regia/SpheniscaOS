@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure domain ports from the Android app (stdlib only, no GI/GTK).
 
 Ports dev.xxemail.domain (Folders, Recipients, Fts, LabelCsv,

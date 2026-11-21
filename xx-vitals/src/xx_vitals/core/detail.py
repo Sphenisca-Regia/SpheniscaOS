@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Metric detail aggregation. Port of ui/browse/MetricDetailModel.kt and
 ui/browse/WeightDetailModel.kt (pure parts).
 

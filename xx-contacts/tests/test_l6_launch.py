@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L6 launch tests: vCard MIME entry, ``--new --tel`` routing, ``.vcf`` open.
 
 Headless: command-line parsing drives ``ContactsApp.do_command_line``

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Diagnostics block and redaction: no cookie, SAPISID hash or token survives."""
 
 import json

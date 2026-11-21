@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Fake NetworkManager for test_download_nm.py (under dbus-run-session).
 
 Owns org.freedesktop.NetworkManager on the private session bus and

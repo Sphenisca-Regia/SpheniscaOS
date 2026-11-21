@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Outbox send pipeline: offline queue, undo race, scheduled drain.
 
 Ports ``MailRepository.enqueueSend``/``cancelQueuedSend``/

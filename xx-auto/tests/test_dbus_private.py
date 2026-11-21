@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MPRIS + xx-contacts over a private bus with fake players.
 
 Fakes mirror the real Gio traps: replies unpack to TUPLES of out-args,

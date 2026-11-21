@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Downloads + offline: manifest, Range resume, sha256, NM gating (M4).
 
 Mirrors download/BookDownloader.kt (Range against .part files, size +

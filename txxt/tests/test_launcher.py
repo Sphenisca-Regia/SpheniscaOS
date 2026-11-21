@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The installed launcher must be directly executable."""
 from pathlib import Path
 

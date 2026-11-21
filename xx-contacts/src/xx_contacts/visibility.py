@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """List visibility and row actions. Port of ContactVisibility.kt + RowActions.kt."""
 
 from __future__ import annotations

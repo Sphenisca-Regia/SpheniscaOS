@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane lp_info: weather unit, auto location, clock 12/24h, weather tap,
 mute-clears-notifications, and home screen-reader labels.
 

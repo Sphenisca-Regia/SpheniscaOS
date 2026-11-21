@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real-service contacts integration: dialer client vs xx-contacts.
 
 Starts the real ``xx-contacts`` service (read-only tree at

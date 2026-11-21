@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The process-wide client: one instance, one lock, mapped errors."""
 
 import sys

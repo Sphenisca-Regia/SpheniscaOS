@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Next-armed selection (translation of repo/NextArmedTest.kt)."""
 
 from xx_clock import alarm_logic as logic

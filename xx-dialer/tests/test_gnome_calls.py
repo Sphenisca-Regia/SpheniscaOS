@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GNOME Calls history importer tests.
 
 Fixtures reproduce the assumed upstream shape (GNOME/calls

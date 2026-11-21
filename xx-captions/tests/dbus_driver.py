@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Driver for the lane-2 D-Bus integration test (runs under dbus-run-session).
 
 Starts the REAL xx-captions service (fake engine + fake capture via

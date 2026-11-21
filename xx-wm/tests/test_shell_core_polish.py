@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane vx_shell_core: single-source themes, hidden apps search-only, home alignment.
 
 Headless: config/home_page/drawer_page import without a display; widget

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Manual weight + activity entry. Thin Adw dialogs over store/entries.
 
 Validation mirrors WeightEntryModel/ActivityEntryModel: storage is always

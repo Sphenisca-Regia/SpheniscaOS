@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xxdb end-to-end loopback: real TLS daemon + client over 127.0.0.1.
 
 Covers pair -> shell echo -> screenshot (stubbed) with mutual TLS, the

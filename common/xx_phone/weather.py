@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared weather fetch/parse/cache logic for the XX phone suite.
 
 Port of the Android xx-weather Play-edition pipeline (NWS primary,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Store: prefs, selection, units, triggers, caches. No network."""
 import json
 import os

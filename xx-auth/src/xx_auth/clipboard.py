@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sensitive clipboard copy with auto-clear. Port of Android
 `ui/CodeClipboard.kt` with the lane's 30 s timeout: the clip is cleared
 again only when it still holds our code (never something the operator

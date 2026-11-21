@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Conversation thread page: messages, in-thread search, compose.
 
 The page reads its thread from the SQLite store for display and sends

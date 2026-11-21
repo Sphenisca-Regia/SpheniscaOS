@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Ports of the Android app's names/match/vCard/groups unit tests.
 
 Sources: ``ref/xx-contacts/app/src/test/...`` — only the pure-logic tests

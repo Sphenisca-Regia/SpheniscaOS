@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Fresh-interpreter driver for the 320 px overflow audit.
 
 Builds the REAL production window requesting 320x640 (the smallest

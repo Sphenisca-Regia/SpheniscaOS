@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The offline audio cache on top of the loopback proxy's files.
 
 The proxy tees every played track into ``cache_dir`` as ``<track_id>``

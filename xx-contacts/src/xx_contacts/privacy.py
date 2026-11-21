@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Private-file helpers: contact data is readable only by its owner.
 
 Directories the app owns are mode 0700 (created or repaired on open);

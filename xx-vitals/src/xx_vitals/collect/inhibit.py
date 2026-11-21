@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """logind sleep inhibitor for the resident step sampler.
 
 Linux phones suspend to RAM when the screen goes off, and while

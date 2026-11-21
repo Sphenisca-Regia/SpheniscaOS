@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Wave 6 UI-pass lane (w6_ui_pass): Wave 2 items 1/2/3/9/10 + Wave 4.
 
 Headless unit seams for every behavior this lane changed, plus the

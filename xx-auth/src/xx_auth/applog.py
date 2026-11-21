@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Log redaction. Port of Android `AppLog.redact`: the second guard that
 strips secrets, otpauth URIs, passwords and e-mail addresses from every
 diagnostic line. The Linux port keeps redaction plus an in-memory ring only:

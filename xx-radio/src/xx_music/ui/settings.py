@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings: the app's own sections (account, playback engine), then
 Playback, Downloads and storage, Diagnostics and About.
 
@@ -365,7 +366,7 @@ class SettingsPage:
         entries = ui.hooks.licenses() if ui.hooks.licenses else \
             widgets.standard_license_entries(ui.spec.name)
         box.append(nav_row("Open-source licenses",
-                           f"{len(entries)} components, GPL-3.0 app",
+                           f"{len(entries)} components, MPL-2.0 app",
                            lambda: self.open_licenses(entries), last=True,
                            arrow=False))
         return box

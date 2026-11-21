@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Cairo month grid: theme-token drawing that redraws on theme change."""
 from __future__ import annotations
 

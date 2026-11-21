@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """IPC page-driving verbs for rigs (no gesture timing needed).
 
 page.home / page.apps / page.settings switch the stack page and

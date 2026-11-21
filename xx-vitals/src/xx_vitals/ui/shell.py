@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Application shell: xx_ui theme, four tabs, entry FAB, overflow menus.
 
 The window is a plain Gtk.ApplicationWindow with no titlebar chrome; every

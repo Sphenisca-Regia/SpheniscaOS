@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Regenerate the shade's symbolic glyphs from their stroke sources.
 
 The shade design draws every glyph on a 24 px grid with a 1.6 px round

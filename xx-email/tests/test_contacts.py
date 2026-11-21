@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Contact display-name tests: xx-contacts first, header fallback.
 
 Covers review note 1 — recipient/sender names come from xx-contacts'

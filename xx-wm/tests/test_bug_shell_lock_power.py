@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lock / power findings from the other-shell reviews (reference/_findings).
 
 1: lock swipe unlocked on velocity alone: a 10 px pocket flick at speed

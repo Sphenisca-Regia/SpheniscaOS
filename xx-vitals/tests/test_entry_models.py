@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of WeightEntryModelTest, ActivityEntryModelTest, DailyEntryModelTest."""
 
 from datetime import date

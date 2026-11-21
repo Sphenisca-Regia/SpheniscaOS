@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Trash expiry math (port of ``ui/trash/TrashMath.kt``).
 
 Keep's rule verbatim (D9): trash expires after 7 days, and expiry is the

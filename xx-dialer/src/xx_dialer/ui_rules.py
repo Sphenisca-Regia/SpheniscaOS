@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Rules page: the screening control room.
 
 Renders the pure shapes from ``rules.py`` over the warm SQLite store

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Day bucketing: UTC instant -> local calendar day in the sample's zone.
 
 Port of `:core` DayBucketing.kt. The zone comes from the sample, never the

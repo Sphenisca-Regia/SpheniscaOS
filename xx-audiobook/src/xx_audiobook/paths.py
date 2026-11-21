@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Central XDG runtime directories for the app.
 
 Every path the app writes lives under one of these. Call ensure_app_dirs()

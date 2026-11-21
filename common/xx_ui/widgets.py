@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Thin builders for the XX components: plain Gtk widgets with the
 ``xx-`` CSS classes applied. No subclasses, no framework. Uppercase is
 applied in code (GTK CSS has no text-transform).
@@ -1226,11 +1227,11 @@ class LicenseEntry:
 
 
 #: The suite's own license, as the apps' AppStream metainfo states it.
-APP_SPDX = 'GPL-3.0-only'
+APP_SPDX = 'MPL-2.0'
 
 
 def standard_license_entries(app_name: str, spdx: str = APP_SPDX) -> list:
-    """The app's own license (``spdx``, default the suite's GPL-3.0-only)
+    """The app's own license (``spdx``, default the suite's MPL-2.0)
     plus the third-party components every XX app uses at runtime:
     GTK/libadwaita/PyGObject, the ``phonenumbers`` display engine, the
     xx_ui fonts and icons. One data table per app; each app passes its

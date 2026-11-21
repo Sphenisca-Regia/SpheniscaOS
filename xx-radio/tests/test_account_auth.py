@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """M7 account logic: header/cURL parsing, secret store, cookie jar, OAuth.
 
 All fixtures use invented cookies, accounts and tokens. Nothing here

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of SettingsParsingTest (app/.../data/SettingsParsingTest.kt).
 
 Pure checks for the settings parsing seams (design §7, §12, §15).

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Ratchet on ``except Exception: pass`` (ruff S110) in launcher/src.
 
 A broad handler whose body is only ``pass`` hides the failure; use

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane lp_folders: folder management parity and drag-to-reorder.
 
 Headless behavior seams for every item (folder menu, counts, name

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tailscale shade tile: CLI backend (against a fake `tailscale` on PATH)
 and the panel wiring (tile gate, state line, sign-in link)."""
 import json

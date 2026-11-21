@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SQLite persistence (port of data/ClockStore.kt).
 
 Layout mirrors the Android store: definitions (alarms, timers) separate

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Policy1 over fakes plus a real private-bus CheckNumber round trip.
 
 Fakes mirror the Gio traps (tuple replies, two-arg callbacks, seven-arg

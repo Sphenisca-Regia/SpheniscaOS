@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Vosk small-model adapter (fallback engine).
 
 Same contract as the sherpa adapter: 16 kHz mono float32 chunks in,

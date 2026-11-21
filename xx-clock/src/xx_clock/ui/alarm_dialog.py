@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Alarm editor dialog: time, weekday chips, label, sound, vibrate.
 
 Mirrors dialog_alarm_edit.xml: title, a time picker, Repeat day chips,

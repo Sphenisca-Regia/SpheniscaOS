@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Location providers: GeoClue2 client plus ModemManager fallback.
 
 Pure parsing and fix selection stay in `location.py`; everything here

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure-logic ports of the Android JVM tests (SessionPick, Elapsed,
 FavouritePick, CarConnectDecision, SettingsMapper, MapsLaunch,
 DriveTiles)."""

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Worker-backed operations against temp trees (no real system)."""
 import os
 

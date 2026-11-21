@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Run XX-Radio from a checkout without installing."""
 
 from xx_radio.main import main

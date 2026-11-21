@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Finding 12 repro: Search misattributes email senders to phone contacts.
 
 Mail from ``john1@example.com`` carries the digit "1", which prefix/suffix

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """scrypt tests — RFC 7914 §12 vectors. Translated from Android
 `setup/ScryptTest.kt`; they pin `scrypt_kdf.derive` (hashlib.scrypt) to the
 RFC answers, plus the production-parameter guard."""

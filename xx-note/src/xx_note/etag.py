@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """HTTP validator strength + body digest (port of ``core/Etag.kt``)."""
 
 from __future__ import annotations

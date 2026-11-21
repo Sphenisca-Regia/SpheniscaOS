@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Notification actions after the poller exits (posted-id guard).
 
 Cards carry x-xx-wm-action-target at an activatable service; the

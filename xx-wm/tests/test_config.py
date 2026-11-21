@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for config.py - pure logic, no GTK imports."""
 import json
 from pathlib import Path

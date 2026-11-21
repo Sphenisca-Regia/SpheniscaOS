@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Telephony while the first-boot wizard is up (review 2026-11-11, P1.2).
 
 The modem monitor lived only on the shell window, which is built after

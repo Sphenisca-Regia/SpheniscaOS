@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Live-captions shell side: quick-settings tile plus volume-row toggle.
 
 Consumer of ``io.piercingxx.Captions1`` (normative contract:

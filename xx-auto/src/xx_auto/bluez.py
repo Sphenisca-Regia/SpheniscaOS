@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """BlueZ car-device helpers for the --watch service (AU2, system bus)."""
 
 from __future__ import annotations

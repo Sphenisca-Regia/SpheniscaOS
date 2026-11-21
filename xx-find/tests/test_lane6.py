@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 6: owner UI, rate limiting, decrypt helper, JS vector check.
 
 The server stores ciphertext only; the committed JS-crypto check replays
@@ -139,7 +140,8 @@ def test_ui_shell_embeds_crypto_without_plaintext_or_trackers(store):
     assert "boxSealOpen" in app and "edSign" in app
     assert "tile.openstreetmap.org" in app
     assert "google" not in app.lower()
-    assert server._owner_js().strip().startswith("/* xx-find owner")
+    js = server._owner_js().strip()
+    assert js.startswith("// SPDX-License-Identifier: MPL-2.0\n/* xx-find owner")
 
 
 def test_browser_signed_command_queues_through_ui_api(store):

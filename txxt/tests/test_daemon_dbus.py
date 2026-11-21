@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L3 daemon bus API tests: ``io.piercingxx.TxxT1`` over fakes plus a
 real private-bus round trip.
 

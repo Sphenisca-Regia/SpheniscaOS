@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Back with nothing shell-owned open goes to the focused app, only to it.
 
 On bare home the back gesture used to send Escape and Android BACK to the

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Month-grid math for the shade's inline calendar — pure logic, no GTK.
 

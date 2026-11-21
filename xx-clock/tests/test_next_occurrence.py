@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Recurrence math (translation of time/NextOccurrenceTest.kt)."""
 
 from datetime import datetime, timedelta

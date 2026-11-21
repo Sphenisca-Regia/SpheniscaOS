@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The 401/403 matrix, exactly as Android (AuthInterceptor semantics).
 
 2xx marks access good; 403 not_granted marks access denied only (never

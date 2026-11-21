@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Overlay chrome follows the xx_ui theme: tokens only, live reload.
 
 Renders src/xx_captions/captions.css against every xx_ui preset and

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Honest external-daemon handling in the notification shade (P3-G).
 
 Per the freedesktop Notifications spec, Notify is a METHOD call directed at

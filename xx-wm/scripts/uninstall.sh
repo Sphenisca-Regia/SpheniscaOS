@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # XX-WM uninstaller: removes what scripts/install.sh and the meson installs
 # put on this device and undoes the system changes install.sh made.
 # Distro packages stay (other software may use them), and so do your

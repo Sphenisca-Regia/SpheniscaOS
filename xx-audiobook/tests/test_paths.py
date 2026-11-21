@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """First-run directories and app identity."""
 
 import os

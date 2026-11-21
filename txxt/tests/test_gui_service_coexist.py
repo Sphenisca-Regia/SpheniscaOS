@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GUI starts while the service runs (private bus + Broadway).
 
 The daemon owns ``io.piercingxx.TxxT.Daemon``; the real

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Ported JVM unit tests for the pure domain layer.
 
 Ports DomainLogicTest, FtsEscaperTest, LabelCsvTest, RecipientsTest,

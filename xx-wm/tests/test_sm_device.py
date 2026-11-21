@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane sm_device: device info, night light, logs, keyboard layout, lock.
 
 Headless tests for the pure backends (worker-thread only — never the

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Notification action targets (w5_fixup_7 item 2).
 
 A notification may carry the ``x-xx-wm-action-target`` hint so that

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Setup page: first-run state with actually probed values.
 
 Every row shows live state, probed on a worker thread and posted back

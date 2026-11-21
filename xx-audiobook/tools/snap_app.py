@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """The real window for scripts/snap.py, wired without the network.
 
 SNAP_SCENARIO=seeded: the seeded HOME plus DemoApi (home shelves, browse

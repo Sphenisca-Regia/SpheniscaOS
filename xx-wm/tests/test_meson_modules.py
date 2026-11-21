@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Meson install_data must ship every runtime Python module.
 
 A meson install of main used to omit hud.py, lock_lines.py, and

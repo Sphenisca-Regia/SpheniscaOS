@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver: builds the REAL overlay window and pumps the loop.
 
 Runs under GDK_BACKEND=broadway with HOME pointed at a temp dir:

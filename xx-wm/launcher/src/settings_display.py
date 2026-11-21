@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Display section: night light and power profile (ref power-manager.sh).
 
 Night light drives wlsunset (preferred) or gammastep as the caller's own

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """UI client tests: ``TxxtClient`` over fakes, no bus needed.
 
 The fakes mirror the real Gio shapes: ``connection.call`` takes a

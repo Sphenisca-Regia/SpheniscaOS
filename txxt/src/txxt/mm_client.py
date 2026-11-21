@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ModemManager SMS + mmsd-tng MMS clients (worker-thread only).
 
 Ports the Android send/receive pipeline (``service/SendPipeline``,

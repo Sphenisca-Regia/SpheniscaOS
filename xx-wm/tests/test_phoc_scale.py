@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the 20.5 per-device phoc.ini scale.
 
 The tablet's panel reports as ``DSI-1`` (wanting scale 1.5) and collides with

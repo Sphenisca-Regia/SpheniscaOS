@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Thumbnail capture rule (wm_apptheme lane).
 
 A screencopy every 2.5 s for the focused app burned battery on the phone.

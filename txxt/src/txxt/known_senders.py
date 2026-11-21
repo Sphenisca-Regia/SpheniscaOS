@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Per-sender known-contact check for the unknown-sender rule.
 
 The production live filter used to consult an (empty) known-numbers

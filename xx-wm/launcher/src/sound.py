@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Sound playback for shell events (ringtone, notifications).
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway smoke test: the REAL window pumps without exceptions.
 
 Spawns gtk4-broadwayd on a free display, then runs the REAL production

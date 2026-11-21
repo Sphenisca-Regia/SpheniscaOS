@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Automatic (opportunistic) suspend, phone style.
 
 After the display has been blanked for ``suspend_after`` seconds the shell

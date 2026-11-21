@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Static guards: install surface, honest main-loop behavior, valid signals."""
 import re
 from pathlib import Path

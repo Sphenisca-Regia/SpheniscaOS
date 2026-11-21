@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Hardening tests — C20. Translated from Android `HardeningTest.kt`: the
 logger's redaction is pinned, and account stringification never prints a
 secret."""

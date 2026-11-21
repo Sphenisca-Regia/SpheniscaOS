@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The power menu fits the smallest phone screen (320x640), measured on a
 real GTK display. The 420x768 power snapshot was the rig capturing the
 lock screen under the menu, not the menu growing."""

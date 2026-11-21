@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Browse categories: tracked groups open metrics, the rest stay honest
 "not tracked" placeholders, and search finds both levels."""
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Run blocking work off the GTK main loop and hand results back to it.
 
 Engine calls, image fetches and disk scans all go through ``Worker.run``:

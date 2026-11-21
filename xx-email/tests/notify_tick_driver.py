@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Headless driver for milestone 9 Notify assertions (not collected).
 
 The Notify path needs the real GLib to build and unpack its

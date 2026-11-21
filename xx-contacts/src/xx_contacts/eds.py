@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L5 EDS interop: one-time read-only import, optional one-way publish.
 
 The database owns the contacts (Revision 2); Evolution Data Server is

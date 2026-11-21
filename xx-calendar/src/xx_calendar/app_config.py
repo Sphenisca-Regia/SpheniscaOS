@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App settings for xx-calendar: XDG JSON store with total-reader semantics.
 
 Key names and defaults mirror the Android SettingsStore

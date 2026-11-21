@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sensor backends for the collector: hardware step counter first, burst next.
 
 Source preference (PORT_SPEC.md section 3): a cumulative hardware step

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Network interface filtering: serve and announce on non-cellular only.
 
 Interface names come from sysfs, addresses via SIOCGIFADDR ioctl. Both

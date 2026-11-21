@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """First-run Setup probes: real state, never cached guesses.
 
 Each probe reads live system state on a worker thread (never the GTK

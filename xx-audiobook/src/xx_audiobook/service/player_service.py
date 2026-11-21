@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Background player service: own bus name, MPRIS2, playbin (M2).
 
 Owns ``io.piercingxx.XXAudiobook.Player`` (Player1 UI surface) and

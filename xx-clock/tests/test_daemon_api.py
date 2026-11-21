@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Daemon Api over a temp store: mutations, validation, state shape."""
 
 import json

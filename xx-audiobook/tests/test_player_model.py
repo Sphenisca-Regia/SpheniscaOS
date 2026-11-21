@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The GUI's player model: service state, restore, local commands."""
 
 import gi

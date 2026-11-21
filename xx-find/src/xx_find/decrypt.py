@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Owner-side decrypt helper: open sealed location reports (lane 6).
 
 The server stores ciphertext only; the owner opens a report locally with

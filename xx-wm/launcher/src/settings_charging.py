@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Charge-limit settings section: cap battery charging below 100%.
 
 The privileged write is the root helper's SetChargeLimit (helper_client,

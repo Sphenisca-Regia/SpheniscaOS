@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-captions command line (headless-safe; GTK only enters in lane 3)."""
 from __future__ import annotations
 

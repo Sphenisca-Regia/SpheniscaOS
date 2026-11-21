@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Session-bus API on a fake bus: no display, no system bus needed."""
 import pytest
 

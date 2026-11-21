@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MPRIS + Player1 driver for test_mpris.py (runs under dbus-run-session).
 
 Starts the REAL PlayerService (FakeBackend, in-memory DB, offline) on the

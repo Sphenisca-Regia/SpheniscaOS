@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Behavior constants (port of Prefs.kt) plus user settings JSON."""
 
 from __future__ import annotations

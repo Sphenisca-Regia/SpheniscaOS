@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Store and cipher tests: DAO contract, first-run dirs, ciphertext-only
 disk, and the keyring/password key ladder."""
 import json

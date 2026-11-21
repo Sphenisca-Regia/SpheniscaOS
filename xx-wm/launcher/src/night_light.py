@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Night light schedules: off (manual), custom times, sunset to sunrise.
 
 Sunset times come from a pure NOAA-style solar calculation over the

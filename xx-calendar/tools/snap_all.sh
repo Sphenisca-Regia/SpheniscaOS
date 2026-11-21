@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Render EVERY xx-calendar screen and montage one labeled contact sheet per
 # set into OUTDIR: each theme at the FLX1 canvas (450x1000) and a 360x800
 # phone, plus fit checks: every screen 320 px wide (sheet-fit320.png) and

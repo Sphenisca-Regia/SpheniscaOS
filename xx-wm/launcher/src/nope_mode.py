@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Nope-Mode — Focus-mode blocking built into the shell (design.md "Focus Mode"
 parity, ported from the Android Nope-Mode app in ref/Nope-Mode).

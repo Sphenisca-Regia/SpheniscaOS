@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Theme-sweep contract for the shade family surfaces.
 
 notification_shade / quick_actions / power_menu must expose a pure

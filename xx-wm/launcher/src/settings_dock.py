@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Connected devices › When docked: what the phone screen does while a
 monitor is connected (dock_controller). Only on river with xxwm, the
 one session that docks; elsewhere the section has no rows."""

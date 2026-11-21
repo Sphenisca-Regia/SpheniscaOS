@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Collector: hardware-counter one-shot plus the resident sampler loop.
 
 Source preference is the cumulative hardware step counter with the

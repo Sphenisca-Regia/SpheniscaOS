@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Android BackupJson v1 backup: byte-compatible read/write.
 
 Format mirrors

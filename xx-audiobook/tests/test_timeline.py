@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """TrackMath parity: BookTimeline, PlayerCommands, resume, auto-rewind.
 
 Mirrors playback/TrackMath.kt, PlayerCommands.kt and BrowseTree.resumeMs/

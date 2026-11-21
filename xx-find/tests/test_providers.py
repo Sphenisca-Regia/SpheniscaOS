@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 3: GeoClue2 client + ModemManager fallback over injected buses.
 
 Fakes mirror real Gio semantics per XXWM_RULES traps: replies unpack

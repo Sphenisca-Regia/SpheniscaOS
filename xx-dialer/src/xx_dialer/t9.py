@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Keypad T9 match-as-you-type: pure port of ui/T9.kt, stdlib only.
 
 A query of keypad digits matches a contact either by digit run inside

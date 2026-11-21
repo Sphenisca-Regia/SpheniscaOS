@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Screenshots, screen recording, and scrolling screenshots (Android parity).
 
 grim captures and wf-recorder records when installed; every absence

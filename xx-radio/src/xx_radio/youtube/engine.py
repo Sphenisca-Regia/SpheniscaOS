@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The YouTube Music engine (unofficial; see README.md).
 
 Catalog over ytmusicapi plus stream resolution over the resolver child

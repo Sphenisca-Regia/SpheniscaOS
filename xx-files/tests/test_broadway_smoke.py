@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway smoke: the REAL main window builds and pumps ~1 s clean."""
 import os
 import shutil

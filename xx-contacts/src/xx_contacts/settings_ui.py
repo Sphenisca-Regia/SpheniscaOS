@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App settings page pushed on the list's ``Adw.NavigationView``.
 
 Phone-first 360x720: the list toggles from the Android settings screen

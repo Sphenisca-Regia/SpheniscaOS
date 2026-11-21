@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Vault encryption at rest. Linux mapping of Android `SecretCipher`: the
 same `IV ‖ ciphertext ‖ tag` blob (12-byte IV, AES-256-GCM, 128-bit tag).
 The key is a random 32-byte data-encryption key kept in the Secret Service

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lock-screen hardening: root-side PIN store, migration/fallback, phoc
 shell mode (-S guard + set_shell_state sequencing) and logind lock state.
 

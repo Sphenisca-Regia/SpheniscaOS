@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Recents thumbnails without per-pixel Python loops (same pixels as the
 reference nearest-neighbour), and a hidden switcher that does not rebuild
 its cards on every title change or new thumbnail."""

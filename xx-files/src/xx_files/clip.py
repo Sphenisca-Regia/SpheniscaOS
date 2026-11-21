@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Clipboard model: staged copy/cut plus paste-name resolution.
 
 Port of the Android ``Clip`` JVM seam. ``unique_name`` resolves a

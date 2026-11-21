@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xxdb deploy: the datadir stays root-owned, and the shell restarts even
 when the daemon runs inside it."""
 import signal

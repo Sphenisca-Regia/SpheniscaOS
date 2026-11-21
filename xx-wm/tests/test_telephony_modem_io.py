@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """D-Bus modem I/O: voice call placement (W1 telephony).
 
 Dialing goes through Voice.CreateCall + Call.Start directly, no mmcli

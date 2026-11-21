@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The GUI starts while the player service runs (bus-name trap).
 
 If the daemon owned the GUI app id, Gtk.Application would treat the GUI

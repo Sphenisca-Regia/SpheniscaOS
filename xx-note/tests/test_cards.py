@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Card surfaces and previews (pure ports of the Android grid card)."""
 
 from xx_note import note_colors as colors

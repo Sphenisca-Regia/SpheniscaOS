@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Library: the account's library when signed in, this phone's otherwise.
 
 Signed in: Playlists, Songs, Albums, Artists, Liked, History and On this

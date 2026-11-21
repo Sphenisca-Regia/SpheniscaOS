@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Async client for io.piercingxx.Captions1 (overlay and shell tile).
 
 Every call follows the shell-trap rules: reply unpacks to a TUPLE of

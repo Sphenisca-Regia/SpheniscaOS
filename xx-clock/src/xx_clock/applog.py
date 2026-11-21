@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """On-phone log ring (port of the local half of log/AppLog.kt).
 
 A bounded in-memory ring plus a file under the state dir. Nothing is ever

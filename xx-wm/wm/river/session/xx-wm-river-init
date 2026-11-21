@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # river's init for the XX-WM river session. Sets each output's scale from
 # the device's phoc.ini (the installer picked it per device), keeps xxwm
 # running as the window manager, and runs the XX-WM shell wrapper. When

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Snooze wake processing for milestone 8 (stdlib only, no GTK).
 
 Snoozing removes INBOX server-side immediately and records a durable

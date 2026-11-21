@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Phone agent core. Disabled-by-default gate plus command dispatch.
 
 The agent NEVER touches the network, GPS or keyring unless

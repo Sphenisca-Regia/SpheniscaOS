@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Days-mask rules (translation of model/AlarmMaskTest.kt).
 
 Android java.util.Calendar constants map to ISO weekdays here

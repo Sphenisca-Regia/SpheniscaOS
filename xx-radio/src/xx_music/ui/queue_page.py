@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Up next, inside Now Playing (the current song sits above it in
 Now Playing's compact row). Tapping a row jumps there; More (or
 long-press) offers Play next, Move up, Move down and Remove.

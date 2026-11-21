@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Smart Lock trust agents (Android parity).
 
 While the phone sits in a trusted situation, swipe-up unlocks without the

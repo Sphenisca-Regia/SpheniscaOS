@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of SyncUiModelTest: honest gap lines, login states, queue depth,
 batch glyphs, and 401/507 surfacing for the Profile tab."""
 

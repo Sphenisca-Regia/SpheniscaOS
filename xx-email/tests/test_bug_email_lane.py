@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane bug_email regression tests: reviewed findings 5, 6, 14, 15.
 
 Each test reproduces the reviewer-reported defect against the real

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L6 Broadway smoke test: picker, prefilled editor, vcf-open pages.
 
 Builds the real contacts window plus the new pick-mode pages (one per

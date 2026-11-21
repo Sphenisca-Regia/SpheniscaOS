@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Schedule-owning user service (`xx-clock --daemon`).
 
 Owns `io.piercingxx.XXClock.Daemon` (never the GTK app id — sharing it

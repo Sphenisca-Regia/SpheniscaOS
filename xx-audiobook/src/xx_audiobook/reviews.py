@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Book reviews: cached pages, optimistic writes, the not-started gate (M5).
 
 Mirrors data/repo/ReviewRepository.kt (per-item in-memory cache so the

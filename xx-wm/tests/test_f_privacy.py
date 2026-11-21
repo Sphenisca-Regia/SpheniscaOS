@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Privacy indicators + per-app permissions backend (task f_privacy).
 
 Headless: PipeWire/GeoClue/PermissionStore/cgroup paths are exercised

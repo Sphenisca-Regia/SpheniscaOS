@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Regression tests for lane bug_calendar (review findings 7,8,9,28,29,33)."""
 import datetime as dt
 from datetime import timezone

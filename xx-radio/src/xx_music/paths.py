@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """XDG directories for one app built on xx_music.
 
 Every path an app writes lives under these. Directory names come from the

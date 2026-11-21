@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Owner update-system.sh installer in scripts/bootstrap-dots.sh.
 
 The script fetches piercing-dots and installs update-system.sh where the

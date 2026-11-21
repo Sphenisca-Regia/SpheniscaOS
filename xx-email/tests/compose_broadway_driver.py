@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver for the compose smoke test (not collected by pytest).
 
 Runs one scenario against a real GTK display (the parent pytest

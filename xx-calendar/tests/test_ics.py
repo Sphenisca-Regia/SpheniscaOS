@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Codec tests: round-trip on hand-written real-world-style fixtures.
 
 Google-, Synology-, and Outlook-style exports with folded lines, X- props,

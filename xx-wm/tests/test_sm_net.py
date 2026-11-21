@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane sm_net tests: WiFi/Bluetooth completeness, mic picker, services, firewall.
 
 Backends run with injected fakes (never real package/service/firewall

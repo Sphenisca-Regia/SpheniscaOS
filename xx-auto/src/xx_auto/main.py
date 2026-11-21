@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-auto drive screen: MPRIS now-playing card, tiles, settings, sheets.
 
 Headless-safe import: Gtk/Adw load lazily so pure tests never need a

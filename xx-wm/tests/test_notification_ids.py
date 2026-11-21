@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shell-internal notification ids must be unique across modules: two
 features sharing an id replace each other's notification (capture and
 wireless debugging both claimed 999902 once)."""

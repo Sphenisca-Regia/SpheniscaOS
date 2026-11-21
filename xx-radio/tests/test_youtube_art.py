@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Thumbnail choice: size parameters for the pixel size asked."""
 
 import pytest

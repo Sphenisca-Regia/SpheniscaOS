@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 /* xx-find owner web crypto: canonical JSON, Ed25519 signing, sealed-box
    open, tile math. Pure logic, no DOM and no network: the same file runs
    in the browser, under node/deno/qjs for the vector check, and is

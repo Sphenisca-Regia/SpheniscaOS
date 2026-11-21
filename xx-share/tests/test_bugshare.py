@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Regression tests for the bug_share review findings."""
 import errno
 import http.client

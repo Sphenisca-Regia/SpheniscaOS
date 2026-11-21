@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Casting through the real player service with fake speaker pieces.
 
 Synchronous doubles (inline executor, immediate idle_add) so no main

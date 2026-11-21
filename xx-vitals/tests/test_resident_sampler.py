@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Resident sampler: day trace, bump rejection, SIGTERM flush, inhibitor gate.
 
 The burst-only model banked a 10 s sample as the day's steps; these

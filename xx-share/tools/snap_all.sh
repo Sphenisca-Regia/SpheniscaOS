@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Render every xx-share screen and montage one labeled contact sheet per
 # theme and phone size into OUTDIR, plus fit runs: every screen at 320 px
 # wide (sheet-fit320.png) and at large text, text-size scale 1.5 on

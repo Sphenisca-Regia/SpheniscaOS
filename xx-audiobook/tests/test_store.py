@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Room parity: every Android column is present with the right shape.
 
 Expectations are hardcoded from data/db/Entities.kt and the Room schema

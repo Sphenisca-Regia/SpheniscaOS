@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Primary layout contract: keyboard_layouts helper + session mapping.
 
 The setup screen owns ``us`` / ``us+colemak`` / ``piercing-num``; the

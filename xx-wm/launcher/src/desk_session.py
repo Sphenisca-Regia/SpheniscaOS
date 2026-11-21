@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The docked monitor's surfaces under xxwm (river): a top bar on every
 monitor that is not the handset, the launcher on Super and Alt+Tab, and
 the keybind sheet on Super+/.

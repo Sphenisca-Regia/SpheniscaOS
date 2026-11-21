@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of the Android conversation-logic tests.
 
 Covers core/ConversationPinTest.kt, core/MuteUntilTest.kt,

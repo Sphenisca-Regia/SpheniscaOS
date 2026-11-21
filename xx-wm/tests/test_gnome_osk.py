@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the 24 GDM Colemak OSK layout in launcher/data/gnome-osk/.
 
 The GDM greeter runs GNOME Shell's own on-screen keyboard, which reads JSON

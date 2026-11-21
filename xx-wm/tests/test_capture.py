@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for screen capture: screenshots, recording, scrolling stitches.
 
 Screenshot/record flows run with inline workers and fake compositors;

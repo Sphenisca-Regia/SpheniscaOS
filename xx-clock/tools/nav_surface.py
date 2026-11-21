@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SNAP_MULTI capture for the editor dialog and the ring card.
 
 $SHOT_TARGET picks the surface, painted to $SHOT_OUT at 2x; the script

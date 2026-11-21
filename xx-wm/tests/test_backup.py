@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for backup.py — round-trip and malformed-payload no-write guarantee."""
 import copy
 import json

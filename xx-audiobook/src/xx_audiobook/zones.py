@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Home Assistant zones: locations, players, cast transport (M5).
 
 Mirrors data/repo/ZoneRepository.kt: locations and cast targets are cached

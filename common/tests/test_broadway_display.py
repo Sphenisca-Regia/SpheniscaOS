@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The shared Broadway display picker: probes, never collides."""
 
 import os

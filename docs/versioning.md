@@ -95,7 +95,7 @@ installed root-owned to `/usr/share/xx-wm/release-signers`; its one line
 gives the principal `release@xx-os` with `namespaces="git"`. On check and
 apply, `xx-apps-update`:
 
-1. fetches `main` and all tags from `https://github.com/PiercingXX/xx-os.git`
+1. fetches `main` and all tags from `https://github.com/Sphenisca-Regia/SpheniscaOS.git`
    into a cache clone (`~/.cache/xx-apps-update/xx-os.git`; tags are
    force-updated and pruned, so it mirrors the origin);
 2. takes the newest tag matching the scheme. If that tag is bad it stops;

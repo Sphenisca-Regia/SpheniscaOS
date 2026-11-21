@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared test setup: make src/ importable without installing."""
 
 import sys

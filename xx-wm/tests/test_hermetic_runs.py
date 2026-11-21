@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Snapshot and test runs never reach the host's services.
 
 A snap run of the shell registered a polkit agent on the host's system

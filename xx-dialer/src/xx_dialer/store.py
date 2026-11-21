@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SQLite store: schema + DAO helpers, stdlib only.
 
 Database lives at ~/.local/share/xx-dialer/calls.db (SQLite, WAL mode).

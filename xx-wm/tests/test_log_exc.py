@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """shell_log.log_exc: the one logger for broad handlers that used to pass."""
 import logging
 

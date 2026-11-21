@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sync wire contract: SyncApi interface, ApiResult taxonomy, ISO cursors.
 
 Port of sync/SyncApi.kt + sync/Wire.kt (pure part). No network here: the

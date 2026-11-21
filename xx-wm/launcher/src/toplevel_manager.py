@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """pywayland client for wlr-foreign-toplevel-management-unstable-v1.
 
 Lists, activates and closes toplevel windows on a wlroots compositor (phoc).

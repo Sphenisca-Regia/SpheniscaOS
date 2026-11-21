@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver for the milestone 8 smoke test (not collected).
 
 Runs one scenario against a real GTK display (the parent pytest

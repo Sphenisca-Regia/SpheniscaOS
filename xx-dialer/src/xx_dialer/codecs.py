@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Android backup JSON codecs: ring_policy.json + calllog.json, stdlib only.
 
 Ports backup/RingPolicyJson.kt and backup/CallLogJson.kt field-for-field,

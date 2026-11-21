@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Session sync timing and writes (M2).
 
 Mirrors playback/SyncScheduler.kt (15 s cadence while playing with a

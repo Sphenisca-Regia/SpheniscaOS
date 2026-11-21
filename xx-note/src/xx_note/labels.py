@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Label helpers (port of ``ui/labels/LabelOps.kt`` + aggregation).
 
 Labels are a flat tag set stored in frontmatter ``labels: [a, b]`` and

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L6 contact picker page: pick-mode list the D-Bus ``Pick`` serves.
 
 Phone-first 360x720 (min 320x200): a title per kind, a tap-to-focus

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """M1 contract depth: DTO constructors match openapi required fields.
 
 The vendored contracts/openapi.json is always present, so nothing here

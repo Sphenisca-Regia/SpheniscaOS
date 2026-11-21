@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Smart Lock (Android parity): rule table, event-driven trust, lock lines.
 
 Headless: smart_lock.py is GTK-free (gi only inside start(), which tests

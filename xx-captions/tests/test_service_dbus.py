@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real service over a real session bus (skips cleanly without one).
 
 Runs tests/dbus_driver.py under dbus-run-session: the driver starts

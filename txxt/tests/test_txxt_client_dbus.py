@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """UI client against a fake daemon exporting the real TxxT1 XML.
 
 Runs under ``dbus-run-session``: the helper owns

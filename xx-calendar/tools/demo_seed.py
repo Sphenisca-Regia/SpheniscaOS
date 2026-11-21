@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Seed a HOME dir with realistic calendar data via the real store APIs."""
 from __future__ import annotations
 

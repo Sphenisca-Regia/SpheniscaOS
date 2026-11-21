@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L2 fix proof: multi-MB SBR files import with flat memory.
 
 Generates a real multi-MB SMS Backup & Restore document on disk (tens

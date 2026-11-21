@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Headless smoke tests: unit conversion and sync-wire helpers."""
 
 from xx_vitals import sync_wire, units

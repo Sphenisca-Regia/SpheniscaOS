@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Night light schedules (wm_power_night lane).
 
 NOAA solar calculation against known values, boundary math across

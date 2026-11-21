@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Seeded screenshots of every xx-clock screen:
 #   xx-clock/tools/snap_all.sh OUTDIR
 # amoled + paper at the FLX1 canvas (450x1000) and 360x800, empty lists,

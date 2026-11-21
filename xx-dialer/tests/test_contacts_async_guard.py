@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Missing contacts service must never delay the UI.
 
 Every contacts_client D-Bus call is async with a short timeout, so

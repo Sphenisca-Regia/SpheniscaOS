@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Caption overlay: its own small GTK4 process (`xx-captions --overlay`).
 
 Layer OVERLAY, keyboard NONE, anchored bottom with the persisted

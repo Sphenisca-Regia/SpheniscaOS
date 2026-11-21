@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """UI modules import display-less; user-facing text is plain and final."""
 
 import gi

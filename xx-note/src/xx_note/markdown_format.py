@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Markdown editing commands (port of ``core/MarkdownFormat.kt``).
 
 The same commands, with the same results, as the editor toolbar: each is

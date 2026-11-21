@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Vault edge cases: files are truth, trash expiry, search, index cache."""
 from pathlib import Path
 

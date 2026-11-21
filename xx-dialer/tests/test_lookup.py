@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Policy1 LookupNumber dataset: cache-backed (display_name, tier)."""
 from xx_dialer.contacts_client import keypad_search, lookup_number
 from xx_dialer.store import MirrorRow

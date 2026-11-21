@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Suite identity for the shell and the keyboard.
 
 The XX-WM session entry stays ``XX-WM`` while every suite app follows

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Multipart SMS stuck in RECEIVING (Chatty chatty-mm-account.c port).
 
 ModemManager keeps a multipart SMS in RECEIVING until every part is in.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane lp_home: home slots, gestures and back behaviour.
 
 Tests-first contract for the eight items: slot change-app menu + replace,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Wayland protocol bindings generated at runtime from the installed pywayland.
 
 Distros ship different pywayland versions whose scanners emit incompatible

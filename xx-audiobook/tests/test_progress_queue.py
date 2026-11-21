@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Offline progress queue: record locally, flush against the fake server.
 
 Covers record/queueing, finish/unfinish mapping, the client updated_at,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings information architecture (docs/settings-map.md).
 
 One home per setting: Network & internet is connectivity only, what the

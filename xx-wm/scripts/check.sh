@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # XX-WM - Pre-commit gate script
 # Runs py_compile + ruff + the main-loop block check + pyright (root helper and
 # its client) + pytest + cargo test + shellcheck.

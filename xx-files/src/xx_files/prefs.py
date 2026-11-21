@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Persisted settings: show_hidden, sort mode, view mode.
 
 JSON file under ``$XDG_CONFIG_HOME/xx-files/settings.json`` (sibling

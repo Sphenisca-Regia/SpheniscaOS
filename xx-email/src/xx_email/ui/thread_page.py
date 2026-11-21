@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Thread page: messages in date order with plain-text bodies.
 
 Ports ThreadScreen/ThreadViewModel over xx_email.bodies: marks the

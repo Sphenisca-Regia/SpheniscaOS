@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L3 notify + contacts tests: redaction posture and resolver chain."""
 
 import inspect

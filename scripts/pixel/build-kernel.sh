@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Build a kernel for the Pixel 9 (tokay) bring-up from a tree fetched by
 # fetch-kernel.sh, with xxos-debian.config applied, and check the result.
 #

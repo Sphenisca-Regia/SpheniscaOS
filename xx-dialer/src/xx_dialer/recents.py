@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Recents list logic: pure port of the Android Recents tab, stdlib only.
 
 Covers ``ui/RecentsMerge.kt`` (merge + filters + grouping),

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L3 daemon tests: reconcile, inbound pipeline, retry queue, lock.
 
 Reconcile and pipeline tests run against the real SQLite store plus

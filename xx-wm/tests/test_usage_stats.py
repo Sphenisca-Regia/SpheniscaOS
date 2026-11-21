@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for screen-time / usage statistics (lane f_usage).
 
 Covers toplevel state-array decoding and activated tracking

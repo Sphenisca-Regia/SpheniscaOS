@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Arch/pacman support, runtime deps, and fonts in scripts/install.sh.
 
 The smoke tablet is Arch; the installer must know pacman, pull

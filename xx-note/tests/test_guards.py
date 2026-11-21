@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Static guards: no secrets in logs, one-host WebDAV, valid GTK signals."""
 import re
 from pathlib import Path

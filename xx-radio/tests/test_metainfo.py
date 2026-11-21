@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Metainfo: description, releases and content rating are complete."""
 
 import xml.etree.ElementTree as ET

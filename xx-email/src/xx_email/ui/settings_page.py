@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings page: every Android setting with a real effect here.
 
 Ports ui/settings/SettingsScreen.kt as a NavigationView page of

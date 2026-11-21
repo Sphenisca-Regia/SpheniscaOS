@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 contact photos: pick, normalize, store, and vCard PHOTO wire-up.
 
 Photos live as re-encoded JPEG files under

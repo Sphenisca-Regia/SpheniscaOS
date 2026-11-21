@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """org.freedesktop.ScreenSaver on the session bus.
 
 phoc forwards every Wayland zwp_idle_inhibit_v1 (a video player, a

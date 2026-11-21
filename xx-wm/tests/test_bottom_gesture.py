@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Bottom-edge gesture strip (bottom_gesture.py): Android gesture nav
 handled by the shell, because lisgd's fixed-third length classes and lack
 of a pause made the switcher unreachable on the FLX1.

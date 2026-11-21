@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The local stream proxy against a fake googlevideo-like upstream."""
 
 import socket

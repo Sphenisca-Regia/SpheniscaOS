@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L5 receive-policy tests: audio-drop + optional auto-reply.
 
 Ports ``service/ReceivePolicy``: audio attachments drop unstored at the

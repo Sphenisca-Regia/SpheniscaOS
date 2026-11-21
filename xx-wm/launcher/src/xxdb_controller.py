@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xxdb controller: enable/disable state, pairing codes, idle auto-off.
 
 GTK-free: the shell (window.py/main.py) drives it from the main loop and

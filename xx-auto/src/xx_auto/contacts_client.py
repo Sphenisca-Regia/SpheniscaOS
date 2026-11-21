@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Starred contacts through the public xx-contacts D-Bus API.
 
 Reads only: ``List`` enumerate → ``Get`` vCards → keep ``X-STARRED:1``

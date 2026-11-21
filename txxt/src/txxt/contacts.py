@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Contact resolution via xx-contacts, EDS fallback, bare numbers last.
 
 Owner directive (review note 5): names, starred and blocked come from

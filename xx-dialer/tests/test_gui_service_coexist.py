@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GUI + service coexistence on a private bus (Broadway).
 
 Regression test for the bus-name collision: the policy service owns

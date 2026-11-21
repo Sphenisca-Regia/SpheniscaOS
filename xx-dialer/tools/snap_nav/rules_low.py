@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 # ruff: noqa: F821 -- snap.py execs this with win/app in scope
 # Lower half of the Rules page (patterns, blocked, test, tallies, log).
 # The page lays out on its own schedule after first show, so poll until

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Seed a HOME/XDG tree with realistic xx-email data through the real store.
 
 Usage: demo_seed.py HOMEDIR [--empty]

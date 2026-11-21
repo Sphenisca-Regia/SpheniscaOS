@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Build the bring-up initramfs (busybox, modetest, evtest, the xx-os init)
 # from signed Debian arm64 packages. No package scripts run and no emulator
 # is needed: packages are verified against the archive's signed index and

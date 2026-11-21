@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Logs page: the app's rotated diagnostics with numbers redacted.
 
 Reads ``~/.local/share/xx-dialer/logs/`` through ``applog`` — every

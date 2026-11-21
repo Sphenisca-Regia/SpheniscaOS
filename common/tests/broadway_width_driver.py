@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway width driver: every widget helper with very long strings.
 
 Run as a subprocess by tests/test_width.py with GDK_BACKEND=broadway.

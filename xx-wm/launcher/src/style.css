@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: MPL-2.0 */
 /* Shell static sheet: layout and type sizes only. Every color comes from
    the rendered theme (window._apply_theme: xx_ui.css.render first, then
    the small shell-only sheet) — no hexes here. */

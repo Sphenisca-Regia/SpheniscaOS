@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Finding 4 repro: publish must never touch the default address book.
 
 ``EBookClient()`` falls back to ``ref_default_address_book()`` and

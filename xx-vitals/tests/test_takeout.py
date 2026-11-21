@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Takeout import: header-driven CSV + weight JSON parse, validated storage."""
 
 import json

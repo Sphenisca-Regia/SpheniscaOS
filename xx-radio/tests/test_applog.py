@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Rotating redacted log file: secrets never reach the disk."""
 
 import logging

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 //! xxwm — the XX-WM window manager for the river compositor.
 //!
 //! river draws and handles input; xxwm decides where windows go. One

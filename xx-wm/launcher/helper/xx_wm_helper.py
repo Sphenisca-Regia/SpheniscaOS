@@ -1,4 +1,5 @@
 #!@python@
+# SPDX-License-Identifier: MPL-2.0
 """Privileged helper for XX-WM features that need root.
 
 D-Bus system service ``io.piercingxx.XXWM.Helper1`` (D-Bus activated,

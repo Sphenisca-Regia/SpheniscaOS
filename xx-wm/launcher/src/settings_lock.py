@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lock settings: change or remove the PIN, change the device password,
 and the PIN check other settings put in front of security changes.
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 photo tests: normalize, store, file modes, vCard PHOTO wire-up."""
 
 import base64

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """scripts/uninstall.sh removes what install.sh and meson installed (P4).
 
 A real meson install of the launcher into a staged root, plus the extras

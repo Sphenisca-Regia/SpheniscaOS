@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Received-file history: small atomic JSON log under the state dir.
 
 Pure stdlib, no GTK/Gio: the share window renders these rows as

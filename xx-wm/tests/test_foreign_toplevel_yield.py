@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Yield to apps mapped outside the shell (W5 fix-up 3).
 
 On the VM an app started by systemd-run / D-Bus activation / a notification

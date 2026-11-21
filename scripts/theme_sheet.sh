@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Render the gallery for every theme and montage one column per theme:
 #   scripts/theme_sheet.sh OUTDIR
 # Writes OUTDIR/theme-sheet-pageN.png (N = 1..3), labeled per theme.

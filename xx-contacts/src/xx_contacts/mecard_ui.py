@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 Me card page pushed on the list's ``Adw.NavigationView``.
 
 Renders the designated Me contact (avatar, name, numbers, share as

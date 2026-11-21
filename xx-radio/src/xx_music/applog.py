@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The rotating, redacted application log file.
 
 One stdlib logger writing ``<state dir>/<app>.log`` through a

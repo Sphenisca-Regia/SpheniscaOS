@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L6 contact picker model without GTK: kinds, rows, value extraction.
 
 Pure module so pytest runs headless. The GTK page (``picker_ui``)

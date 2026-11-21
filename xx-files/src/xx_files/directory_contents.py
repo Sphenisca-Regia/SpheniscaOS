@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Honest directory reads: blocked and empty are different states.
 
 Port of the Android ``DirectoryContents`` JVM seam (todo.md F4): an

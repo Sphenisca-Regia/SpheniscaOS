@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Family theme bridge (pure half of theme/ThemePresetTest.kt).
 
 Receiver/applier behavior is OUT — Linux theming is the shared xx_ui

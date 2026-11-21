@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """T9 match-as-you-type tests — port of ui/T9Test.kt."""
 from xx_dialer.t9 import (
     InName,

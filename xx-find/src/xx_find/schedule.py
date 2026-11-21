@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 4 poll cadence and battery budget.
 
 Pure math plus injected seams: no network, GPS, keyring or bus access at

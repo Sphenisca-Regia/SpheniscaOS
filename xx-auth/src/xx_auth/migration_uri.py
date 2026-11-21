@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """`otpauth-migration://` transfer payloads. Port of Android
 `engine/MigrationUri.kt`: the documented protobuf layout decoded by hand, no
 protobuf dependency. MD5 entries are skipped and counted."""

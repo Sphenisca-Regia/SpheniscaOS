@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for custom font install (config.install_custom_font)."""
 from pathlib import Path
 

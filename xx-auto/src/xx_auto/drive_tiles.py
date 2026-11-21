@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Which drive tiles are drawn (port of Android DriveTiles, AU3)."""
 
 from __future__ import annotations

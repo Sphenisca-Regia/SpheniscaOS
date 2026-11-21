@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 4 ringer tests: batching, three-state policy, actions, fail-soft."""
 from xx_dialer import config as app_config
 from xx_dialer.ringer import Notifier

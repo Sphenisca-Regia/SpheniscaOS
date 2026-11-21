@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """People page: the contacts cache sectioned for the engine.
 
 Sections come from the warm SQLite mirror (kept by

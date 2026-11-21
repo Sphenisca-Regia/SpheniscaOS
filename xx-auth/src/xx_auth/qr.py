@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """QR scan gates and image-file decoding. Port of Android
 `setup/QrScanner.kt`: `account_payload` gates every raw barcode through the
 real parsers so junk QRs never reach the vault. Decoding itself uses

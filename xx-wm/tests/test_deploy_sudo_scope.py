@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The smoke tablet's passwordless sudo covers only the deploy sync (P4).
 
 grant-tablet-sudo.sh used to leave `NOPASSWD: ALL` behind. It now

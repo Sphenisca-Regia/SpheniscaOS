@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sync verdicts (port of ``core/SyncPolicy.kt`` + ``Verdict.kt``).
 
 ``decide`` is pure and total: every (base, local, remote) combination

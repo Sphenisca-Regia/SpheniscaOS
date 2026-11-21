@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 //! Configuration: a small line format whose defaults are the piercing-dots
 //! Hyprland binds, so the docked desktop behaves like the owner's desktop.
 //!

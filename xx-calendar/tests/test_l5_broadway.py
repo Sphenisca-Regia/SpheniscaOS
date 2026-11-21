@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway smoke test: the real window against a seeded database.
 
 The GTK half runs in ``l5_smoke_child.py`` as a subprocess (same pattern

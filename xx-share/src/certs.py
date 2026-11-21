@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Device certificate: mint via openssl, fingerprint via hashlib.
 
 Python's stdlib ssl can serve a certificate but cannot mint one, so the

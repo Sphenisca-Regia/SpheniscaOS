@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Static GTK4 guard for xx-captions (mirrors the xx-wm api guard).
 
 Every signal connected in src/ must exist on a real GTK4/Gdk/Gio

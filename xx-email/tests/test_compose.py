@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Compose / outbox / schedule / attachment tests (no network, no display).
 
 Ports the Android ComposeViewModel/MimeComposer/OutboxWorker contract

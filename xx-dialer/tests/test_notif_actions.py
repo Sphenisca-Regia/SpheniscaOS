@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Silenced-card action targets: hint, posted-id guard, restart survival.
 
 Cards carry ``x-xx-wm-action-target`` so the shell forwards taps to

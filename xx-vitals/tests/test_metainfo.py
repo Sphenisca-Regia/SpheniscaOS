@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Metainfo, desktop entry and D-Bus activation stay consistent.
 
 The .desktop is DBusActivatable, so a session service file must ship with

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Notification-action endpoint for posted mail cards (no GTK).
 
 The poller posts one summary card per account and exits; each card

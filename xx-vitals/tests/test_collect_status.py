@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Honest pedometer copy: off by default, no source never fakes zeroes."""
 
 from xx_vitals.collect import status

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lock screen lifecycle: fingerprint verify only on a lit, visible lock and
 only on verify-match; lockout state failures fail closed and are logged;
 the clock tick runs only while the lock is shown; unlock wipes the PIN."""

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W4 split contract: window.py's page/call logic lives in cohesive
 helper modules, composed (not mixed in) by ShellWindow.
 

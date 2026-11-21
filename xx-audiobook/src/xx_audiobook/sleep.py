@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sleep timer (M2).
 
 Mirrors playback/SleepTimer.kt: presets, end-of-chapter with its end

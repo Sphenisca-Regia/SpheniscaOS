@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Headless tests for the L5 pure view-model helpers (views.py)."""
 
 import datetime as dt

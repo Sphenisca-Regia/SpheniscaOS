@@ -1,4 +1,5 @@
 #!/bin/busybox sh
+# SPDX-License-Identifier: MPL-2.0
 # shellcheck shell=sh
 # xx-os bring-up init for the Pixel 9 (tokay). PID 1 of the first boots.
 #

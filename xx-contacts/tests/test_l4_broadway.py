@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 Broadway smoke test: real pages over seeded data, loop pumped.
 
 Builds the real contacts window plus the new editor (blank + loaded),

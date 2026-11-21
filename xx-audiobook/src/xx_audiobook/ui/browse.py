@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pushed views: Series / Author / Narrator and Collections / Collection
 (ui/browse/BrowseScreen.kt, ui/collections/CollectionsScreen.kt).
 

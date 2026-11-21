@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The ordered playback queue: tracks, position, shuffle/repeat, persistence.
 
 Shuffle physically reorders the list with the current track anchored, and

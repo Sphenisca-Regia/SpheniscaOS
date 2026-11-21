@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """View-layer unit formatting. Port of profile/UnitFormatter.kt.
 
 Storage is always kg/metres/km; this module renders display strings only.

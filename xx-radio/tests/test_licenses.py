@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """About screen license table: the app plus its engine pieces."""
 
 from xx_radio import licenses
@@ -17,6 +18,6 @@ def test_engine_components_and_their_licenses():
 def test_app_itself_comes_first():
     entries = licenses.entries("radio")
     assert entries[0].name == "radio"
-    assert entries[0].spdx.startswith("GPL-3.0")
+    assert entries[0].spdx == "MPL-2.0"
     names = [entry.name for entry in entries]
     assert names.index("yt-dlp") > names.index("GTK 4")

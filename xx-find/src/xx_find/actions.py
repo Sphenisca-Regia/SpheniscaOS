@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 4 action drivers: ring, lock-screen message, lock-now.
 
 All live effects sit behind injected factories so unit tests never touch

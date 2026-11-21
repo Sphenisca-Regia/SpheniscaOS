@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for toplevel_manager.py - pure logic via a fake protocol backend.
 
 The manager's registry logic (own-app filtering, closed-handle pruning,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the Hotspot + Location shade tiles (WS25.5 + review fixes).
 
 Hotspot turns ON via nmcli (`device wifi hotspot`, NM auto-creates whatever

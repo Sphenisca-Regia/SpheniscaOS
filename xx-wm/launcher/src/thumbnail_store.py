@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Last-seen recents stills. Capture is output-sized; we keep a tiny RGBA.
 
 Keyed by app_id (one window per app is the phone case). Own surfaces are

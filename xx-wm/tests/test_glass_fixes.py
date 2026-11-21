@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Headless seams for the tablet glass failures: Search OSK, switcher
 visibility, shade Settings, always-on sliders, edge-swipe vs Files.
 """

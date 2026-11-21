@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for wiring the volume keys to the HUD overlay (plan T3).
 
 The running app (main.py) constructs a Hud and passes it to DisplayManager;

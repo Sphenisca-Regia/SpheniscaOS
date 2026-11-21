@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Profile tab: goals, height, units, tab toggles, sync identity, batches.
 
 Field validation lives in core/profile_edit; sync lines in sync/status;

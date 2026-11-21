@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Minimal WebDAV client for xx-note sync (Nextcloud and others).
 
 Pure-stdlib (``urllib``) so the app gains no new dependency. One-host

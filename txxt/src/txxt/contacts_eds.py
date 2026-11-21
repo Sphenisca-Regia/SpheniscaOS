@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Read-only EDS name lookup (second fallback behind xx-contacts).
 
 Best-effort only: any failure (EDS absent, registry unreachable, query

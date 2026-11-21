@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MigrationUri tests. Translated from Android `ReviewPassTest` transfer-QR
 cases; payloads are built with `struct`-style helpers mirroring the Kotlin
 ones, so the vectors are independent of the parser."""

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Gmail sync engine: full plus delta sync over an injectable transport.
 
 Ports MailRepository.sync/deltaSync/initialSync/hydrateThreads and the

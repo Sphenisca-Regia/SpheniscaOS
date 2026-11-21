@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L2 list-model tests: sections, jump strip, debounce, filters, URIs."""
 
 from xx_contacts.list_model import (

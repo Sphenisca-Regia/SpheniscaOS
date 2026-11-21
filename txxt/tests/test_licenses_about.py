@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings ends in an About section opening the licenses page."""
 from pathlib import Path
 

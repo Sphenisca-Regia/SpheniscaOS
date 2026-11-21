@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """XX-Vitals entry point: Adw.Application with the four-tab shell.
 
 The theme comes from the shared xx_ui design system (see ui/shell):

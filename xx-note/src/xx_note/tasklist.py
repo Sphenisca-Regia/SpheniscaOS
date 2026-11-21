@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GFM task-list block parsing (port of ``core/TaskList.kt``).
 
 ``split`` partitions a body into task blocks and raw text; ``render``

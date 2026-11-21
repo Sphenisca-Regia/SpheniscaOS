@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Navigation payload for scripts/snap.py: drive xx-share to one screen.
 
 Runs with ``win`` (the main window) and ``app`` in scope. SCREEN picks

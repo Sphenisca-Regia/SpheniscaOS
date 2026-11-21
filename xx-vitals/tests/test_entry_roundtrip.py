@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Milestone 2 round trip: manual weight + activity entry validate, write
 Room first, enqueue wire-compatible payloads, and drain oldest-first."""
 

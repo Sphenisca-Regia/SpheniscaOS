@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Thumbnail cache and shm downscale for recents stills."""
 import sys
 from pathlib import Path

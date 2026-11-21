@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Suite identity: desktop entry, app id and icon agree.
 
 ``DBusActivatable=false`` here (no session service ships for xx-note),

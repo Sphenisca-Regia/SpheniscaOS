@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xxdb core: pairing, trust store, RPC framing, path rules, interface
 selection, and idle auto-off. Pure stdlib, no GTK — headless-testable.
 

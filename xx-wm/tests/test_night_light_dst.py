@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Night light: the custom schedule follows DST in the system zone."""
 import datetime
 import os

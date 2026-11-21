@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings Apps section and the app-uninstall flow.
 
 Entry points (one implementation, the helper path): a drawer

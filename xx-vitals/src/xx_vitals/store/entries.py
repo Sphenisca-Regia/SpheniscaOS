@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Queue payload builders and offline-first repositories.
 
 Ports WeightEntryModel.kt, ActivityEntryModel.kt, DailyEntryModel.kt,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Atomic key changes: one vault commit per key change, crash-safe.
 
 A password or key-source change used to write the vault first and the

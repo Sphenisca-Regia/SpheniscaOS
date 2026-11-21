@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of :core unit tests: Derive, Derived, MetricMath, GoalModel, UnitConvert."""
 
 import pytest

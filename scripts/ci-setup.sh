@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Install everything scripts/check-all.sh needs on a fresh Arch Linux, as root.
 # CI runs this in an archlinux container; run it in podman to reproduce CI:
 #   podman run --rm -v "$PWD":/src:ro archlinux:latest sh /src/scripts/ci-setup.sh --run

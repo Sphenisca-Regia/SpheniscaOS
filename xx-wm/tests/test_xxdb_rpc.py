@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xxdb RPC framing, authorization, path rules, interfaces, timers, CLI."""
 import base64
 import importlib.util

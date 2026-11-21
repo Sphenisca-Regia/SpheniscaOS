@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway smoke test: real window over Android-style millisecond ids.
 
 Seeds a temp ``XDG_DATA_HOME`` store through the real :class:`Store` API

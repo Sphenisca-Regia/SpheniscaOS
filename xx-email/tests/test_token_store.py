@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Token store/cache tests.
 
 Ports TokenCacheTest (JVM unit) and the headless-portable parts of

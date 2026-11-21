@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Config tests: defaults, round-trip, tolerant parsing."""
 import json
 

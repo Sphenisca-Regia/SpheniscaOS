@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App standby (Android Doze / app-standby parity).
 
 Freeze apps the user isn't using so they stop burning battery, thaw

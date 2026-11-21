@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for focus_mode.py — breaks, holding, paused matching, schedules."""
 from datetime import datetime
 from pathlib import Path

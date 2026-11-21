@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """One wizard and one shell per process, however often the app is
 activated, and the wizard completes once however often Finish is tapped.
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Queue model: order, shuffle, repeat, persistence."""
 
 import pytest

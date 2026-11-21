@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """USSD/MMI codes never become voice calls in the app.
 
 The keypad (and people/recents dial paths) ask ui_ussd.route_special

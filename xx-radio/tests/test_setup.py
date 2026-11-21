@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Engine setup: fake uv/pip/npm/git, resumable steps, untouched priors."""
 
 import hashlib

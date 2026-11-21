@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Prefs + per-ZIP raw-response caches under XDG dirs.
 
 Layout mirrors the Android port's filesDir split: one JSON prefs file

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Row text: glyph id, name, and the second line.
 
 Port of the Android ``Row``/``RowIcon``/``Format`` JVM seams

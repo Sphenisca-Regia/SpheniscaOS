@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared widgets for the audiobook pages, thin over xx_ui.widgets.
 
 Each one mirrors a Compose piece of the Android client: ScreenTitle,

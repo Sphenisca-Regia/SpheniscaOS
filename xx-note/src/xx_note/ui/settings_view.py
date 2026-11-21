@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings + Sync pages for xx-note.
 
 Settings: notes folder (type a path and press Enter, or pick one), note

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W2 power menu + first-boot wizard UX.
 
 Covers the six behaviors the task names: the double-tap confirm state

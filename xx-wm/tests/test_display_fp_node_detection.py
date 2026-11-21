@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """_detect_fp_node: sysfs scan, FP_INPUT_DEV override, no guessed fallback."""
 import sys
 import types

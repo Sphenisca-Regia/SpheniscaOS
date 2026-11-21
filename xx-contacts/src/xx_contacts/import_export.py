@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L5 import/export core: vCard files, Android backup, duplicates (Revision 2).
 
 Pure module: no GTK, no D-Bus, safe headless and in tests. The service

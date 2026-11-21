@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ModemMonitor voice/SMS tracking over real ModemManager signals (W1).
 
 ModemManager never publishes Call objects through the /org/freedesktop/

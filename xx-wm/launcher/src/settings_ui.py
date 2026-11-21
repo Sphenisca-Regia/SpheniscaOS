@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings row grammar: the one way every settings section draws.
 
 A settings subpage is a column of groups, flat on the page like the

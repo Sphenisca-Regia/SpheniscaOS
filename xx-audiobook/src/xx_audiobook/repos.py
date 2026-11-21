@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Library, progress and settings repositories (M1).
 
 Mirrors data/repo/LibraryRepository.kt, ProgressRepository.kt (plus

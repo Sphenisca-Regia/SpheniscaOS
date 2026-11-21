@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Seeded screenshots of every xx-note screen in amoled + paper at the
 # FLX1 canvas (450x1000) and a 360x800 phone, plus graphite (450x1000)
 # and aura (360x800) spot checks and phone-fit probes (320x640, and

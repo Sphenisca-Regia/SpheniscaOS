@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Step sampling pure logic: rebase + derived metric mapping.
 
 Port of data/StepReader.kt (rebase) and data/StepMetricMapper.kt. No sensor

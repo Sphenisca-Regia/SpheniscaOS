@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 presenter tests: list rows, thread search, send gate, links, URIs.
 
 Headless: every behavior lives in the pure presenter modules

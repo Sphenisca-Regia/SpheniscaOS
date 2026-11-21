@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Contract tests between toplevel_manager and the real pywayland API.
 
 Regression guard for the WS19 switcher defects:

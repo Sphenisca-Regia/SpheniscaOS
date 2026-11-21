@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sensor backends over tmp sysfs: no bus, no real hardware in tests."""
 
 from xx_vitals.collect import sensors

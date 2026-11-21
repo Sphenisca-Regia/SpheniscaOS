@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The Book page's Ratings & reviews block (M5, ui/detail/ReviewsBlock.kt).
 
 The summary (average + stars + count), "Finished. Rate it?" when

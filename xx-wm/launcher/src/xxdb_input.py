@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xxdb input injection: a uinput virtual touchscreen + keyboard.
 
 Prefers python-libevdev when importable, else raw /dev/uinput ioctls via

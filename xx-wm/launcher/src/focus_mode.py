@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Focus Mode — Pixel model (design.md "Focus Mode").
 

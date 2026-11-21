@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """APN save: the gsm profile is written through NetworkManager's D-Bus
 settings API (password never in argv), a profile is created when none
 exists, and the status line reports what NetworkManager answered.

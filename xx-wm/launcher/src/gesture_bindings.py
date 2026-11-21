@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Generate the lisgd bindings for system-level gestures.
 
 docs/config.md documents the system-level gesture slots as configurable

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ContactBook off the startup path: the fallback files are read on a
 worker, the first service sync keeps a bounded number of Get calls in
 flight, and a repeated caller-ID lookup (the call timer asks every

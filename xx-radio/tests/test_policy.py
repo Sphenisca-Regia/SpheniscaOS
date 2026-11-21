@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Policy units with a fake clock: skip, sleep, errors, radio, offline mix."""
 
 import pytest

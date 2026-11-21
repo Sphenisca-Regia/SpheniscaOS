@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure-logic port of ExpressionBuilderTest.kt from ref/xx-calculator.
 
 The input-grammar state machine: operator replacement, decimal rules,

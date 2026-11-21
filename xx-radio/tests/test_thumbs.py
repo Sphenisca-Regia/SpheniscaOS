@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Local thumbs up/down: store, signed-out path, filtering, skip,
 boost, kill hint, and remote forwarding. Fake engine only, no network."""
 

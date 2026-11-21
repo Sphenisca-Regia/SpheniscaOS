@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The GUI's PlayerClient drives the real service over a private bus."""
 
 import os

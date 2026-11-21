@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Session launcher for XX-WM on river: the same session environment as
 # xx-wm-session (phoc), then river with xx-wm-river-init as its init.
 # river's own log goes to ~/.local/share/xx-wm/river.log.

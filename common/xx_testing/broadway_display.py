@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Start a private gtk4-broadwayd on a display nobody else holds.
 
 Parallel runs (test suites, snap lanes) used to derive the display

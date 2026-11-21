@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Origin rules and 401/403 handling mirror EstateOrigin/UnauthorizedReason."""
 
 from xx_audiobook import auth as auth_module

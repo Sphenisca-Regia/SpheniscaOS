@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Static guards: no network code, real GLib Variant use where D-Bus
 appears, GTK signal names, and theme-token discipline."""
 

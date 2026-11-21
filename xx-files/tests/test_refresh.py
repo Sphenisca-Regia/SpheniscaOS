@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """A superseded folder listing never paints (no GTK needed)."""
 from types import SimpleNamespace
 

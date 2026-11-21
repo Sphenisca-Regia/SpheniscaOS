@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Seeded screenshots of every xx-calculator state:
 #   xx-calculator/tools/snap_all.sh OUTDIR
 # Every portrait state (first launch, basic, result, error, science, a

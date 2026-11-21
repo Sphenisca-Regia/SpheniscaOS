@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Cold-start mini-player restore (M2).
 
 Mirrors playback/PlayerRestore.kt: the last book and position become a

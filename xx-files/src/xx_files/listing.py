@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Directory order: directories first, then files, each group by name.
 
 Port of the Android ``Listing`` JVM seam (todo.md WS2): the on-screen

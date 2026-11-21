@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Drawer folder population (design.md "App drawer" row order + Folders).
 
 The drawer's folder machinery (expansion state, folder/member rows,

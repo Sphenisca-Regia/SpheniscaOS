@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shell stderr capture (phone has no visible traceback sink).
 
 The wrapper's python child used to inherit phoc's stderr (/dev/tty7), so

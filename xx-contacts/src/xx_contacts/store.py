@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SQLite contact store: xx-contacts owns its contacts (Revision 2 §1).
 
 Source of truth at ``~/.local/share/xx-contacts/contacts.db``: schema

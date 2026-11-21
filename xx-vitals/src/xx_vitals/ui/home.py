@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Home tab: dual ring, stat row, goal cards.
 
 Pure math lives in core/home + core/metrics; this module only builds widgets.

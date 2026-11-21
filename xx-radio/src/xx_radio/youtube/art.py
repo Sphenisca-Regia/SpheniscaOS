@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Thumbnail choice for YouTube's image hosts.
 
 Search, home and page responses carry several renditions of the same art.

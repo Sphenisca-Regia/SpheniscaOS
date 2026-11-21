@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Urllib SyncApi: verb/path mapping, Bearer [REDACTED] status taxonomy.
 
 Production transport is stdlib urllib in worker threads only. The transport

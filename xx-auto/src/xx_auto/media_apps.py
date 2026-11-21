@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Suite media apps the Radio/Audiobook tiles open.
 
 The public radio app is xx-radio and the audiobook app is xx-audiobook;

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver for the L4 smoke test.
 
 Builds the REAL contacts window plus the new editor (new + edit),

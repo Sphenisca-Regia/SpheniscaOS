@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Wait-until-condition helpers for Broadway/real-GTK tests.
 
 Fixed sleeps flake under load: the Broadway round trip can outlast

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Burst stride filter: still stays zero, walking counts, floor relearns."""
 
 import math

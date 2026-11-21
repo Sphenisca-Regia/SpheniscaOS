@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Headless L5 shell tests: launch parsing, models, and static D-Bus guards."""
 
 import datetime as dt

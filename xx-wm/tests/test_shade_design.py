@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shade redesign contract: glyph assets, tile looks (on / working /
 needs-you), the truthful date line and the display face. Pure or
 fake-widget only; the looks themselves are verified by renders."""

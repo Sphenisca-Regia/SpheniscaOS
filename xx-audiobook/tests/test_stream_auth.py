@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """StreamAuth: the bearer goes to the estate host only."""
 
 from xx_audiobook.stream_auth import StreamAuth

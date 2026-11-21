@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Client contract: exact D-Bus payloads the overlay and shell tile send.
 
 A fake bus records every call/subscribe so the suite pins sender

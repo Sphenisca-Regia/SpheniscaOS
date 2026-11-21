@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings › Nope-Mode section: master switch, blocked apps, schedules.
 
 Mirrors the Android app's areas in one phone page: the master switch

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Post-install refresh: running suite apps pick up new code without reboot.
 
 Exercises refresh_running_apps (plus its _rra helpers) from

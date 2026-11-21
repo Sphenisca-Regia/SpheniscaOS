@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The process-wide YouTube Music catalog client.
 
 ytmusicapi is plain ``requests`` in-process. One ``YTMusic`` client serves

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """State API for the Settings › Playback engine screen.
 
 Wraps :mod:`xx_radio.setup` (the private venv, the token helper) and

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Fail when blocking calls are reachable from main-loop code.
 
 Flags ``subprocess.run`` / ``check_output`` / D-Bus ``call_sync`` /

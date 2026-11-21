@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """On-device log for XX Email (stdlib only, no GTK).
 
 Ports log/AppLog.kt: a process-wide ring (300 lines) plus a rotating

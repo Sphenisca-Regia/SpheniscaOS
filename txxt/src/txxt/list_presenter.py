@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure conversation-list and thread presenters (headless).
 
 Ports the pure slices of the Android thread UI:

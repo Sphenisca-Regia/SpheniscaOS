@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Every xx-radio screen and state in four themes, plus 320 px and
 # text-size-2 fit checks:
 #   xx-radio/tools/snap_all.sh OUTDIR [LABEL ...]

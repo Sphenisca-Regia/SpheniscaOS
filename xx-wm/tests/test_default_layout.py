@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for default_layout.py - pure logic via injected fake resolvers."""
 from pathlib import Path
 

@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Seeded screenshots of every xx-files screen in amoled + paper on the
 # FLX1 canvas (450x1000), the main screens at 360x800, plus fit probes
 # (320 px wide, text-size-scale 1.5) and graphite/aura spot checks:

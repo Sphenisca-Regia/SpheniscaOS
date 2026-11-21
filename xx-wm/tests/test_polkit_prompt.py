@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The password dialog does not repeat PAM's generic "Password:" prompt
 under a field that already says Device password (seen on the FLX1)."""
 import sys

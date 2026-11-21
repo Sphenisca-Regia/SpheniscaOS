@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure caption-overlay state: no GTK, no D-Bus, no network.
 
 CaptionBuffer renders the Text-signal stream as 2-3 lines: a partial

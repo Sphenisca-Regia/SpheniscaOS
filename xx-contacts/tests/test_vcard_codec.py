@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """vCard codec tests: 4.0/3.0 parse + serialize + store mapping (L1)."""
 
 import pytest

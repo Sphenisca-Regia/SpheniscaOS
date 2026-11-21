@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-find: self-hosted Find My Device for XX-WM phones.
 
 Built, NOT deployed: the agent refuses to report or accept commands until

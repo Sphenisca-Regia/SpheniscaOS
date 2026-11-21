@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Seeded demo data for screenshots and smoke tests.
 
 Writes synthetic (but real-format) NWS bodies through the normal cache

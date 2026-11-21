@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 5 erase: double-gated user-data wipe with dry-run planning.
 
 The agent already double-gates erase (`Agent._erase_confirmed`: the

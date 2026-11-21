@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Conversation list page: rows, list search, long-press actions.
 
 The UI reads the SQLite store for display, sends through the daemon's

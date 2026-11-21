@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Local vault: plain Markdown files + a small JSON index.
 
 Each note is one ``<ulid>-<slug>.md`` file with YAML frontmatter (see

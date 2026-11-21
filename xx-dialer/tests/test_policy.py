@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Policy engine tests: the §6 precedence table in miniature.
 
 A fuller truth-table port (boundaries, DST, 14:59/15:01, 47:59/48:01)

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Owner update-system.sh as THE Settings update path.
 
 Covers install-path selection, the terminal/headless runner choice, the

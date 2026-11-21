@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # XX-WM installer — whiptail TUI, cached sudo, network check up front.
 # POSIX sh; runs on postmarketOS/Alpine (apk), Debian/Mobian (apt), and Arch (pacman).
 # GitHub.com/PiercingXX

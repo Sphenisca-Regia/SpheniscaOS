@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """LocalSend v2.2 message shapes: encode/decode with strict validation.
 
 Pure stdlib, no I/O, no GTK: safe to import anywhere, including headless

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Suite identity: desktop entry, app id and icon agree.
 
 ``DBusActivatable=true`` without a matching ``<app-id>.service`` breaks

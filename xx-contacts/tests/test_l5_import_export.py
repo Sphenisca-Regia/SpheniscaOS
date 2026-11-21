@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L5 import/export tests: fixtures, duplicates, backup, bulk, EDS.
 
 Covers the task gates: ``contacts.vcf`` + ``groups.json`` round trips

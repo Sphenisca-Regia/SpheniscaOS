@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Findings 13 + 34 repro: photo handling destroys or leaks data.
 
 13: ``Create`` with an existing UID and an embedded PHOTO overwrites

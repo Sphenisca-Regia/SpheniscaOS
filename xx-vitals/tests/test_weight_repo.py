@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of WeightRepositoryTest: offline-first queue honesty."""
 
 from xx_vitals.store import entries

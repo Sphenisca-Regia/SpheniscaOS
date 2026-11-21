@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W1 system-integration tests: subprocess/D-Bus fakes for every fixed bug.
 
 Covers status collection (async, no-rescan wifi, D-Bus modem, battery

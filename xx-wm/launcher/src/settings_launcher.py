@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Home & launcher settings: the Linux twin of the Android xx-launcher
 preferences screen (Home Screen, Widgets, App Drawer, Gestures), with
 the same rows, titles, summaries, choices, defaults and order, all

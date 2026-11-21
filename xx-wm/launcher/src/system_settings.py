@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 System settings backends — the config file can't own these (design.md
 "Settings scope"): WiFi networks, Bluetooth pairing, sound output devices,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """D-Bus input validation (pure rules of alarm/AlarmClockApi.kt).
 
 Android's AlarmClock intents do not exist on Linux; the same validation

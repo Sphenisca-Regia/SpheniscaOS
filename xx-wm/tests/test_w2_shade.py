@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W2 notification shade + quick settings redesign (task w2_shade).
 
 Text-first monochrome shade: full-screen scrim surface, no-truncate header,
