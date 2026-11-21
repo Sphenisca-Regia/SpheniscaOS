@@ -1,0 +1,62 @@
+name: Bug
+description: Something in xx-os is broken.
+labels: [bug, triage]
+body:
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      options:
+        - xx-wm (shell)
+        - xxwm (river window manager)
+        - xx-keyboard
+        - xx-dialer
+        - txxt
+        - xx-contacts
+        - xx-calendar
+        - xx-email
+        - xx-share
+        - xx-captions
+        - xx-clock
+        - xx-note
+        - xx-weather
+        - xx-calculator
+        - xx-files
+        - xx-auth
+        - xx-radio
+        - xx-audiobook
+        - xx-vitals
+        - xx-auto
+        - xx-find
+        - common
+        - Install / packaging
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and OS
+      description: Phone (or VM) and distro, with versions where you know them.
+      placeholder: Librem 5, Mobian forky, phoc 0.58
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: xx-os version
+      description: Commit hash, or the app's version from apps.json.
+      placeholder: 4c88daf
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, what you got instead.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: "`journalctl -b -t xx-wm` or the app's output. Trim it to the part that matters."
+      render: text

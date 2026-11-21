@@ -1,0 +1,54 @@
+name: Device report
+description: You ran xx-os on a phone. Tell us what worked and what didn't.
+labels: [device, triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every phone we haven't tested is a phone we know nothing about. A report with half the boxes ticked is still useful.
+  - type: input
+    id: device
+    attributes:
+      label: Device
+      placeholder: Fairphone 5
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: OS, compositor and versions
+      placeholder: postmarketOS edge, phoc 0.58, kernel 6.12
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: xx-os commit
+      placeholder: 4c88daf
+  - type: checkboxes
+    id: works
+    attributes:
+      label: What works
+      options:
+        - label: Shell starts (home, drawer, shade)
+        - label: Lock screen and PIN
+        - label: Touch and gestures
+        - label: On-screen keyboard
+        - label: Calls (in and out)
+        - label: SMS / MMS
+        - label: Mobile data
+        - label: Wi-Fi and Bluetooth toggles
+        - label: Suspend and wake
+        - label: Alarms ring from suspend
+        - label: Docked monitor
+  - type: textarea
+    id: broken
+    attributes:
+      label: What's broken or odd
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Install notes
+      description: Anything you had to do that the README didn't say.
