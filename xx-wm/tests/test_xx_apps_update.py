@@ -656,8 +656,10 @@ class TestInstallRecord:
         data = json.loads((state / "installed.json").read_text(
             encoding="utf-8"))
         assert data["xx-find"]["commit"] == "deadbeef"
-        assert data["xx-find"]["version"] == "0.1.0"
-        assert data["common"]["version"] == "0.1.0"
+        manifest = json.loads((REPO_ROOT / "apps.json").read_text(
+            encoding="utf-8"))
+        assert data["xx-find"]["version"] == manifest["xx-find"]["version"]
+        assert data["common"]["version"] == manifest["common"]["version"]
 
     def test_installer_marks_every_app_install(self):
         text = self.INSTALL.read_text(encoding="utf-8")
