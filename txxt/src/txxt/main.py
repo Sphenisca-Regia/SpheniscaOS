@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """TxxT phone UI: conversation list + thread on an ``Adw.NavigationView``.
 
 The UI reads the SQLite store for display and talks to the daemon

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App CSS for the music screens, rendered from the live theme tokens.
 
 Sits one priority step above xx_ui's stylesheet and re-renders on every

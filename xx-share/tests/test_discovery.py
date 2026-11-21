@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 import json
 import threading
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer

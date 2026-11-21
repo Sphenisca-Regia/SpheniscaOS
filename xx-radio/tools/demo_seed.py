@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Seed a HOME with a demo xx-radio state through the real stores.
 
 Usage: python3 xx-radio/tools/demo_seed.py OUT_HOME

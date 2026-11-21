@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """What the window remembers between runs: small JSON files.
 
 - the Home shelves, so Home paints from disk before the network answers;

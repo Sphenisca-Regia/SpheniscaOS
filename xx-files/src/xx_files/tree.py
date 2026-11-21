@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Expand-in-place tree: flat rows with depth + guide geometry.
 
 Port of the Android ``Tree`` JVM seam. Expanding a folder inserts its

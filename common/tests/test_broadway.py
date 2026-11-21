@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway smoke test: apply() + every widget helper, no GLib criticals.
 
 Spawns a private ``gtk4-broadwayd`` and runs

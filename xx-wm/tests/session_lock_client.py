@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """A minimal lock client for test_session_lock_river.py: session_lock's
 SessionLock with plain windows, reporting its events on stdout.
 

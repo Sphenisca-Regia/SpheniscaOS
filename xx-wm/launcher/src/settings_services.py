@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Curated services section (ref service-manager.sh).
 
 A fixed list, never a unit browser: state reads unprivileged (systemd

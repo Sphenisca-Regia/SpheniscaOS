@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway coexistence driver (run as a subprocess under dbus-run-session).
 
 Starts the REAL policy service subprocess, waits until it owns

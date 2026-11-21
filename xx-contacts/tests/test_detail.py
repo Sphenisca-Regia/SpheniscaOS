@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L3 detail-model tests: sections, display numbers, URIs, history seam."""
 
 from xx_contacts.detail import (

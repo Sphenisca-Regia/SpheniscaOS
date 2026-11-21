@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane wm_services tests: sharing backends with fake runners.
 
 Firewall, SSH, wireless debugging (ADB), KDE Connect and Syncthing.

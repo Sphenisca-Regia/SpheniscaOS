@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Book playback engine: GStreamer playbin behind the book timeline (M2).
 
 BookPlayer maps book-level transport (seek/skip/chapters/speed) onto one

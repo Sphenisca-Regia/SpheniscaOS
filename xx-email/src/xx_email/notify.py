@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """New-mail notifications for milestone 8 (stdlib + GI, no GTK).
 
 One summary notification per account, like the Android Notifier's

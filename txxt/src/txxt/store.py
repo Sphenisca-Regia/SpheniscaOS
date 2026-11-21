@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SQLite data layer.
 
 Ports the Android Room stack (``data/*Dao``, ``*Entity``, ``InboundStore``,

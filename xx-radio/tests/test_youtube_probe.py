@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Engine piece detection: versions, runtimes and the resulting states."""
 
 import datetime as dt

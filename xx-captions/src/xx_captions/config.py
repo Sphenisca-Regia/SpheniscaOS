@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure configuration and first-run storage for xx-captions.
 
 No D-Bus, no GTK, no network: load/save JSON plus the model-download

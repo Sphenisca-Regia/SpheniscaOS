@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Zones (M5, ui/zones/ZonesScreen.kt): Home Assistant speakers.
 
 Where the audio goes (this phone or a zone) sits on top. While a zone

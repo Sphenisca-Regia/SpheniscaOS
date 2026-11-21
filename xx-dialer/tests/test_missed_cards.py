@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Missed-call cards: every unanswered incoming that rang posts one.
 
 The dialer policy service owns every missed-call card (the shell posts

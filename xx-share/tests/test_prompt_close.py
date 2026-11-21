@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Stale-prompt safety: the notification closes when a session ends.
 
 After Accept/Decline, or when the session expires or the sender

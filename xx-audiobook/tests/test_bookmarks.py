@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Bookmarks: Room cache, offline queue, flush, 404 drops."""
 
 from xx_audiobook import api as api_module

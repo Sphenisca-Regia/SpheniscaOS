@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """File-kind classification by name, for the row glyph.
 
 Port of the Android ``FileKind`` JVM seam. Folders are decided by the

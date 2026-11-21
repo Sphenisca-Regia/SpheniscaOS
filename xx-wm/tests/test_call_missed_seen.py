@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The shell posts no missed-call cards: the dialer owns them all.
 
 The dialer policy service is D-Bus activatable, so NoteCall wakes it

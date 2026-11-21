@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Input nodes that come and go: /dev/input is watched and readers reopen.
 
 A node that re-enumerates (the power key on a reprobed controller) must be

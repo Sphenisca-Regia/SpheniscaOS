@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The account the person optionally signs in with (PORT_SPEC.md 2.6).
 
 One optional account: anonymous by default, browser headers (recommended)

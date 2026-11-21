@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Fresh-interpreter driver for the Broadway smoke test.
 
 Run in a subprocess with GDK_BACKEND=broadway, BROADWAY_DISPLAY and

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Storage use and safe cleanup (lane sm_storage, ref clean-system.sh).
 
 Read-only sizing plus two cleanup paths: user-level work that runs on a

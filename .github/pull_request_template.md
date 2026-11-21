@@ -10,4 +10,5 @@
 
 - [ ] `sh scripts/check-all.sh <projects you touched>` passes
 - [ ] Bumped the version of every app whose behavior changed (`scripts/app_versions.py bump`)
+- [ ] New source files start with their SPDX line (`python3 scripts/spdx.py --write`)
 - [ ] Works at 360×720 and reads at 320 px wide (UI changes)

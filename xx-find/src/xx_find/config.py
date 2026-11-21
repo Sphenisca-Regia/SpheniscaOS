@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Agent configuration. Defaults to disabled; nothing runs until the owner
 opts in via Settings AND pairs with a server (see PORT_SPEC.md)."""
 

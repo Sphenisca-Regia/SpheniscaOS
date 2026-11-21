@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Display-only number text: the shared xx_phone rule through recents.
 
 Home-country numbers read nationally, foreign ones keep their country

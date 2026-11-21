@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ContactsClient over a fake session bus with the exact bus signatures.
 
 The fake mirrors the real Gio traps: every D-Bus reply unpacks to a

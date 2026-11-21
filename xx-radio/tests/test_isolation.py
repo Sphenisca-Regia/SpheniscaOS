@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The reusable core stays source-agnostic and app-agnostic.
 
 xx_music must never import a music-source library or the xx_radio app,

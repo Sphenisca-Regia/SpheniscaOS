@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for app_index.py search matching."""
 from pathlib import Path
 

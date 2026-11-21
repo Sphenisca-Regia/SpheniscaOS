@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Keyboard layout picker (lane sm_device, ref keyboard-layout.sh).
 
 The session script owns the boot default from the `keyboard_layout`

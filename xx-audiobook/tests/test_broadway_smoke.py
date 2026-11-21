@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway UI test: the REAL window, offline, on a seeded cache.
 
 Seeds a temp HOME with tools/demo_seed.py, spawns gtk4-broadwayd on a free

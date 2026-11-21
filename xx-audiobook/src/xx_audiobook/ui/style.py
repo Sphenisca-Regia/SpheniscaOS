@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App-level CSS on top of xx_ui: the Android client's look in GTK.
 
 The Compose app (ui/theme/Type.kt, Brand.kt) sets the rules mirrored

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the 20.1 tap-outside OSK dismissal.
 
 The real Gtk event wiring -- a GestureClick on the shell stack that hides

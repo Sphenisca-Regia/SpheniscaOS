@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """In-window bottom sheets: the shell's one surface for menus, pickers,
 prompts and confirmations (the Linux counterpart of the Android
 launcher's ActionSheet, which is a bottom sheet for every one of them).

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """One-time EDS import tests: read-only, fake client, no EDS needed (L4)."""
 from xx_calendar import eds_import
 from xx_calendar.service import CalendarService

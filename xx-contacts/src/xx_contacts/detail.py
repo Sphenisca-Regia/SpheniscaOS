@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L3 detail model without GTK: sections over a store ``ContactRecord``.
 
 Pure module so pytest runs headless. The GTK page (``detail_ui``) renders

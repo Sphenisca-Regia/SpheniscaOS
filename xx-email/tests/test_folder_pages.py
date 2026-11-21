@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Server-driven fills behind the mailbox UI: hydrate + folder pages.
 
 Covers the two public SyncEngine seams the mailbox/search pages use

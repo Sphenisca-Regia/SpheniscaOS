@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Every Gtk.Entry / SearchEntry the shell draws is OSK-attached or exempt.
 
 PIN keypads are buttons, not entries. A new Entry without osk.attach /

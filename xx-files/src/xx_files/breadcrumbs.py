@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Breadcrumb split/navigate: absolute path <-> labelled segments.
 
 Port of the Android ``Breadcrumbs`` JVM seam (todo.md F3). The root

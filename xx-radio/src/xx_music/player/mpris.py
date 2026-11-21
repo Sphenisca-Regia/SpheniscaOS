@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MPRIS2 interfaces for the player service. Property dictionaries are built
 here from plain arguments so xx-auto and the shade see one consistent shape.
 """

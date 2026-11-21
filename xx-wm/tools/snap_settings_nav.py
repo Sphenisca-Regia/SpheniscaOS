@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """In-process shot driver for snap_settings.sh (runs as a snap.py --script).
 
 One shell launch renders every Settings shot: the category menu, each

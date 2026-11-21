@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The shell talks to the on-screen keyboard that is actually running.
 
 xx-keyboard and squeekboard both serve sm.puri.OSK0. On the FLX1

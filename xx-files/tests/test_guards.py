@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Static guards: no network, honest D-Bus reply types, valid GTK signals."""
 import re
 from pathlib import Path

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Phone-fit rules the UI pass fixed: thumb-sized targets, taps on the
 alarm switch, and the copy that must stay whole."""
 import re

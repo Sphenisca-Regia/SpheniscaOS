@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """TxxT Linux port: text-first SMS/MMS client for phoc phones."""
 
 __version__ = '0.1.0'

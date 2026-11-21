@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-files: native Linux file manager (Android xx-files port).
 
 Volumes + tree/list/grid browsing, breadcrumbs, sort, search,

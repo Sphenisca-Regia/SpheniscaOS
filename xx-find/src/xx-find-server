@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """xx-find-server launcher (plain-Python fallback for the NAS)."""
 import sys
 from pathlib import Path

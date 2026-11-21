@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """D-Bus service tests: Calendar1 dispatch over Gio shapes (L2).
 
 Fakes mirror the real library exactly: parameters are real GLib.Variant

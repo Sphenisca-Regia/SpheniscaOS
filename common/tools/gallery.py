@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """XX UI Gallery: every xx_ui component with realistic content.
 
 Three pages selectable by XX_GALLERY_PAGE=1|2|3, each fitting a 360x720

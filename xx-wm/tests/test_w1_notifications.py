@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W1 notification pipeline + shade responsiveness (task w1_notifications).
 
 One focused test per numbered item, all headless with a fake bus, a fake

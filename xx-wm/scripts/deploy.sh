@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # XX-WM dev-loop deploy: rsync launcher/src/ to the phone's installed
 # datadir (/usr/share/xx-wm/) and restart the running shell.
 # Usage:

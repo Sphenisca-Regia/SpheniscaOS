@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Session-bus policy endpoint ``io.piercingxx.XXDialer.Policy1``.
 
 The service owns ``io.piercingxx.XXDialer.Policy`` at

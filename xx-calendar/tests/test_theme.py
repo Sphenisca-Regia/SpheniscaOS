@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Theme adoption: the app uses common/xx_ui, not its own theme copy."""
 from pathlib import Path
 

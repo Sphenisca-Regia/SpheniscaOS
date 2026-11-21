@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure-logic ports of the Android JVM engine tests.
 
 Covers CalculatorTest.kt, FormatTest.kt and CalculatorAngleModeTest.kt

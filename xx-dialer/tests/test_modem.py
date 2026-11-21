@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """VoiceClient over a fake MM1 system bus with the real signatures.
 
 The fake mirrors the traps: every reply unpacks to a TUPLE of out-args,

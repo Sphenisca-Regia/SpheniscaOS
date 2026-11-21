@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real-speech verification for both engines (skips cleanly offline).
 
 Needs the downloaded models in ./models/<id> (or the XDG install dir)

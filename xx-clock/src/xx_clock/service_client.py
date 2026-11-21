@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GUI-facing clock service (daemon when reachable, local fallback).
 
 The daemon is the single writer whenever it runs; every mutation prefers

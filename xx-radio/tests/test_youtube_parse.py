@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Parsers for every recorded ytmusicapi response, plus broken copies.
 
 Each fixture in fixtures/ytmusic/ was recorded on a real phone with

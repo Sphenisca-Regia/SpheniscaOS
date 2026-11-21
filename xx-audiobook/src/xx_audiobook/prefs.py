@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Setup-time preferences stored in ~/.config/xx-audiobook/config.json.
 
 Mirrors the Android DataStore app_prefs keys (data/prefs/AppPrefs.kt) with

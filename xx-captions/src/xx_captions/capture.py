@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """PipeWire capture: process plumbing around the pure plan in audio.py.
 
 Live captions capture the default sink's monitor; call transcription

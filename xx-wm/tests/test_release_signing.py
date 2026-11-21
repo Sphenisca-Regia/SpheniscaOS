@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Signed releases: xx-apps-update installs only from release tags signed by
 the shipped key, and scripts/release.sh cuts them.
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Worker + notify: refresh orchestration and alert delivery with fakes.
 Never the network: demo bodies and inline JSON stand in for HTTP."""
 

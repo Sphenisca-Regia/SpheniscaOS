@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Gmail REST client over stdlib urllib + json (no GTK, no network in tests).
 
 Ports the GmailApi.kt surface (one thin function per endpoint, each

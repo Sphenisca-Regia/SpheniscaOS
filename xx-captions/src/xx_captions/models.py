@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """First-run model downloads: resumable, verified, never automatic.
 
 Nothing here runs without an explicit download() call: engines and

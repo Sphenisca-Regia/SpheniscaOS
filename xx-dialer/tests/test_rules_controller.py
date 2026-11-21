@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """RulesController tests: every Rules-screen write path, headless."""
 import pytest
 

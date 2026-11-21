@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """The real XX-Radio window for scripts/snap.py, wired without a network.
 
 SNAP_SCENARIO picks the state:

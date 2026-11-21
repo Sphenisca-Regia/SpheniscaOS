@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Startup reconciliation with the compositor's output-power mode.
 
 ``zwlr_output_power`` mode lives in the compositor: when the shell

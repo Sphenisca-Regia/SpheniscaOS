@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Full §6 truth-table port of Android RingPolicyTest + boundary cases.
 
 One test per contract line of

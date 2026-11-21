@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Server store + pure handler + tile math. No sockets in tests."""
 
 from __future__ import annotations

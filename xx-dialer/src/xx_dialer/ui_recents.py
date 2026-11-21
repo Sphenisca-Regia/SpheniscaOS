@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Recents page: call log with grouping, chips and verdict lines.
 
 Consumes the pure shapes in ``recents.py`` over the warm SQLite store.

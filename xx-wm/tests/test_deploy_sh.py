@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """deploy.sh must update the installed shell, not a stale home copy.
 
 Meson installs to /usr/share/xx-wm/ and the wrapper execs that path, so

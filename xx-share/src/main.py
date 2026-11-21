@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-share entry point: GUI, --send FILE…, and --service headless mode.
 
 --service runs without a display (systemd user unit) and owns the

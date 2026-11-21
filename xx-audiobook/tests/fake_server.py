@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Loopback fake server for M1 tests (Linux mirror of FakeAudiobookApi).
 
 Threaded http.server on 127.0.0.1 with an ephemeral port, serving canned

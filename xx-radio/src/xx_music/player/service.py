@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The headless player service: queue, GStreamer, MPRIS2, Actions1, Player1.
 
 One GLib main loop for D-Bus and the GStreamer bus watch. Engine calls and

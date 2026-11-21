@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """A deterministic, offline engine: tests, demo screenshots, UI work.
 
 Holds a small invented catalog in memory. It never opens a socket. Stream

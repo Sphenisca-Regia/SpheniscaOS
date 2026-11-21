@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real-PipeWire smoke: runs only with a live PipeWire in reach.
 
 Skips cleanly in containers and the lane jail (no daemon there), and

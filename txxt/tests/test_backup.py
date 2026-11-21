@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L2 backup/import tests: ports of the Android backup suite.
 
 Each section cites its Android source. Fixtures mirror the Android

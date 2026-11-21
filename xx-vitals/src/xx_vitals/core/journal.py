@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Journal grouping. Port of ui/journal/JournalModel.kt (pure part).
 
 Groups activity rows into local calendar days, newest first, with per-day

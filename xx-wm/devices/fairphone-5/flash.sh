@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: MPL-2.0
 # Flash postmarketOS onto Fairphone 5 (fairphone-fp5)
 # Pre-built phosh image from images.postmarketos.org
 #

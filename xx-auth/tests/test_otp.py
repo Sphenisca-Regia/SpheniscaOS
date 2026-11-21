@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """HOTP/TOTP tests — RFC 4226 Appendix D and RFC 6238 Appendix B.
 Translated from Android `engine/HotpTest.kt` and `engine/TotpTest.kt`, with
 the C1 correction the Android tree owes itself: SHA256/SHA512 pin the real

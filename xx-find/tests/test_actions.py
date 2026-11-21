@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 4: ring/message/lock drivers, modem restore, cadence + budget.
 
 Fakes mirror real Gio semantics per XXWM_RULES traps: replies unpack to

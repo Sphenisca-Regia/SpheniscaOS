@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Fill a fake HOME with realistic TxxT data through the real store API.
 
 Usage: demo_seed.py SEED_HOME

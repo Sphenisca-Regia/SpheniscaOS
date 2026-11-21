@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Collector over a fake sysfs tree: never the real devices.
 
 The sampler entry points take their sysfs root explicitly, so these

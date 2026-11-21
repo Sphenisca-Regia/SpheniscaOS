@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-apps-update: compare, safe extraction, ordering, apply, Settings row.
 
 Releases come from throwaway git repos with tags signed by a key made in

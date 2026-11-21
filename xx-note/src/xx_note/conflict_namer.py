@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Conflict-fork naming (port of ``sync/ConflictNamer.kt``).
 
 ``<slug>_<device>_<MMM-dd-HHmm-yyyy>_EditConflict_<n>.md`` — imitates

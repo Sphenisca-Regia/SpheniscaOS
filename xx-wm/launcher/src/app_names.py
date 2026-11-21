@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared application display-name helpers.
 
 One fallback rule for every surface: when no desktop entry matches an

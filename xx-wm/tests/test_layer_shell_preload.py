@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The gtk4-layer-shell LD_PRELOAD reaches the shell only, never the apps it
 launches: Firefox and GTK3 apps abort when they inherit a GTK4 library
 (found when the Tailscale tile's sign-in link crashed Firefox)."""

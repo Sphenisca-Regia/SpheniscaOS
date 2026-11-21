@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of Android's PhoneDisplayTest (contacts, dialer core, TxxT) plus the
 country-lookup precedence tests, driven against the real libphonenumber
 engine (the Python ``phonenumbers`` package — the same engine the dialer

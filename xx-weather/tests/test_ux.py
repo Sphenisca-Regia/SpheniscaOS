@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Phone-user details: plain error lines, back, tiles with a reading."""
 from xx_weather.main import (REFRESH_ERROR, back_target, detail_tiles,
                              zip_error_text)

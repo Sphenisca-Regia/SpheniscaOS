@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """History, favorites, and transfer-cancel models without GTK."""
 import pytest
 

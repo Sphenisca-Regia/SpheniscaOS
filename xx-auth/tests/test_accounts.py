@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Account-flow tests. Translated from the `ReviewPassTest` add/list/
 transfer/import cases plus `AccountListScreenTest` search and
 `AccountDetailScreenTest` edit/delete/move behaviour."""

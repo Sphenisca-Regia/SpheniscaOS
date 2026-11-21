@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Home edit mode fits the phone: the slot rows scroll, the action footer
 (Add app, New folder, Rearrange, Settings, Done) stays on screen at
 360x720 and 320x640. It used to sit inside the scroller, so Settings and

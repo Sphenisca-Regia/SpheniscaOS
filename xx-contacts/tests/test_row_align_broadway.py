@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway regression test: rows share one left edge.
 
 Two rows with very different text widths must place their avatars at

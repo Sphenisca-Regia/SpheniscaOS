@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Static proof that nothing here can be enabled by installation.
 
 These tests read the shipped files (unit, meson.build, config) and fail

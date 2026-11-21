@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real settings window under Broadway (skips cleanly without it).
 
 Serves gtk4-broadwayd on a private display, then runs

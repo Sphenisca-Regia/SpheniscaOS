@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Browse categories. Port of ui/browse/BrowseScreen.kt + CategoryRow.kt.
 
 Activity and Body open metric lists backed by local sources; Heart Rate,

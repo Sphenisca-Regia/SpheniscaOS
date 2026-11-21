@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Docked top bar: a thin strip at the top of every monitor that is not
 the handset, while xxwm runs the session (river).
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Which YouTube Music engine pieces are on this phone, and do they work?
 
 Pure parsing helpers plus one ``probe()`` that looks at installed Python

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of StepReaderTest + StepMetricMapperTest (pure rebase + mapping)."""
 
 from xx_vitals.collect import sampler

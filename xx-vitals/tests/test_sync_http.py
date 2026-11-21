@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of CleartextPolicyTest + HttpSyncApiTest (fake transport, no sockets)."""
 
 from xx_vitals import sync_wire

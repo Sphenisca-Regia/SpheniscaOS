@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure view-model helpers for the L5 app shell (Revision 2 §5, §7 L5).
 
 GUI-free on purpose: every name here is unit-tested headless, and the

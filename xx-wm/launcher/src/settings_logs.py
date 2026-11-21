@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Extended log viewer backends (lane sm_device, ref log-viewer.sh).
 
 The About → Logs page shows the shell-log tail plus journal, kernel and

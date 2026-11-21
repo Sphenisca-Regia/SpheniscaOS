@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 # shellcheck shell=sh disable=SC2034 # read by the scripts that source it
 # Pinned inputs for the Pixel 9 (tokay) bring-up. Sourced by the other
 # scripts in this directory; see docs/pixel-9-bringup.md for where each value

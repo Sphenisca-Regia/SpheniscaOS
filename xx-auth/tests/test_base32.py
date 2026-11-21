@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Base32 codec tests — RFC 4648 §10 vectors. Translated from Android
 `engine/Base32Test.kt`."""
 import pytest

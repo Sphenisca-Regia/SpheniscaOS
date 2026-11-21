@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GLib scheduling policy with a fake main loop (no display, no waiting)."""
 
 from xx_clock import request_codes as codes

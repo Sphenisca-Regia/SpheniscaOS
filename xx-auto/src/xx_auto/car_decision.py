@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Car-connect trigger decision (port of Android CarConnectDecision)."""
 
 from __future__ import annotations

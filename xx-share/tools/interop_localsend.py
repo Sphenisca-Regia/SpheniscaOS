@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-share <-> LocalSend opt-in interop (manual, not run by pytest).
 
 Mirrors interop_harness.py without its HARNESS PATCH: the device cert

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Ring fallback order (port of audio/RingCandidates.kt).
 
 An alarm that makes no noise is not an alarm: the chosen tone is tried

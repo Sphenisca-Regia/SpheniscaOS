@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared test setup: src/ importable, HOME never the real one."""
 from pathlib import Path
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pattern mask builder: pure port of ui/MaskBuilder.kt, stdlib only.
 
 Typed digits in, (prefix, wildcards) out — the exact contract

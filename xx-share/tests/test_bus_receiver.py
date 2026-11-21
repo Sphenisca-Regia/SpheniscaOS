@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """bus_receiver_running asks the bus daemon, the only API that exists."""
 import subprocess
 import sys

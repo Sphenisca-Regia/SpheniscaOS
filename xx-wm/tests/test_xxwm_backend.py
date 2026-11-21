@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The xxwm backend against a real Unix socket standing in for xxwm."""
 import json
 import os

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Store behavior: round-trips, ordering, runtime, garbage tolerance."""
 
 

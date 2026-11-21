@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver for the pick-window smoke test.
 
 Builds the REAL ``ContactsApp`` pick-mode window (the GUI half of the

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane lp_drawer parity tests: web row, normalized search, auto-launch
 suppression, persisted drawer_sort, pinned browse, row markers, drawer
 close, desktop actions, app-info pages, uninstall planning.

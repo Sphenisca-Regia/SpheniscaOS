@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MPRIS2 + Actions1 + Player1 on a private bus, with the real service.
 
 A helper runs the REAL PlayerService (FakeEngine + file:// FakeProxy +

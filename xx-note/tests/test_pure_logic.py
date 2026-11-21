@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure-logic ports of the Android JVM tests.
 
 Translated from ``ref/xx-note/core/src/test`` (SlugTest, UlidTest,

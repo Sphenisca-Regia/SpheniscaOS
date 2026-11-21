@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Minimal Mode: the vocabulary, the setting, the art gate, the live switch.
 
 The pure half checks the tone/opacity mapping and the row text the

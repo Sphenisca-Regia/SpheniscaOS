@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 phone-rule guards: static checks over the UI sources.
 
 GTK behavior that headless tests cannot execute (focus, list

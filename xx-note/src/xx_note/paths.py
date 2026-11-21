@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """XDG directories + notes-folder resolution for xx-note."""
 
 from __future__ import annotations

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Backup page: export/import ring_policy.json + calllog.json.
 
 Same shapes the Android app exports, so a file restores on either

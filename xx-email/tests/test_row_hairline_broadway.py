@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway hairline test for the mailbox rows (needs a real display).
 
 List rows carry a 1 px hairline except the final one (``last`` drops

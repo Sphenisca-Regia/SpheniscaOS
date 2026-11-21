@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sender/contact display names for milestone 6 (stdlib only, no GTK).
 
 Owner directive (PORT_SPEC review note 1): recipient autocomplete and

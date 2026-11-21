@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """People controller tests: sections, sheets, tag writes, empty states."""
 from xx_dialer.store import BIZ_TIER, BLOCKED_GROUP, MirrorRow, Store
 from xx_dialer.ui_people import (

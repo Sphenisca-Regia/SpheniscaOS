@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver for the Lane 6 smoke test (run as a subprocess).
 
 Builds the REAL dialer view against the seeded store the parent

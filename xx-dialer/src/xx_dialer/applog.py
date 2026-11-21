@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App diagnostics log: rotated text logs plus redacted reads.
 
 Writes to ``~/.local/share/xx-dialer/logs/xx-dialer.log`` (stdlib

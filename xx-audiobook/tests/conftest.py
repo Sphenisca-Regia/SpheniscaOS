@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared test setup: package sources importable without PYTHONPATH."""
 
 from pathlib import Path

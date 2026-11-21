@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the lock screen: notification line filtering (pure logic),
 live-config PIN decisions, and the fingerprint verify invocation."""
 import types

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Engine health: per-capability error counters that raise one banner.
 
 Each process owns a :class:`HealthMonitor` and feeds it every engine

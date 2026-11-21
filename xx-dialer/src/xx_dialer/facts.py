@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """CallerFacts builder plus the CheckNumber/NoteCall engine core.
 
 Warm SQLite reads only — the mirror, tier, blocklist, call-log,

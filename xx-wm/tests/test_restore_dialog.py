@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """In-shell restore flow: no file chooser (a toplevel would open UNDER the
 layer-shell TOP surface). "Restore from backup" lists xx-wm-backup-*.json
 from ~ and ~/Documents (newest first, date labels, max 10) plus Cancel in

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Smart Lock settings (UI over smart_lock).
 
 Trusted Bluetooth devices (bonded, via BlueZ), trusted Wi-Fi access

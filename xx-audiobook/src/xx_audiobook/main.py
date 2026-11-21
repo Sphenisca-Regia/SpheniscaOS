@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-audiobook entry point: Adw.Application with the five-tab shell.
 
 The window (ui/shell.py) builds the five tabs (Library, Playing,

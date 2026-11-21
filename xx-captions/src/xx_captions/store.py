@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Per-call transcript store: SQLite under a 0700 dir, file kept 0600.
 
 Only call sessions with the opt-in setting write here; playback and

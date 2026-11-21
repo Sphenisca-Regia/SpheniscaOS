@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Emergency calling + Medical ID from the lock screen (Android parity).
 
 Covers the pure matcher (built-in union modem list, dial-string

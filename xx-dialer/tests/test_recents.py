@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 4 headless tests: pure recents logic, store seams, controller."""
 from datetime import datetime, timezone
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Accelerometer burst step detection: pure stride filter, no I/O.
 
 A collector tick samples the phone accelerometer for ~10 s at ~50 Hz

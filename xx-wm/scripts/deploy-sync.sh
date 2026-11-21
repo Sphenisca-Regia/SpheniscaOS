@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Root half of scripts/deploy.sh on a test device. grant-tablet-sudo.sh
 # installs this as /usr/local/libexec/xx-wm-deploy-sync and lets the
 # test user run only this command without a password. It copies one

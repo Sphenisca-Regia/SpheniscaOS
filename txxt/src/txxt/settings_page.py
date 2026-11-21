@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings as a navigation page over the txxt JSON config.
 
 Every Android setting with a real Linux effect (``ui/SettingsActivity``,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Every module and stylesheet the app imports is in meson's install list:
 a file left out runs from the checkout and breaks only once installed."""
 

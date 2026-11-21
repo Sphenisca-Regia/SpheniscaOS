@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """One shell per session (1.3) and session naming (1.6).
 
 Under GDM the wayland-session file starts xx-wm-session → phoc → xx-wm,

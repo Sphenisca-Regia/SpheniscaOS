@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Slider debounce + per-expand getter batch (P3-G).
 
 Dragging a shade slider used to spawn one brightnessctl/pactl process per

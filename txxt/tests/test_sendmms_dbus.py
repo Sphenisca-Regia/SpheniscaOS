@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L5 SendMms over a real bus against a fake mmsd-tng.
 
 Runs under ``dbus-run-session``: a fake mmsd-tng owns ``org.ofono.mms``

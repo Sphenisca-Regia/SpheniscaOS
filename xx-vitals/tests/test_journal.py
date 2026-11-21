@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of JournalModelTest (pure grouping, totals, ring, no-data band)."""
 
 from datetime import date, datetime, timezone

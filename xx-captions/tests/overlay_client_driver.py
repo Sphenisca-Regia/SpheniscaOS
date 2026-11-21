@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Driver: the REAL overlay client against the REAL service.
 
 Runs under dbus-run-session with fake engine + fake capture hooks:

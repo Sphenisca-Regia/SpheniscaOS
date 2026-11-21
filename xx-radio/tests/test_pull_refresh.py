@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pull down at the top of a page to refresh it (owner: "swipe down on
 xx-radio to refresh")."""
 import inspect

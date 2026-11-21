@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """lp_settings: Launcher section config keys, appearance mode, text scaling,
 alignment, clock format and the logs viewer backend.
 

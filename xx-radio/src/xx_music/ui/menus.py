@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Long-press menus for songs and for albums, artists and playlists.
 
 Entries follow the engine's capabilities: a missing capability hides

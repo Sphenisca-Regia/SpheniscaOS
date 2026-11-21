@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """One shared ticker for the shell's periodic housekeeping.
 
 Recurring checks (the home and lock clocks, the status line, Focus

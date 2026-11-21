@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Privacy tests: data/config dirs are 0700, written files are 0600."""
 
 import json

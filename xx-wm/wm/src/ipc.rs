@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 //! Control socket: how the XX-WM shell (and scripts) steer the window
 //! manager. river lists windows to other clients through
 //! ext-foreign-toplevel-list but gives them no way to activate or close

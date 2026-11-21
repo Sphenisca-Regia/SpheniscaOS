@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared test setup: sources importable, XDG isolated, network off.
 
 Tests never touch the network: every engine test uses the fake engine or

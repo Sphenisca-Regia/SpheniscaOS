@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L3 fix-up round 2: tap-to-open, tap-to-focus, no autoselect, labels.
 
 Covers the five phone lessons from the c3 screenshots: single-click

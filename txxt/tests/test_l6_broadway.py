@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway L6 smoke: settings page, blocking + quarantine pages.
 
 Seeds a temp store with realistic data (Android-style millisecond ids,

@@ -1,6 +1,8 @@
-# xx-os
+# SpheniscaOS
 
-A complete, minimal phone OS for Linux phones: the **XX-WM** shell and the PiercingXX apps. It runs today on phoc-based systems (postmarketOS, Mobian, FuriOS); the target is a Pixel 9 on Debian with the shell on the river compositor and a docked desktop on an external monitor ([`docs/pixel-9-pro-design.md`](docs/pixel-9-pro-design.md)). Python + GTK4/libadwaita (system pieces in Rust), phone-first (360×720, works down to 320 px wide).
+A complete, minimal phone OS for Linux phones: the **XX-WM** shell and the xx apps. Website: [spheniscaregia.com/os](https://spheniscaregia.com/os/). (This repository was called `xx-os`; the old URLs redirect here.)
+
+It runs today on phoc-based systems (postmarketOS, Mobian, FuriOS); the target is a Pixel 9 on Debian with the shell on the river compositor and a docked desktop on an external monitor ([`docs/pixel-9-pro-design.md`](docs/pixel-9-pro-design.md)). Python + GTK4/libadwaita (system pieces in Rust), phone-first (360×720, works down to 320 px wide).
 
 | Directory | What it is |
 |---|---|
@@ -55,4 +57,12 @@ GTK widget tests run on a virtual display (`gtk4-broadwayd`) and skip cleanly wh
 
 ## License
 
-GPL-3.0. See [LICENSE](LICENSE). The Wayland protocol XML files under `xx-wm/launcher/data/` keep their own MIT notices.
+| Part | Licence |
+|---|---|
+| SpheniscaOS code (the shell, xxwm, the apps, `common/`, scripts) | Mozilla Public License 2.0 ([`LICENSE`](LICENSE)) |
+| `xx-keyboard/` (a Stevia fork), `common/xx_phone/mmi.py`, the GNOME OSK layout | GPL-3.0-or-later ([`LICENSES/GPL-3.0-or-later.txt`](LICENSES/GPL-3.0-or-later.txt)) |
+| Documentation (`docs/`, the READMEs) | CC-BY-4.0 ([`LICENSES/CC-BY-4.0.txt`](LICENSES/CC-BY-4.0.txt)) |
+| Wayland protocol XML files | Their own MIT-style notices, inside each file |
+| The names SpheniscaOS, Sphenisca and XX-WM | [`TRADEMARKS.md`](TRADEMARKS.md) |
+
+Every source file says its licence in its `SPDX-License-Identifier` line. Details and origins: [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md). The licensor is Sphenisca Regia LLC.

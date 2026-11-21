@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SIM PIN / PUK prompt.
 
 A PIN-locked SIM keeps the modem in State LOCKED: it never registers, so

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """M4/M5 screens: the wiring under Downloads, Setup, Sign in, No access,
 Zones, Stats and the reviews block, against the loopback fake server
 (no display needed: pure helpers + AppContext with a pumped main loop)."""

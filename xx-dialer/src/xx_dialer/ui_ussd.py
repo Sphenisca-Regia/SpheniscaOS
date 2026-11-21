@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """USSD/MMI routing for the app's dial paths (keypad, people, recents).
 
 ``*100#`` must never become a voice call (``policy.normalize_number``

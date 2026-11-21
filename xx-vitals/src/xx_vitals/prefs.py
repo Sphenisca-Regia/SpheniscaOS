@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App preferences: goals, profile, units, sync host. Pure stdlib (headless-safe).
 
 Mirrors profile/ProfileRepository.kt semantics: storage is always metric

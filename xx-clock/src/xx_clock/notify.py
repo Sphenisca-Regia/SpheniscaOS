@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Desktop notifications (ring + missed). Headless-safe: Gio loads lazily.
 
 Ringing posts urgency-critical with actions (Snooze/Dismiss for alarms,

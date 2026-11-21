@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sync engine: ordered push drain + delta pull cursor state machine.
 
 Port of sync/SyncEngine.kt to synchronous Python. Push drains the

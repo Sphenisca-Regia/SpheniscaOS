@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Startup never comes up unlocked while the root helper holds a PIN.
 
 A deleted, reset or corrupt config.json loses the marker: the app asks

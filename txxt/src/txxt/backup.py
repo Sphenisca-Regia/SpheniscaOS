@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Canonical backup export/import.
 
 Pure-Python port of the Android backup stack onto the L1 SQLite store:

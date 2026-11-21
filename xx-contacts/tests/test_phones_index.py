@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Phones tests: normalization, E.164, lookup index rules (L1)."""
 
 from xx_contacts.phones import (

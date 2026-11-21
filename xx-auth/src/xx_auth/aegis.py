@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Aegis vault import/export. Port of Android `setup/VaultExporter.kt` and
 `setup/VaultImporter.kt`, written from the public Aegis vault document; no
 Aegis source is copied. AES-256-GCM goes through the `cryptography` distro

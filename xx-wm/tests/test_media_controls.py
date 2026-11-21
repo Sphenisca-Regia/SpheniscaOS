@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MPRIS media controls: watcher, card, keys, wiring (headless).
 
 The watcher is driven through a FakeBus reached via media_controls.GLib /

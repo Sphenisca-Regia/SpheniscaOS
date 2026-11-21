@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W5 call screening + Settings fixes (battery names, charging probe, log).
 
 Headless: D-Bus peers are recording fakes mirroring the real Gio traps

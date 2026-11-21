@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """IO failures become one honest line, never a crash.
 
 Port of the Android ``IoError`` JVM seam (todo.md WS3): the

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Notification client: posture and redaction per Android policy.
 
 Ports ``service/NotificationPolicy`` (sender-name-only content, never

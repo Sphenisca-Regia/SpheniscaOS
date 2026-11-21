@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Player service core: open/play/sync/sleep/conflict against fake server.
 
 Headless (FakeBackend, in-memory DB); D-Bus wire behavior is covered by

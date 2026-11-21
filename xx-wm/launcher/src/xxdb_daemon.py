@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xxdb phone daemon: TLS-over-TCP JSON-lines RPC server.
 
 Stdlib only. The daemon never runs as root, binds Wi-Fi addresses only,

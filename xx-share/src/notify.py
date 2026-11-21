@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Receive prompt over org.freedesktop.Notifications.
 
 Pure helpers (message text, action ids) are Gio-free and covered by

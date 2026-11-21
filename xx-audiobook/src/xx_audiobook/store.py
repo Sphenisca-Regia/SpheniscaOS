@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SQLite store mirroring the Android Room database v1.
 
 Same 8 tables, columns and indexes as data/db/Entities.kt (schema

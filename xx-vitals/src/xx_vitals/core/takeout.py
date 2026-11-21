@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Takeout import parsing: Daily activity metrics.csv, TCX, weight JSON.
 
 Header-driven like the server importer (`ref/xx-vitals/server/importer`),

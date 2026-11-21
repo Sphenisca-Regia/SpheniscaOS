@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Seed a HOME dir with realistic xx-captions data through the real APIs.
 
 Creates: xx-wm theme config, xx-captions config, an installed phone-default

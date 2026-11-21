@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Batched .ics import/export through the service (L4).
 
 Headless: no display. Import runs on the service operation methods (the

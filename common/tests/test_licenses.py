@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The shared About/licenses builders: one data table per app, one page.
 
 Pure parts run headless; the GTK page/dialog construction is covered by
@@ -15,7 +16,7 @@ from xx_ui import widgets  # noqa: E402
 def test_table_lists_the_app_and_what_it_uses():
     entries = widgets.standard_license_entries("TxxT")
     assert entries[0].name == "TxxT"
-    assert entries[0].spdx.startswith("GPL-3.0")
+    assert entries[0].spdx == "MPL-2.0"
     by_name = {entry.name: entry for entry in entries}
     assert by_name["phonenumbers"].spdx == "Apache-2.0"
     assert by_name["GTK 4"].spdx.startswith("LGPL")
@@ -54,8 +55,8 @@ def test_missing_system_copy_shows_spdx_and_url(tmp_path):
 
 
 def test_app_license_matches_metainfo_and_can_be_overridden():
-    # The apps' AppStream metainfo says GPL-3.0-only.
-    assert widgets.standard_license_entries("X")[0].spdx == "GPL-3.0-only"
+    # The apps' AppStream metainfo says MPL-2.0.
+    assert widgets.standard_license_entries("X")[0].spdx == "MPL-2.0"
     entries = widgets.standard_license_entries("X", spdx="MIT")
     assert entries[0].spdx == "MIT"
     assert entries[1:] == widgets.standard_license_entries("X")[1:]

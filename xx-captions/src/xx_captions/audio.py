@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """PipeWire capture target resolution (pure helpers, no PipeWire calls).
 
 Live captions capture the default sink's monitor without touching

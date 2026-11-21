@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Swipe-up capture drag: vertical swipes anywhere on home.
 
 The stack's GestureSwipe sits in the default BUBBLE phase, so a swipe

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 5 erase: dry-run wipe planning, guards, double gate.
 
 Nothing here deletes outside `tmp_path`: the plan is the only mode the

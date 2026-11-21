@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Next-armed selection (pure core of AlarmRepository.nextArmed).
 
 An alarm is armed while enabled OR a snooze is still pending: a one-shot

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for gesture_config.py action validation."""
 from pathlib import Path
 

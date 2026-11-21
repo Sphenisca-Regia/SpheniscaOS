@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App settings for XX Email.
 
 Mirrors data/repo/SettingsRepository.kt keys and defaults; stored as JSON

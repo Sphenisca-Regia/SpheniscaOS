@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """XX-Contacts for Linux phones: a UI over the system address book (EDS)."""
 
 __version__ = "0.1.0"

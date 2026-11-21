@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared Do Not Disturb / Focus schedule matcher.
 
 One copy of the shell's days + start/end matcher (days are

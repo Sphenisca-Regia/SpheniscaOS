@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway UX regressions on the REAL window: minimal states, the car
 picker, self-clearing notes, whole labels, live theme watch."""
 import os

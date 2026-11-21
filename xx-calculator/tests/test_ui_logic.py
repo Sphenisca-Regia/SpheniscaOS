@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Headless UI-logic tests: paste sanitizer, error strings, grouping hook."""
 from xx_calculator.engine import DIVIDE, MINUS, TIMES, ErrorKind
 from xx_calculator.main import (
@@ -48,7 +49,7 @@ def test_license_entries_list_what_the_calculator_ships():
         pytest.skip("GTK is missing")
     names = [entry.name for entry in entries]
     assert names[0] == "calculator"
-    assert entries[0].spdx == "GPL-3.0-only"
+    assert entries[0].spdx == "MPL-2.0"
     assert "phonenumbers" not in names
     assert "GTK 4" in names
 

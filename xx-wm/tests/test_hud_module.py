@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the in-shell HUD module (plan T2).
 
 The HUD is a GTK4 layer-shell overlay that flashes a volume/brightness level

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Bus-name trap driver for test_player_bus.py (under dbus-run-session).
 
 Starts the REAL player service, then proves the GUI app id is still free

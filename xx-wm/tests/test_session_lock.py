@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ext-session-lock lock screen (river): backend choice, monitor placement,
 the SessionLock lifecycle against a fake that mirrors gtk4-session-lock
 1.3 (lock() emits ::monitor for every monitor before it returns, unlock()

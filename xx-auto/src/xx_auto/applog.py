@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Process log ring with redaction (same shape as the Android AppLog).
 
 Never log contact numbers: digit runs of 7+ are masked, along with

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pushed pages: Artist, Album, Playlist, a mood, all moods, charts.
 
 Each opens inside the current tab with a compact back header, paints a

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Library (M3): search, sort + show chips, list/grid (remembered), the
 Continue listening / Continue the series / Listen again / Discover
 shelves, load-more paging and offline marks (ui/library/LibraryScreen.kt).

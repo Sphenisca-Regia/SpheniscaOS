@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App CSS on top of xx_ui: the Android xx-note look in GTK.
 
 Mirrors the Compose app and its design mock: hairline note cards in a

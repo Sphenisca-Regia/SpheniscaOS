@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Addrfix: dialable address vs match key, display formatting, names."""
 
 import os

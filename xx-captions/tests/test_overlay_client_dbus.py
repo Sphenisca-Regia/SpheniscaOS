@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Overlay client against the real service (skips cleanly without a bus).
 
 Runs overlay_client_driver.py under dbus-run-session: the driver

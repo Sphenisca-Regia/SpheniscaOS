@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sender-address normalisation and matching.
 
 Complete port of ``core/PhoneNumbers.kt``. Matching is digit-normalised so

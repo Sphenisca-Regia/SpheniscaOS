@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Setup and No access (ui/setup/SetupScreen.kt,
 ui/login/NoAccessScreen.kt). Sign in itself lives in ui/signin.py: it
 covers the whole window before the tabs exist.

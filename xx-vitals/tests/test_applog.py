@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """On-phone log ring: file under the state dir plus in-memory lines."""
 
 from xx_vitals.core import applog

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The shared private-bus fixture serves drivers without the host bus.
 
 Drivers inherit DBUS_SESSION_BUS_ADDRESS from this fixture, so a

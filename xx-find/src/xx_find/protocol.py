@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Wire protocol: JSON schemas plus signature/expiry/counter validation.
 
 The server only ever sees ciphertext reports. Commands are owner-signed;

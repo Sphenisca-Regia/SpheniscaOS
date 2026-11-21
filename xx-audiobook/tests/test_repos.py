@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Library cache and settings sync against the fake server."""
 
 import json

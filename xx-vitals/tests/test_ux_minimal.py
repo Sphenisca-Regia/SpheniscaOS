@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """UX pass contract: minimal copy, one way to each thing, honest units.
 
 Pure helpers behind the pages (no display needed) plus source guards

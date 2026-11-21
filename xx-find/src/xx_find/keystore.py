@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Phone key storage seam: libsecret on the device, memory fake in tests.
 
 The device pairing token and the owner verify key live in the keyring,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W2 heads-up banners + HUD position (task w2_banners), headless.
 
 Policy/replace/tap/duration execute the real banner helpers; layer-shell

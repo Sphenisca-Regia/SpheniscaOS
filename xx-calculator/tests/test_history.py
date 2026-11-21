@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure-logic port of HistoryStoreTest.kt from ref/xx-calculator.
 
 Newest-first ordering, the 100-entry cap, corrupt-payload resilience and

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-weather: ZIP-code weather for Linux phones (NWS, US only)."""
 
 __version__ = "0.1.0"

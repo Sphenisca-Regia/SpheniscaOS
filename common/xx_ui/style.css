@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: MPL-2.0 */
 /* XX design system. One template, rendered by xx_ui.css.render() which
    substitutes every placeholder with a theme value. Readable as CSS:
    placeholders are theme colors, the font stack, and text-size-scale

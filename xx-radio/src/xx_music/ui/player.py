@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The window's view of the player: one model, two backends.
 
 ``PlayerModel`` holds what the screens show (the service snapshot, the

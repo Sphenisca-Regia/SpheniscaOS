@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Run every project's tests and lint (or only the projects named as arguments).
 # Python: $PYTHON, else ./.venv, else xx-wm/.venv, else python3. xx-captions
 # prefers its own .venv (sherpa-onnx/vosk); real-speech tests skip without it.
@@ -13,6 +14,10 @@ pick_python() {
 }
 PY=$(pick_python)
 failed=""
+if [ $# -eq 0 ]; then
+    echo "=== spdx"
+    "$PY" "$ROOT/scripts/spdx.py" --check || failed="$failed spdx"
+fi
 for p in $PROJECTS; do
     echo "=== $p"
     py=$PY

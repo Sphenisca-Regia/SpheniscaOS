@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Kill artist: confirm sheet and the menu entries that open it."""
 
 from __future__ import annotations

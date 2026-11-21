@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """--sync-once headless entry: dispatch and exit codes.
 
 No display, no session bus, no real keyring: libsecret, HTTP and the database

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L5 import/export page pushed on the list's ``Adw.NavigationView``.
 
 Phone-first 360x720 (min 320x200): a scrolled stack with an import

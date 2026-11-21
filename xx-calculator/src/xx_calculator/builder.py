@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Input-grammar state machine, ported from ExpressionBuilder.kt.
 
 The builder stores the expression in display form using the glyphs the

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Differential fuzz: xx_calendar.recurrence vs python-dateutil.
 
 Moved from the lane-root ``rrule_fuzz.py`` attached by the orchestrator;

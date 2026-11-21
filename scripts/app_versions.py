@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Per-app versions for the XX-Linux-Phone monorepo.
 
 The ``version:`` in each app dir's meson.build is THE version; apps roll

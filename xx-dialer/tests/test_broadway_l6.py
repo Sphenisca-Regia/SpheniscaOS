@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 6 Broadway smoke test: the real Backup + Logs pages.
 
 Builds the real dialer view (all seven pages from ``main``) in a

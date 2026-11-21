@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SQLite calendar store: xx-calendar owns its events (Revision 2 §1).
 
 Source of truth at ``~/.local/share/xx-calendar/calendar.db``: schema

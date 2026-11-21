@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Full-screen ring card (Linux half of ui/AlarmAlertActivity.kt).
 
 Shows over the XX-WM lock screen exactly the way the shell's call UI

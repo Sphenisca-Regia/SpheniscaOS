@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """First-boot Status bar step (status_bar.py's `status_bar_height`).
 
 The step sits between Theme and Timezone, opens on the device default

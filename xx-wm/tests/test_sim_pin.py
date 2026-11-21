@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SIM PIN / PUK prompt: modem lock watch, controller flow, D-Bus calls.
 
 - modem_monitor keeps Modem.State/UnlockRequired/UnlockRetries from

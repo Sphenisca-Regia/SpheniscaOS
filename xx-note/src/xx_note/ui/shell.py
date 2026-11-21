@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Main window: notes grid, labels, archive, trash, settings, sync, editor.
 
 One window, one ``Gtk.Stack`` of pages, four caps bottom tabs (Notes,

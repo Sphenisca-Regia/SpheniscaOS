@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Rules writes reach the running policy service without a restart.
 
 The service reloads config + pattern/block tables on every

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Per-device GSK renderer: on a libhybris (Halium) phone the session asks
 GTK for GL instead of letting every GTK process load the Vulkan driver
 and fail vkCreateWaylandSurfaceKHR first; mainline devices keep GTK's

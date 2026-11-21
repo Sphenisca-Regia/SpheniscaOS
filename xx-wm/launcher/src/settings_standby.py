@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Battery saver & app standby settings (UI over app_standby).
 
 Saver toggle, auto-on threshold, what the saver does, the freeze timeout

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """New-message page: recipient picker over contacts search + typed number.
 
 Ports the F3 surface (``ui/NewConversationActivity``): contact-name

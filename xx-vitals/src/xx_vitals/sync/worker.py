@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Worker threads for login and "Sync now": never block the GTK loop.
 
 Network I/O and libsecret `*_sync` calls run on a daemon thread; results

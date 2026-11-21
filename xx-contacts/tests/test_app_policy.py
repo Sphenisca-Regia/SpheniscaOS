@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 from xx_contacts.app_config import AppConfig, default_config_path
 from xx_contacts.names import compose, split
 from xx_contacts.groups import (

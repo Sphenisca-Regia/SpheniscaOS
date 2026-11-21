@@ -1,4 +1,4 @@
-# Contributing to xx-os
+# Contributing to SpheniscaOS
 
 Small fixes: open a PR. Anything bigger (a new app, a new D-Bus interface, a
 change to how the shell owns a surface): open an issue first so nobody builds
@@ -58,7 +58,26 @@ Imperative subject, no prefix ceremony: `xx-dialer: ring through a repeat
 caller during DnD`. The body says what changed, why, and how you verified it.
 One logical change per commit.
 
-## License
+## Licences and the CLA
 
-xx-os is GPL-3.0. By sending a PR you agree your contribution is released under
-the same license.
+| Part | Licence |
+|---|---|
+| SpheniscaOS code | Mozilla Public License 2.0 ([`LICENSE`](LICENSE)) |
+| `xx-keyboard/`, `common/xx_phone/mmi.py`, the GNOME OSK layout | GPL-3.0-or-later, from upstream ([`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md)) |
+| Documentation | CC-BY-4.0 ([`LICENSES/CC-BY-4.0.txt`](LICENSES/CC-BY-4.0.txt)) |
+| The names SpheniscaOS, Sphenisca and XX-WM | [`TRADEMARKS.md`](TRADEMARKS.md) |
+
+Your contribution is published under the licence of the part it changes.
+
+- **Every new source file starts with its SPDX line**: `# SPDX-License-Identifier: MPL-2.0` (`//` in Rust and
+  JavaScript). `python3 scripts/spdx.py --write` adds missing ones; `scripts/check-all.sh` fails without them.
+- **Never paste code from a proprietary project.** Code ported from an open-source project keeps its licence and
+  header, and gets a row in `THIRD_PARTY_NOTICES.md`.
+- **The contributor licence agreement.** Before your first pull request is merged you sign [`CLA.md`](CLA.md)
+  (individual form, or the entity form if you contribute for an employer). You keep your copyright. You grant
+  Sphenisca Regia LLC, the licensor, a broad licence to your contribution, including the right to relicense it; the
+  project still publishes it under the open licence of the part it changes. You sign once, by replying to the CLA
+  bot on your pull request.
+
+> The CLA bot is not switched on yet. Until it is, pull requests from outside contributors wait; the maintainers
+> will ask you to sign once the bot is live.

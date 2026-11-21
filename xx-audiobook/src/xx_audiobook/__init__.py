@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-audiobook — Linux phone port (spec + scaffold)."""
 
 __version__ = "0.1.0"

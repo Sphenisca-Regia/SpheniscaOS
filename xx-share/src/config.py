@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-share config: own file under ~/.config/xx-share/config.json.
 
 Atomic replace, 0600, same durability rules as the shell config. The

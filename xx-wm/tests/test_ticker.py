@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The shared ticker: minute-aligned clocks, one source at a time, asleep
 while the display is blank (only while_blank jobs run), catch-up on wake;
 and the shell's periodic checks living on it instead of GLib timers of

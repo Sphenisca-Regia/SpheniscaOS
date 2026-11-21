@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ModemManager Voice client on the SYSTEM bus (place/answer/hangup/hold).
 
 The SHELL owns the in-call UI, the ringer and the incoming surface

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Fail when blocking calls are reachable from GTK main-loop code.
 
 Flags, anywhere in ``launcher/src`` except inside the allow-listed worker

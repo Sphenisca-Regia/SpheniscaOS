@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Home shelves, browse views and collections (browse.py),
 against the loopback fake server and offline."""
 

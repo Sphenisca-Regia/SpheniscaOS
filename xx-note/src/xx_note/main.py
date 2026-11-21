@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-note main entry: Adw.Application with the notes shell.
 
 Headless-safe import: Gtk/Adw load lazily so pure tests never need a

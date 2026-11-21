@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-calculator main window: display, keypad, science panel, history.
 
 Headless-safe import: Gtk/Adw load lazily so pure tests never need a
@@ -176,7 +177,7 @@ BACK_TARGETS = {"history": "calc", "licenses": "calc", "license": "licenses"}
 
 
 def license_entries() -> list:
-    """The suite's shared licenses table (the app's own GPL-3.0-only line
+    """The suite's shared licenses table (the app's own MPL-2.0 line
     first), minus what this app does not ship (phone numbers)."""
     import xx_ui
 

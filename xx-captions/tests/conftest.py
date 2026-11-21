@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared pytest setup: put src/ and ../common on sys.path so the
 package and the shared xx_ui design system import without an install.
 Headless by construction (no gi, no network)."""

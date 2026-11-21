@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 //! The window manager: river's manage/render cycle, the per-output policy
 //! (handset = one app at a time, desktop = dwindle tiling) and the dock
 //! hand-over between them.

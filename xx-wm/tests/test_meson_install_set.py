@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Meson ships every top-level launcher/src/*.py module.
 
 A meson install once omitted hud.py, lock_lines.py, and

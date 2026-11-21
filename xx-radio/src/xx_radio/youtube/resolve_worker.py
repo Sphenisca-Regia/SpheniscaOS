@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Turn song ids into fetchable audio locations, in a child process.
 
 Runs as ``python3 -m xx_radio.youtube.resolve_worker``: JSON over stdin,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Timers tab: preset chips, custom minutes, live cards.
 
 Mirrors TimersFragment: one scrolling row of preset chips, a minutes

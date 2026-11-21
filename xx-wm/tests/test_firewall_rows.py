@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane wm_firewall_rows: one row per feature; the firewall follows.
 
 Derivation (features -> ruleset) for every feature combination, the

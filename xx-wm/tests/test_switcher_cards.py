@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the switcher's text-only rows and empty state.
 
 The switcher is a Gtk.Window, so it cannot be instantiated in a headless

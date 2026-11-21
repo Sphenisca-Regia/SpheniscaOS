@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Contract test: the client route table matches openapi.json exactly.
 
 Linux mirror of the Android data/ContractTest.kt: every route the client

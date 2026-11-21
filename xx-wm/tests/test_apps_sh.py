@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """scripts/apps.sh — pacman browser, Tailscale, RAM-gated Waydroid."""
 import hashlib
 import io

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Milestone 6 acceptance: thread collapse, sync line, search status,
 tracking-pixel scrubbing, contacts XML conformance, optimistic
 rollback, and static phone-rule guards.

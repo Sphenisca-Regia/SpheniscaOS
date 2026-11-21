@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App settings: XDG JSON store with total-reader semantics.
 
 Keys and defaults mirror the Android Settings table (design "Settings"):

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-weather sharing: the home widget uses common/xx_phone/weather, the
 widget tap prefers xx-weather, and the first-boot layout seats it."""
 import json

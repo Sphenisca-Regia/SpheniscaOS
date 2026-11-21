@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Log ring is bounded and never emits secrets."""
 
 from xx_audiobook import applog

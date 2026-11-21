@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The phone screen as a trackpad for the monitor (docked, river/xxwm).
 
 Touches on the handset's black surface become pointer input on the

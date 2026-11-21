@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Logs page: ring buffer plus file tail, copyable, redacted.
 
 Ports log/LogsUi.kt: the on-device dump (shared ring plus the state

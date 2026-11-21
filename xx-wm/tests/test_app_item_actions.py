@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for app_item_actions.py mutation helpers — no widgets shown."""
 from pathlib import Path
 from types import SimpleNamespace

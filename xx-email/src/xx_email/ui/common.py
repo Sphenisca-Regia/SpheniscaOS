@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared GTK helpers for the mailbox stack (thin over mailbox.py).
 
 Every widget here stays a thin view built from xx_ui.widgets:

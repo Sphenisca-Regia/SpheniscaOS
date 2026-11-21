@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Windowed recurrence expansion (Revision 2 §1).
 
 Expands RRULE (FREQ DAILY/WEEKLY/MONTHLY/YEARLY, INTERVAL, COUNT, UNTIL,

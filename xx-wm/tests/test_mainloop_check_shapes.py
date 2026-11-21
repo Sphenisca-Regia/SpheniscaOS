@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """scripts/check_mainloop_blocks.py sees every blocking call shape."""
 import importlib.util
 import textwrap

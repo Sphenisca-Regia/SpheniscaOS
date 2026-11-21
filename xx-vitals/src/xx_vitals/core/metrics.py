@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure core ports: Derive, Derived, MetricMath, GoalModel, UnitConvert.
 
 Ports `:core` (Derive.kt, Derived.kt, MetricMath.kt, GoalModel.kt,

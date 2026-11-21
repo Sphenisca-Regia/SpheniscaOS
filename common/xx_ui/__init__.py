@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """One design system for the shell and every app."""
 
 from . import css, theme

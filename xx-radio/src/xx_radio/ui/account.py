@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings › Account, the browser-header sign-in and the OAuth sign-in.
 
 Sign-in is optional: search, radio and lyrics work without it. The

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Token storage behind a backend interface, plus the refresh cache.
 
 Ports TokenStore.kt / TokenCache.kt (ref/xx-email data/auth/): one

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Helper package jobs: UpgradeSystem / RemovePackage /
 RefreshPackageIndex / CleanSystem never get a kill timeout, reply with a
 job id and report through JobFinished.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 5 low battery: WarningLevel-aware gate plus last-report hook.
 
 Fakes mirror real Gio semantics: `GetAll` replies unpack to a tuple of

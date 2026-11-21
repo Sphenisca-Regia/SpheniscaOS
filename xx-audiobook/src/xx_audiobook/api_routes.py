@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Client route table: every server path the Linux client speaks.
 
 Paths are relative to the API base ({origin}/audiobook/). Estate login,

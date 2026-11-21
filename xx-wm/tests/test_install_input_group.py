@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the 20.3 input-group setup in scripts/install.sh.
 
 lisgd (touchscreen) and DisplayManager (power/volume keys) read evdev directly

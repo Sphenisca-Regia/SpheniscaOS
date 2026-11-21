@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """How a note's ``color:`` reaches the screen (pure, ported from Android).
 
 Two modes, chosen in Settings; the file never changes meaning either way:

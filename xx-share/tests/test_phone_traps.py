@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Phone-trap guards for the share window: static source checks.
 
 These mirror XXWM_RULES.md's runtime traps so a regression fails here

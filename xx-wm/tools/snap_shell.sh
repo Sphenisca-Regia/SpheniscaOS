@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Render the shell (home, drawer, lock, first boot, menus) for every theme.
 #   xx-wm/tools/snap_shell.sh OUTDIR [theme ...]
 # Default themes: amoled paper forest aura burgundy.

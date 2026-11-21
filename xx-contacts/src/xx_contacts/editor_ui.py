@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 contact editor page pushed on the list's ``Adw.NavigationView``.
 
 Phone-first 360x720: name parts with a live display-name preview,

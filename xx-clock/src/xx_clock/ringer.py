@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Alarm sound + vibration (Linux half of audio/KlaxonPlayer.kt).
 
 Sound plays through GStreamer at alarm volume with the 60 s gradual ramp;

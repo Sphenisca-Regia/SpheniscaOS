@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of MetricDetailModelTest + WeightDetailModelTest: zoom aggregation,
 accumulating vs averaging, gap honesty, axis safety, weight projection."""
 

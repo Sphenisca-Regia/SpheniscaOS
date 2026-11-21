@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GStreamer playbin wrapper. Main-loop safe: only non-blocking queries and
 property sets here; bus messages arrive on the GLib loop via add_signal_watch.
 

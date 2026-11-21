@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """One-time EDS import into the own store (Revision 2 §4.4).
 
 Read-only: this module never writes to Evolution Data Server, it only

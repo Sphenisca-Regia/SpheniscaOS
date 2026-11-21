@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """vCard 4.0 + 3.0 codec. Port of data/VCard.kt and backup/VCardCodec.kt.
 
 Pure module: line unfolding (folding + 3.0 quoted-printable soft breaks),

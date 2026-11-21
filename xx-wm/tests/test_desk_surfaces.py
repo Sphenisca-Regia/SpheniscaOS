@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Docked surfaces under xxwm: top bar, launcher on Super, keybind sheet."""
 import json
 import os

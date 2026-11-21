@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """mTLS interop: client presents its cert; stub requires it.
 
 Covers the LocalSend 1.18.2 lesson without LocalSend: a local stub

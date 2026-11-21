@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Calculation engine: lexer, parser, evaluator and display formatting.
 
 Direct port of ref/xx-calculator's engine/ (Calculator.kt, Parser.kt,

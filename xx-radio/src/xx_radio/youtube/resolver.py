@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Resolve track ids to fetchable audio locations, via a child process.
 
 yt-dlp runs as ``python3 -m xx_radio.youtube.resolve_worker`` (JSON over

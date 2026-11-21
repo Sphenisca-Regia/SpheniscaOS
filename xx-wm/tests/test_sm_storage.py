@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane sm_storage: storage cleanup, file backup, security scan.
 
 Pure-logic and helper tests with fakes throughout: no package manager,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SQLite replica mirroring the Room entities 1:1.
 
 Tables and column names match

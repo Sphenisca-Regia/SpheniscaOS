@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W3 call UI + call audio (snapshot surface, ringer, proximity).
 
 Headless: real widgets are never constructed. call_ui/modem_monitor/

@@ -1,4 +1,5 @@
 #!/bin/bash
+# SPDX-License-Identifier: MPL-2.0
 # https://github.com/PiercingXX
 
 username=$(id -u -n 1000)

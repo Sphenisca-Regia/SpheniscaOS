@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: MPL-2.0 */
 /* xx-dialer app-specific CSS. Spacing only: every color comes from the
    shared xx_ui stylesheet, which is installed first and wins ties by
    order. One utility lives here: trim the theme's vertical button

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Blocking refresh orchestration. Runs on a worker thread; the window
 posts results back to the main loop. All network goes through the
 injected ``get`` callable so tests use fixtures, never the network."""

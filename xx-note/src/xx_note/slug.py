@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Filesystem slugs for note filenames: ``<ulid>-<slug>.md``.
 
 Port of ``core/Slug.kt``: ASCII-only, deterministic, NFKD-normalize so

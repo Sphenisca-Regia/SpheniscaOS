@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Synchronous copy/move primitives; the worker owns the threads.
 
 Port of the Android ``Transfer`` JVM seam: cut prefers a rename and

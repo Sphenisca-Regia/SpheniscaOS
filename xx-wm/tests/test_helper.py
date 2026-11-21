@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Privileged helper tests (F_HELPER).
 
 Sysfs, the cgroup tree, the mounts table and the state file are tmp

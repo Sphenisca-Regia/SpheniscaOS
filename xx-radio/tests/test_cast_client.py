@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The V2 client against a fake TLS receiver. Loopback only."""
 
 import json

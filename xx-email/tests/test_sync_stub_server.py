@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Milestone 5 stub-server acceptance: real HTTP against a local stub.
 
 Replays Gmail-shaped JSON over http.server on 127.0.0.1 (ephemeral

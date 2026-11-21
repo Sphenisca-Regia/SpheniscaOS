@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Compose helpers: prefill, MIME, attachments, drafts (stdlib only).
 
 Ports ``ComposeViewModel``/``ComposeScreen`` prefill, ``MimeComposer``

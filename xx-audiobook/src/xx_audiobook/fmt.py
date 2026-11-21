@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Display text for the UI (M3): times, speed, initials, progress lines.
 
 Pure functions mirroring the Android ui/common formatters (formatMs,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """``txxt-daemon``: inbox reconcile, inbound pipeline, retry queue.
 
 The background half of L3 (the GUI lane owns the foreground). Runs

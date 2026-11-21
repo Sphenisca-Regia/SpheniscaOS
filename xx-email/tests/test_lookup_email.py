@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Finding 12 repro (xx-email side): sender resolution must use exact email.
 
 Resolving the sender with ``Search(address)`` lets the digits inside an

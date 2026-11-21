@@ -3,4 +3,4 @@ the XX apps from code: additive synthesis and exponential decays, no samples
 and no recordings. ringtone.ogg and unknown.ogg are the xx-dialer ringtone
 and unknown-caller tone; notify.ogg is the xx-calendar reminder chime.
 
-Copyright PiercingXX. All rights reserved.
+Copyright Sphenisca Regia LLC. Mozilla Public License 2.0, like the rest of SpheniscaOS (see LICENSE).

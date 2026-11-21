@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App permissions & privacy indicators settings.
 
 Per-app camera/microphone/location grants from the Flatpak PermissionStore

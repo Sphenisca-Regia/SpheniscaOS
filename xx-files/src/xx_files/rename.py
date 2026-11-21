@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Rename validation and collision resolution.
 
 Port of the Android ``Rename`` JVM seam (todo.md WS3 + P1): ``validate``

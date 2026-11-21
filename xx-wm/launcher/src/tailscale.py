@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tailscale for the shade tile: status, up/down and the sign-in URL.
 
 Talks to the `tailscale` CLI. Every call blocks (subprocess, up to a few

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Small queue helpers for cast loads. Pure functions, fully tested."""
 
 from __future__ import annotations

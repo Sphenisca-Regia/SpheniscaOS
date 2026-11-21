@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GstPlayer against generated Ogg/Opus files with a fakesink."""
 
 import threading

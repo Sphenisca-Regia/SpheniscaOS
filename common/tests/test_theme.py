@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Config parsing, fallbacks, presets, rendering, custom derivation."""
 
 import re

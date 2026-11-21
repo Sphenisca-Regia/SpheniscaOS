@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings: scrolled to the end of the history list."""
 from gi.repository import Gtk as _Gtk
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Store tests: schema + migrations, CRUD + revision/tombstones (L1)."""
 
 import os

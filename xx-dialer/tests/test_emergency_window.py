@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of EmergencyWindowTest (app/.../telecom/EmergencyWindowTest.kt).
 
 The 24 h post-emergency bypass closes only when BOTH readings agree it is

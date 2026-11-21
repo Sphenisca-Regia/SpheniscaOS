@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The window's non-widget logic: text helpers, the store, the player
 model over the local backend, the art loader and the downloads reader.
 No display, no network."""

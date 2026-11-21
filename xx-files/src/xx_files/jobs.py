@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Cancellable file jobs on a worker thread; results via GLib.idle_add.
 
 Every file operation — listing, copy, move, trash, delete-forever,

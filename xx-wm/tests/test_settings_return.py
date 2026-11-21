@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Leaving Settings returns where it was opened from.
 
 home -> drawer -> Settings -> back used to drop the shell to the BOTTOM

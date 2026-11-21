@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Undo history for the editor (port of ``ui/editor/EditHistory.kt``).
 
 Bounded stack of text snapshots with coalescing: rapid keystrokes merge

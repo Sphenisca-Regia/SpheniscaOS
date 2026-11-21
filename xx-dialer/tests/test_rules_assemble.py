@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of RulesAssembleTest (app/.../data/RulesAssembleTest.kt).
 
 Stored settings + pattern rows assemble into engine Rules (design §6,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real GLib Variant construction for notifications and feedbackd.
 
 Fakes accept anything; real PyGObject raises ``KeyError: 0`` on a nested

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Resolver: the 4.2 error table, the child worker, cache and jar."""
 
 import io

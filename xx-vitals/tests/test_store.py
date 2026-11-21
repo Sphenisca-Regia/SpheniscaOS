@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SQLite schema parity: Room 1:1 tables, UNIQUE idempotence, WAL."""
 
 import sqlite3

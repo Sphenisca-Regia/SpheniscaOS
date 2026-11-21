@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 Me card without GTK: designate, resolve, and share one contact.
 
 The Me card is a designated contact UID kept in app config (Linux has

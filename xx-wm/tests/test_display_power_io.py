@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Blank, wake and volume keys never block the GTK loop; the backlight is
 always named (LED-class panels included, never bare brightnessctl).
 

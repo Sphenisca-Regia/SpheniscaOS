@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of HomeModelTest: no-data predicate, derived marks, stat formatting,
 weekly target line, ISO-week effort, padded windows."""
 

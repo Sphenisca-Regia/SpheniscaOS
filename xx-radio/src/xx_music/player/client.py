@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Async Player1 proxy for the window. Every call returns through a callback
 on the main loop; nothing here blocks, so the GTK loop stays responsive.
 """

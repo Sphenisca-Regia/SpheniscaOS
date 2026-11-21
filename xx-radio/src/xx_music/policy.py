@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Playback rules: skip, sleep with fade, error policy, radio, offline mix.
 
 Pure logic over injectable clocks so tests drive it with a fake clock.

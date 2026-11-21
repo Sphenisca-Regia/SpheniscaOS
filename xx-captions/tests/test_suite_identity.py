@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Suite identity: desktop entry, D-Bus activation, app id and icon agree.
 
 The settings window is a plain launcher (``DBusActivatable=false``):

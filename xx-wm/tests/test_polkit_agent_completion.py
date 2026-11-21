@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The polkit agent completes every request exactly once (grant, deny,
 Cancel, requester cancel), keeps the dialog open for a retry after a
 wrong password, and implements the finish vfunc the C side calls."""

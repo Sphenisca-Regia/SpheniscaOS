@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Theme behavior through the shared design system.
 
 TxxT owns no theme reader, CSS, or appearance setting of its own: the

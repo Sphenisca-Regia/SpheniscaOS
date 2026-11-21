@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Car watcher: `xx-auto --watch` (systemd user unit, opt-in).
 
 Opens xx-auto when the saved BlueZ device connects, closes it on

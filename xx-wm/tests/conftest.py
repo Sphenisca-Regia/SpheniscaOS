@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared test setup: launcher sources importable, HOME never the real one
 for tests that opt into the isolated_home fixture."""
 import atexit

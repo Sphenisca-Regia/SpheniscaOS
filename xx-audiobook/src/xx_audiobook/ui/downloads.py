@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Downloads (M4): every book this phone keeps or is fetching
 (ui/downloads/DownloadsScreen.kt).
 

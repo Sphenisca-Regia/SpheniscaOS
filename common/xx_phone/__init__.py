@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """One number-display rule for every surface that shows a number.
 
 Port of Android's ``PhoneDisplay`` + ``NumberDisplay`` (identical in

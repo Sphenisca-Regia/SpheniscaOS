@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # XX-WM — default app set (todo.md Workstream 17).
 # Called from install.sh: apps.sh <pkg:apk|apt|pacman> <sudo:doas|sudo>
 # Every item is guarded — one missing package never hard-fails the menu.

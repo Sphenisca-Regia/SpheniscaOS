@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of CallLogJsonTest (app/.../backup/CallLogJsonTest.kt).
 
 Pure codec: the call-log JSON round-trips a few rows (BK-1).

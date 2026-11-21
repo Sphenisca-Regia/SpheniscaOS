@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Artwork for tiles and rows: sized, cached on disk, fetched off-thread.
 
 ``ArtLoader.request(url, px, deliver)`` asks the engine for the url at

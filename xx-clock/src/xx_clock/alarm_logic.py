@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Weekly recurrence mask (port of the Alarm companion in model/Alarm.kt).
 
 Bit layout: bit0 = Monday ... bit6 = Sunday. Weekdays use ISO numbering

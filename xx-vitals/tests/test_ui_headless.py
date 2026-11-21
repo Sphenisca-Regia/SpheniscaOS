@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Headless UI contract: thin widgets import without a display, long lists
 use Gtk.ListView, entry uses Adw dialogs, layout stays in the 320–360 px
 budget, and no UI path blocks the main loop."""

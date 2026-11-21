@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Cleartext guard: HTTPS always; cleartext only to configured hosts.
 
 Port of sync/CleartextGuardInterceptor.kt. Pure decision logic, no I/O.

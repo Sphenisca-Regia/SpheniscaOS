@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """DTOs, URL rules and the urllib client against the fake server."""
 
 import json

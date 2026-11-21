@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # M3 probes, run on the phone from the bring-up shell. Each writes what it
 # saw under /run/xxos/evidence and prints a one-line verdict.
 #

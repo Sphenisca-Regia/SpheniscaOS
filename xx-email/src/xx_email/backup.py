@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Versioned JSON backup for XX Email (stdlib only, no GTK).
 
 Mirrors the shell's backup.py exclusions: settings, snooze wakes,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Subprocess driver for the Undo toast regression test.
 
 Importing xx_email.main pulls in gi, which would poison the

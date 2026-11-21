@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Top status bar (status_bar.py): the exclusive zone that keeps apps
 clear of the FLX1's punch-hole camera.
 

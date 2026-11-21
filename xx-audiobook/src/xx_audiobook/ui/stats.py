@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Listening stats (M5, ui/stats/StatsScreen.kt), pushed from Setup.
 
 A year switcher (2000 or the first year with listening, through this

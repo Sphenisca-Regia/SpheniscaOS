@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """NetworkManager gating: pure classify + fake NM over D-Bus.
 
 The pure matrix mirrors data/repo/NetworkMonitor.kt (VPN/Tailscale is

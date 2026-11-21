@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Inbound MMS receive policy (port of ``service/ReceivePolicy``).
 
 Two decisions, both from the Android privacy contract:

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Phone normalization and the in-memory caller-ID lookup index.
 
 Pure module: no GTK, no D-Bus, safe headless and in tests.

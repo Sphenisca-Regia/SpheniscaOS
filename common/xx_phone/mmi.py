@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
 """MMI/USSD codes: one detector and one async USSD session for every dialer.
 
 Typing ``*100#`` and pressing Call must not place a voice call. Both the

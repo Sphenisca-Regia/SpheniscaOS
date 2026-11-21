@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Call follow-ups: end-reason notice, call-waiting DnD logging.
 
 - A call that ends abnormally ('Busy', 'Network error', 'Audio setup

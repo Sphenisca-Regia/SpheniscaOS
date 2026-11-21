@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """What an app built on xx_music declares: identity and extension points.
 
 xx-radio is one AppSpec. Another app reuses the core by writing its own

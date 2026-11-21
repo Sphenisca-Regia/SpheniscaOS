@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """XDG locations for xx-clock. Created mode 0700 on first run."""
 
 from __future__ import annotations

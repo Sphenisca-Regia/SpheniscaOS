@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ModemMonitor lifecycle findings from the phone-stack reviews.
 
 - Call waiting: a second incoming call arrives WAITING and never passes

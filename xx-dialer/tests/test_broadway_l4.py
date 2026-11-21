@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 4 Broadway smoke test: the real pages against seeded data.
 
 Builds the real dialer view (Recents + Keypad from ``main``) in a

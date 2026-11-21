@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Row/overflow action model for long-press and selection.
 
 Port of the Android ``MenuActions`` JVM seam (todo.md WS3): files get

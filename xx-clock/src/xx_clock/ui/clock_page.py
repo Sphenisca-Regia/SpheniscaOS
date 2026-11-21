@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Clock tab: hero time, date, digital/analog toggle, next-alarm card.
 
 Mirrors ClockFragment: no page title (the time is the page), the hero

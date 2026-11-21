@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Power profiles that work on phones.
 
 power-profiles-daemon is used only while it runs with a REAL driver

@@ -43,4 +43,4 @@ sh tools/snap_all.sh lane_shots   # screenshots in amoled + paper
 
 ## License
 
-GPL-3.0. See [../LICENSE](../LICENSE).
+Mozilla Public License 2.0. See [LICENSE](../LICENSE).

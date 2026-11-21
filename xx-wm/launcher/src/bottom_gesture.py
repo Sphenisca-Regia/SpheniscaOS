@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Bottom-edge system gesture, handled by the shell (Android gesture nav).
 
 lisgd classes a swipe only by its length as a fixed third of the screen

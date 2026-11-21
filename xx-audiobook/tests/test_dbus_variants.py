@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """D-Bus shape guards: real GLib Variants, real reply types, headless service.
 
 Every Variant the player service emits or the client parses is built here

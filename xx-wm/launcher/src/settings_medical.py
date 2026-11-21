@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Medical ID editor settings section.
 
 Edits the config Medical ID fields (name, blood type, allergies,

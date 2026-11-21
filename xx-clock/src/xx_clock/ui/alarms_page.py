@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Alarms tab: sorted rows with switches, tap-to-edit, long-press delete."""
 
 from __future__ import annotations

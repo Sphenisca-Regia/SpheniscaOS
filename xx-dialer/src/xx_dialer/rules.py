@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Rules-screen logic: pure port of the Android Rules chrome, stdlib only.
 
 Covers ``ui/PrecedenceRows.kt`` (the §6 table in evaluation order),

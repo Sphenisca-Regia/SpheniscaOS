@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Outgoing transfer registry: ids, progress, cooperative cancel.
 
 The GTK send flow runs on a worker thread; the Cancel button (or the

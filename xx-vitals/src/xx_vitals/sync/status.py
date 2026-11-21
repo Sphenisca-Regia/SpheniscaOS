@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Profile sync presentation. Port of sync/SyncUiModel.kt (pure part).
 
 Absent values render as gaps, never fabricated zeroes; a 401 surfaces as a

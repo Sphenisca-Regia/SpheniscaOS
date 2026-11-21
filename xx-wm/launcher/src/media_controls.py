@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MPRIS media controls: player watcher + text-first media card.
 
 Lock-screen embedding recipe (the follow-up lane owns lock_screen.py; do

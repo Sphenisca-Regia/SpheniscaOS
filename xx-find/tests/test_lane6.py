@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 6: owner UI, rate limiting, decrypt helper, JS vector check.
 
 The server stores ciphertext only; the committed JS-crypto check replays

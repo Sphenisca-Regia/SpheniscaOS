@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Search page: operator hints plus offline FTS (thin view).
 
 Ports SearchScreen: operator queries (anything with a colon) go to

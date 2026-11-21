@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared theme-sweep contract vocabulary.
 
 The theme-sweep test files assert that every pure ``theme_css(preset)``

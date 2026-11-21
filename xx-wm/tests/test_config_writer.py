@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Coalesced config saves: a burst of setters is one write, off the GTK
 thread; PIN and lockout state still write at once; other instances in
 the process read what is queued; a monitor event for our own write is not

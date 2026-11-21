@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Home and lock-screen clock formatting with a 12/24-hour preference.
 
 `clock_24h` True forces `%H:%M`, False forces `%-I:%M` with no AM/PM (like

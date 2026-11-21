@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Docked mode (M2): the trackpad recognizer, the pointer sink, the dock
 plan, the dock controller against fakes, per-output power, the lock
 hooks and the Settings row."""

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Static guard: Gio call/call_sync reply_type must be GLib.VariantType.
 
 Real PyGObject raises

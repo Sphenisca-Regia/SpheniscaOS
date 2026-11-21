@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings store, backup, applog and vcard edge cases."""
 
 from xx_auto import backup as backup_mod

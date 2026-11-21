@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The window's seek bar against the real pipeline, end to end.
 
 A real PlayerService plays generated songs in real time (a clock-synced

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings for xx-note (JSON in ``$XDG_CONFIG_HOME/xx-note/settings.json``).
 
 WebDAV credentials are NEVER stored here — see ``secrets.py``

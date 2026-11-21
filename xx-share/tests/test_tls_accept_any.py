@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """TLS accept-any: xx-share client against xx-share server, real sockets.
 
 The server requests a client cert but accepts any self-signed cert

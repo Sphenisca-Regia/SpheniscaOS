@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Alarm/timer lifecycle (port of alarm/AlarmCoordinator.kt).
 
 Single place that mutates runtime state. Policies, unchanged from Android:

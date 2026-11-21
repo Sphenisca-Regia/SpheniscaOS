@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings › Playback engine, and the first-run "Set up playback engine".
 
 Both drive ``xx_radio.engine_status.PlaybackEngine`` (and the token

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Health monitor: three counted failures raise the banner, one success clears it."""
 
 from xx_music import health

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Navigation driver for scripts/snap.py (run with ``win`` in scope).
 
 SNAP_TARGET selects the surface: home, journal, browse, detail, profile,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """D-Bus activation file and service-name separation.
 
 A background service must never own the same bus name as a GTK

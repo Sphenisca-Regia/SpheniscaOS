@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane bug_shell finding 8: Smart Lock must fail closed.
 
 When a BlueZ / NetworkManager GetManagedObjects query fails, the monitor

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Playback engine screen backend: states, versions, update/undo/drop."""
 
 import datetime

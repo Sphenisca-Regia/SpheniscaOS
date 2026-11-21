@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Seeded screenshots of every xx-vitals screen, one labeled contact sheet
 # per run, into OUTDIR:
 #

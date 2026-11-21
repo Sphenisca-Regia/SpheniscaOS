@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 //! The xkbcommon keysyms the window manager binds, by name. A small table
 //! instead of linking libxkbcommon: bindings only need names → numbers.
 

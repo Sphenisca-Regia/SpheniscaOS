@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of the Android blocking tests.
 
 Covers core/BlockingFilterTest.kt, core/BlocklistTest.kt,

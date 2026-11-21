@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pedometer status copy: pure model behind the thin GTK widgets.
 
 Lane 1 honesty carries into the resident sampler: when the pedometer

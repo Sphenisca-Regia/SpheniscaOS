@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Background service logic: visibility, auto-off, accept policy.
 
 GLib-free: the auto-off timer goes through an injectable scheduler so

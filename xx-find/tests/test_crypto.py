@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Crypto known-vector and round-trip tests (headless, no I/O)."""
 
 from __future__ import annotations

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Third-party components and their licenses, for the About screen.
 
 The shared shell (GTK, fonts, icons) comes from

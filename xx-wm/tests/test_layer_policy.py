@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Layer/keyboard focus policy for the shell window (W1-FIT).
 
 phoc 0.56 speaks zwlr_layer_shell_v1 version 3, where KeyboardMode.ON_DEMAND

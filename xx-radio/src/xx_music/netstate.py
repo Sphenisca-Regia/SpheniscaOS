@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Network state for the offline cache: metered and online over D-Bus.
 
 The player service follows NetworkManager on the system bus

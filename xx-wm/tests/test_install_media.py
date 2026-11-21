@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Media apps in the suite installer (xx-radio, xx-audiobook).
 
 install.sh installs the suite apps in XX_APPS after its dependency step;

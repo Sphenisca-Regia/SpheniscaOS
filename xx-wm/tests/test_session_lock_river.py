@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The lock survives a shell kill, on a real river.
 
 A headless river (its own runtime dir, nothing shown on the host) and

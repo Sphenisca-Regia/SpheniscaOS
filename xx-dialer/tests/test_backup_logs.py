@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 6: backup export/import controller + redacted logs view logic."""
 import json
 

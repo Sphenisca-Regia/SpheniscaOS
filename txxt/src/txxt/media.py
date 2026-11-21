@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MMS photo scrub + fit (port of ``core/ImageMetadataScrubber``,
 ``core/PngMetadataScrubber``, ``core/MetadataScrubber`` and
 ``service/MmsImageFit``).

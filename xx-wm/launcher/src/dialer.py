@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Telephony helpers the shell still needs: place a voice call and the
 emergency-call path the lock screen uses. The Phone app is xx-dialer."""
 from __future__ import annotations

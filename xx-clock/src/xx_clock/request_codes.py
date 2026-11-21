@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Stable schedule keys (port of ExactScheduler.requestCode).
 
 Android packs the entry kind into the high bits of a PendingIntent request

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """NetworkManager state: pure monitor units plus a fake NM round trip.
 
 The round trip runs a helper under its own private bus

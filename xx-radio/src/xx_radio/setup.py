@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The private, promotable engine venv and the token helper set-up.
 
 FuriOS ships no ``python3-venv``, no ``pip`` and no download helper, so

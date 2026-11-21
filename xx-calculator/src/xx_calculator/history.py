@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """History store: newest-first JSON history, capped at 100 entries.
 
 Ports HistoryStore.kt. The Android persistence seam (a string key-value

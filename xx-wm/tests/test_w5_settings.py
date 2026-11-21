@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W5 settings UIs: battery standby, app permissions, smart lock.
 
 Headless: backends run against the real PyGObject (imported before any

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Main window: four tabs (Clock/Alarms/Timers/Setup) over a toast overlay."""
 
 from __future__ import annotations

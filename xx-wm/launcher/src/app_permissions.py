@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Per-app permissions backend (no UI yet; the settings surface lands later).
 
 Network per app goes through the root helper

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Blocked artists: the local "kill artist" store.
 
 One JSON file next to the other local data (history, ratings). Each

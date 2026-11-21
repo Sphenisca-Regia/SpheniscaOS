@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Idle inhibit (org.freedesktop.ScreenSaver, Caffeine) and automatic
 suspend: pure decisions, the cookie table, the D-Bus method surface with
 fake invocations/buses, the controller with fake timers, and the shell

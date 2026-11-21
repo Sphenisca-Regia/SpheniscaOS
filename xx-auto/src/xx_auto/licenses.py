@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """About screen data: the app license plus the suite local-only note."""
 
 from __future__ import annotations
@@ -13,7 +14,7 @@ LOCAL_ONLY = ("Free and ad-free. Collects no personal data. "
 def license_rows() -> list[tuple[str, str]]:
     """(title, detail) rows for the open-source licenses screen."""
     return [
-        ("auto", "GPL-3.0 — this app"),
+        ("auto", "MPL-2.0 — this app"),
         ("GTK4 / libadwaita / PyGObject", "LGPL-2.1 — system libraries"),
         ("JetBrains Mono", "OFL-1.1 — bundled with the suite theme"),
     ]

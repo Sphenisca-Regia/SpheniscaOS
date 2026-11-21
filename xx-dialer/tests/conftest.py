@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Headless-safe imports: the pure modules must load without gi."""
 import shutil
 import subprocess

@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Pack the Android v4 boot images for one Linux slot of the Pixel 9 (tokay)
 # and write the fastboot commands that would flash them. It does not run
 # them: flashing is a person at the bench with the checklist in

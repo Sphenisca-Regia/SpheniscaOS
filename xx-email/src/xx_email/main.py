@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GTK entry point: Adw.Application with the mailbox NavigationView stack.
 
 Milestone 6: setup → mailbox → thread / search routes over the L1/L2

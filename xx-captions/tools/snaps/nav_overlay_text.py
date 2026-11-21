@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Overlay: captions on, two committed lines and a live partial."""
 win.on_text("front entrance? broken sign", True)
 win.on_text("that's the one. got the case", True)

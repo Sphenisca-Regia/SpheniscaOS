@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sync engine tests over the injectable transport (no network).
 
 Covers the milestone 5 contract: first sync hydrates tabs, airplane

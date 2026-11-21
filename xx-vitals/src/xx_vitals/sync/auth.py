@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Fabric sign-in against xx-chat. Port of sync/FabricLoginClient.kt.
 
 xx-vitals never verifies passwords and never mints tokens: credentials go

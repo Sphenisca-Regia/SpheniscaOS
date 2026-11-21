@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L4 editor model without GTK: form state, validation, loss-free apply.
 
 Pure module so pytest runs headless. The GTK page (``editor_ui``) binds

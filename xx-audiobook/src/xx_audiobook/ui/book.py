@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Book (M3): cover and metadata (authors, narrators, series open their
 views), the damaged state, Play / Resume, Download, Mark finished,
 Ratings & reviews (ui/reviews.py), description, chapters (first 5, then

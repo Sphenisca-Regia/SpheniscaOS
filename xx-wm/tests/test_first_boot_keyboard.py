@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """First-boot Keyboard step + Settings › Keyboard alignment.
 
 The step sits before the PIN, defaults to QWERTY, writes

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-contacts session-bus client: suite contacts <-> local cache tables.
 
 xx-contacts owns the contacts and exposes ``io.piercingxx.Contacts`` /

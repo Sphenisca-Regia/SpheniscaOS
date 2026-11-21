@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Store tests: fresh v3 schema, DAO parity, and the v1->v3 migration walk.
 
 Ports MigrationTest (androidTest data/db) plus DAO-query golden cases

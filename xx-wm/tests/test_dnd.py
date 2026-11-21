@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for dnd.py — schedules, repeat callers, starred matching."""
 from datetime import datetime
 from pathlib import Path

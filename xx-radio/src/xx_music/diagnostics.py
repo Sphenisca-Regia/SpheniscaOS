@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Diagnostics: one copyable text block plus the shared redaction.
 
 The block carries the app version, the engine versions in use, one status

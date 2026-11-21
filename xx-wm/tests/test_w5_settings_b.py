@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W5 settings B: charging, battery use, screen time, medical ID, lock media.
 
 Headless model/presenter tests for every new section plus static guards:

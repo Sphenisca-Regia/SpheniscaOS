@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The public docs describe the shell as it is.
 
 The September/October build-out notes (docs/buildout.md,

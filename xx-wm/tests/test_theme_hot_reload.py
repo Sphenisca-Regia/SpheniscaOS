@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Hot-reload fan-out + custom theme resolution (W2-Y).
 
 Editing ``~/.config/xx-wm/config.json`` is the advertised workflow

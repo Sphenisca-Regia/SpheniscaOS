@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Screen-time settings section: today + last 7 days, per-app detail,
 unlock/notification counts, and optional per-app daily limits.
 

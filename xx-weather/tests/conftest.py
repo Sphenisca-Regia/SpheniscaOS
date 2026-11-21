@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared test setup: the xx_weather package is importable headless."""
 from pathlib import Path
 

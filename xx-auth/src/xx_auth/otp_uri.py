@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """`otpauth://` Key URI Format (RFC 6238 Annex B). Port of Android
 `engine/OtpUri.kt`, including the ReviewPass hardening (upper-case payloads,
 UTF-8 labels, `+` stays `+` in the path, literal malformed escapes, errors

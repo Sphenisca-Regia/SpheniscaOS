@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """On-screen keyboard helper for layer-shell surfaces.
 
 phoc layer-shell v3 has no ON_DEMAND. While an editable is focused the

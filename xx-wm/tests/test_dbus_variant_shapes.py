@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """D-Bus parameter shapes under the real GLib (w5_fixup_7 item 1).
 
 Test fakes accept any Variant nesting, but real PyGObject raises

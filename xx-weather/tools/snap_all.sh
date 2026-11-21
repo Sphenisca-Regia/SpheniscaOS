@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Seeded screenshots of every xx-weather screen in amoled + paper at the
 # FLX1 canvas (450x1000) and a 360x800 phone, plus fit probes (320 px
 # wide, large text at 1.5) and graphite/aura spot checks:

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Family theme bridge (pure half of theme/ThemePreset.kt).
 
 On Linux there is no launcher broadcast receiver: the app wears the shared

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L2 refresh tests: external-change pickup without a display.
 
 ``ChangeWatcher`` needs no widgets, so the directory-monitor filter and

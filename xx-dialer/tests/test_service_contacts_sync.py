@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Service-process contacts sync against the real xx-contacts service.
 
 Starts the real ``xx-contacts`` service and the real dialer

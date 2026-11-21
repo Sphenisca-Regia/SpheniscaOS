@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The one rule for a new lock-screen PIN, shared by the first-boot wizard
 and Settings › Change PIN: ASCII digits only (the lock keypad types
 nothing else), at least MIN_PIN and at most MAX_PIN (the lock screen's

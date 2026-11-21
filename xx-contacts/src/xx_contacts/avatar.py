@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Contact avatars: a round photo with an initials fallback.
 
 Import-safe without a display: constructing widgets needs one, but

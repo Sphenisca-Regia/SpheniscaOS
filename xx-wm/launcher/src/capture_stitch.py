@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Scrolling-screenshot stitching: pure image logic, no GTK dependency.
 
 Frames arrive as (width, height, rgb) triples of flat RGB bytes. Overlap is

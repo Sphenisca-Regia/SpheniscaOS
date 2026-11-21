@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Cache cap, free-space floor, LRU eviction and the offline index."""
 
 import pytest

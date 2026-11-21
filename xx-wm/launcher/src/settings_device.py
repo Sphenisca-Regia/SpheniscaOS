@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Device info backends for Settings → About and Battery (lane sm_device).
 
 All blocking I/O (subprocess, D-Bus call_sync, sysfs/proc walks) runs

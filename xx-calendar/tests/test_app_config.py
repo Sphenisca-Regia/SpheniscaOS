@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Headless tests for settings parsing (no display, no GTK import)."""
 import json
 

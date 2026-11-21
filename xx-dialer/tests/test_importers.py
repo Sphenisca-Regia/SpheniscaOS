@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Importer tests: policy apply/export, call-log dedupe, blocklist."""
 from xx_dialer.codecs import decode_policy, encode_policy
 from xx_dialer.importers import (

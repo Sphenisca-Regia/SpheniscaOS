@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Book-level timeline over tracks (M2).
 
 Mirrors playback/TrackMath.kt (BookTimeline: locate/globalOf/chapterAt/

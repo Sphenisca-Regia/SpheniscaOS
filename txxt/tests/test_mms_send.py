@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L5 daemon MMS tests (fake level, no bus): SendMms scrub/fail-closed,
 FetchMms tap-to-fetch, audio-drop + auto-reply, default-region dialing.
 """

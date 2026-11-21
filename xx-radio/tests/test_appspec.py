@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App identity and the extension points another app would use."""
 
 import pytest

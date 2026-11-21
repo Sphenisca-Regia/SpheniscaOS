@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """UI client for the daemon's ``io.piercingxx.TxxT1`` API.
 
 The L4 UI never touches the modem stack and never writes the SQLite

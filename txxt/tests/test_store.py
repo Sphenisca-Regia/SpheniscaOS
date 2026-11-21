@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """SQLite adaptations of the Android data-layer tests.
 
 Ports app/data/InboundStoreTest.kt, OutboundStoreTest.kt and

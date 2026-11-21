@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """USSD/MMI detector and the async USSD session (xx_phone.mmi).
 
 The session runs against a fake bus that records every async call and

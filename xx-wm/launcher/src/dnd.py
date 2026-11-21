@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Do Not Disturb state — Pixel model (design.md "Do Not Disturb").
 

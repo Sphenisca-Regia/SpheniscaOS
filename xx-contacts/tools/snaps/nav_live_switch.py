@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 # ruff: noqa: F821 (win/app/Gtk/GLib come from scripts/snap.py)
 """Prove live theme switching: flip amoled to paper after launch."""
 import json

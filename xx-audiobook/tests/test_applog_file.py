@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Log file rotation, crash persistence and the redacted share dump."""
 
 from xx_audiobook import applog

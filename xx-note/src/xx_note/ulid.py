@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ULID identifiers per the ULID spec (design D3).
 
 Port of ``core/Ulid.kt``: 26 chars of Crockford Base32 encoding a 48-bit

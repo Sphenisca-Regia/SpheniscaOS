@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Accounts list page: live codes with a countdown ring, search, group
 chips, tap-to-copy, long-press for detail. Linux mapping of Android
 `ui/AccountListScreen.kt`.

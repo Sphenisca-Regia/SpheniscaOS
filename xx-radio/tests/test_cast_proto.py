@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """CastMessage framing round-trips and status parsing. No network."""
 
 import json

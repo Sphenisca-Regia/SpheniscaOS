@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Milestone 4 UI contract: thin widgets, phone lessons, install wiring."""
 
 import threading

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """D-Bus integration tests over private session buses (L2).
 
 Every test spawns its own ``dbus-daemon`` plus service subprocess, so

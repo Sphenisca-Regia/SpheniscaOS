@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway width test: helpers with very long strings stay 360 wide.
 
 Builds every widget helper with ~280-char strings inside a 360 px-wide

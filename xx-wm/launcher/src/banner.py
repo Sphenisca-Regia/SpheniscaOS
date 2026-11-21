@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Heads-up notification banners (design.md: DnD "silences notification sounds
 and banners").

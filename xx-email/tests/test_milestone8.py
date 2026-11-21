@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Milestone 8 acceptance: background tick, notifications, snooze.
 
 Service tick against a stub Gmail HTTP server (real SyncEngine +

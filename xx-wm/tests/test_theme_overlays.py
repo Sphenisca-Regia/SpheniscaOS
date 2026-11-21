@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Theme sweep contract for the overlay surfaces (switcher, back arrow, HUD, home).
 
 Each overlay module exposes a pure ``theme_css(preset)`` that renders its full

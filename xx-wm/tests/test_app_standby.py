@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for app standby (Doze parity): scope naming, launch-to-scope,
 policy table, thaw-before ordering, degraded freezer, saver, queries."""
 import fnmatch

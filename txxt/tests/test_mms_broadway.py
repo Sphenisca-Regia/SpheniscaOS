@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway MMS smoke: thread with photos, attach pipeline, tap-to-fetch.
 
 Seeds a temp store with an MMS thread carrying one downloaded photo and

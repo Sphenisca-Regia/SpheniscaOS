@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """DTOs and urllib HTTP client for the audiobook server contract.
 
 Mirrors data/api/Dto.kt (epoch-seconds wire, relative track/cover urls) and

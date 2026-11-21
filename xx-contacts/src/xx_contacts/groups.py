@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Group policy. Port of GroupChoices.kt + ContactGroups.kt naming rules."""
 
 from __future__ import annotations

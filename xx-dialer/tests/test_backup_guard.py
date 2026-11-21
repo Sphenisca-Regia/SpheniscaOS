@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of BackupJsonRoundTripTest + BackupImportGuardTest
 (app/.../data/BackupJsonRoundTripTest.kt, BackupImportGuardTest.kt).
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Engine: book transport over one backend track at a time."""
 
 from xx_audiobook import timeline as timeline_module

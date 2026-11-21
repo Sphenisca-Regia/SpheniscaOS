@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Elapsed/duration formatting for the now-playing card (port of Elapsed)."""
 
 from __future__ import annotations

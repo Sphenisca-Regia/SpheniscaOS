@@ -1,5 +1,5 @@
 name: Bug
-description: Something in xx-os is broken.
+description: Something in SpheniscaOS is broken.
 labels: [bug, triage]
 body:
   - type: dropdown
@@ -44,7 +44,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: xx-os version
+      label: SpheniscaOS version
       description: Commit hash, or the app's version from apps.json.
       placeholder: 4c88daf
   - type: textarea

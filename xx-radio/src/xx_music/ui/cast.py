@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The cast device sheet, the playing-on line and the cast button.
 
 Small and isolated: Now Playing and the mini player call in here, and

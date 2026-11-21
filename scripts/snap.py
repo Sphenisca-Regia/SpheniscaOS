@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Render a GTK4 app's real window to a PNG, headless.
 
 Runs the app's own entry point under a private Broadway display, waits for

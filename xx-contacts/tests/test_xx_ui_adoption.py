@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx_ui adoption: the app themes through the shared design system.
 
 The app keeps no theme reader or CSS of its own (shell_theme.py is

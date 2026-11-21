@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Render every xx-captions screen (the settings window and every overlay
 # state) and montage one labeled contact sheet per run into OUTDIR:
 #   sheet-<theme>.png   each theme at SIZE (default 360x800)

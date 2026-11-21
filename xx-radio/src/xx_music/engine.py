@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The music-source engine contract (see PORT_SPEC.md "Engine contract").
 
 One small, source-agnostic interface between the player core and wherever

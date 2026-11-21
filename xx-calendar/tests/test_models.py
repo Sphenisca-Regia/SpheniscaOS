@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Ports of the Android pure-JVM suites (ref/xx-calendar .../test/...).
 
 Covers RRuleModel round-trip/refusals, the ScopeResolver table, TimeMath,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Where On this phone comes from by default: the cache index, read-only.
 
 The player service is the single writer of ``music.db``; the window

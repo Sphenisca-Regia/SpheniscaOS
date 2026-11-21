@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Session-bus contacts service: ``io.piercingxx.Contacts1`` (Revision 2 §3).
 
 Headless entry: ``python3 -m xx_contacts --service`` owns the bus name,

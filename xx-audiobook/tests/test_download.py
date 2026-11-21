@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """M4 downloads + offline: resume, checksum, gating, park, backup."""
 
 import json

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-auto: driving screen for a phone in a car mount (Linux port)."""
 
 __version__ = "0.1.0"

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for calendar_grid.py — month grid math."""
 from pathlib import Path
 

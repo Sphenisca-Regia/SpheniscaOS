@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Keyring tests: the Secret Service probe fails fast on a bus without one,
 and the memory ladder still works. Service tests run on a private bus,
 never the host's."""

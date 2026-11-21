@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """"Save here" naming: a collision-free destination inside cwd.
 
 Port of the Android ``SaveHere`` JVM seam (ACTION_SEND Save-here):

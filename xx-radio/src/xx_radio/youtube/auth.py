@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """YouTube Music account credentials (PORT_SPEC.md 2.6, milestone M7).
 
 Browser headers (recommended): the person pastes a request-header block or

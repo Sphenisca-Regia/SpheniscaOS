@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sender verification + peer-table merging.
 
 Covers the spoof lesson: the server requests the sender certificate

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 //! Pure layout maths: dwindle tiling, directional neighbours, resizing.
 //! Nothing here talks to the compositor, so all of it is unit-tested.
 

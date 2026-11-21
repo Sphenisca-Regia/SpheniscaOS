@@ -1,4 +1,5 @@
 #!/bin/bash
+# SPDX-License-Identifier: MPL-2.0
 # https://github.com/Piercing666
 
 # Check if Script is Run as Root

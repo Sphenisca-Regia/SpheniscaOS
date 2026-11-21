@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """OtpUri tests — Key URI Format. Translated from Android
 `engine/OtpUriTest.kt` plus the `ReviewPassTest` URI hardening cases."""
 import pytest

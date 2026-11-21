@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """HTTPS endpoints against a real loopback TLS server in a thread."""
 import hashlib
 import http.client

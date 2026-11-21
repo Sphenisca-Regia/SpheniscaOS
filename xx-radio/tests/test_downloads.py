@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Downloads: pins, queue gates, prefetch, offline mix and proxy fills."""
 
 import socket

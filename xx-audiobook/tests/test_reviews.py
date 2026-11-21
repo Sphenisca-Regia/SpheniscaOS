@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Reviews: optimistic writes with rollback, the not-started gate."""
 
 from xx_audiobook import api as api_module

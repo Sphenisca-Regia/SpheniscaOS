@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Search: a boxed field, recent searches, suggestions, filtered results.
 
 Empty field: recent searches as chips (tap to search again, Clear to

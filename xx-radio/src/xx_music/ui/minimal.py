@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Minimal Mode: xx-radio's text-first rendering, after xx-launcher and TxxT.
 
 Words instead of icons, tiles and cards. ``[ label ]`` is Minimal Mode's

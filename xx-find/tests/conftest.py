@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shared test bootstrap: import xx_find from src/, never the system bus,
 network, GPS or keyring."""
 

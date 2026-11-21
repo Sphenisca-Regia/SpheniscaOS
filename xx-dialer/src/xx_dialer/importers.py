@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Importers: Android exports, blocklist files, GNOME Calls history.
 
 All entry points are tolerant: garbage in yields an empty result plus a

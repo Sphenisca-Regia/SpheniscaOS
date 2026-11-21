@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the wob-vs-in-shell HUD decision (plan T1).
 
 The shell owns every surface it draws (see design.md "System surfaces"), so the

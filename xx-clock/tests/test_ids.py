@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Monotonic ids (translation of data/UniqueIdGenerationTest.kt)."""
 
 import pytest

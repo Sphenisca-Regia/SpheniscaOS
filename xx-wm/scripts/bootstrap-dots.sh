@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # XX-WM — owner's update-system.sh installer.
 # Runs ON THE PHONE. Fetches PiercingXX's update-system.sh from the
 # piercing-dots repo and installs it where piercing-dots' sync_scripts

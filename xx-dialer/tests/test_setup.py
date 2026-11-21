@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Setup probe tests: real-state mapping, observe flow, test ring."""
 import time
 

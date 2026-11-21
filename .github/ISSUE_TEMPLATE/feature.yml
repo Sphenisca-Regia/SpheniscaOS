@@ -1,5 +1,5 @@
 name: Feature
-description: Something xx-os should do.
+description: Something SpheniscaOS should do.
 labels: [enhancement, triage]
 body:
   - type: dropdown

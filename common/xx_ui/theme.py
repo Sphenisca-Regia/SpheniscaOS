@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Single source of truth for XX themes.
 
 Preset values are copied exactly from ``xx-wm/launcher/src/config.py``

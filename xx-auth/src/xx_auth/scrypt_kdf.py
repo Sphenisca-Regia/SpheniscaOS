@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """scrypt (RFC 7914) via the stdlib. Linux mapping of Android
 `setup/Scrypt.kt`: the Aegis KDF is scrypt(N=32768, r=8, p=1) with a 32-byte
 salt and key, so the pure-Kotlin Salsa20/8 core maps to `hashlib.scrypt` and

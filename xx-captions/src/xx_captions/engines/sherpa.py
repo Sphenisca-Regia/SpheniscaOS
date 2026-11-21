@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """sherpa-onnx streaming Zipformer adapter (default engine).
 
 Feeds 16 kHz mono float32 chunks into an online transducer stream and

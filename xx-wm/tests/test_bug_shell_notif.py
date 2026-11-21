@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane bug_shell notification findings: 4, 7 and lower-severity L4.
 
 4: a forged replaces_id must not poison the id counter (or hand out

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Compose page: recipients, subject, plain-text body, attachments (thin view).
 
 Ports ComposeScreen/ComposeViewModel over xx_email.compose (pure)

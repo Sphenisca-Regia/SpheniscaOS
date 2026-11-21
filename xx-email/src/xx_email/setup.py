@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """First-run setup orchestration for XX Email (stdlib only, no GTK).
 
 Ports the SetupScreen/AuthRepository completion side

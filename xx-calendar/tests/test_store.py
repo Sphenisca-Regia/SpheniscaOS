@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Store tests: schema + migrations, file modes, List(since) semantics.
 
 Headless: stdlib sqlite3 only, no display, no GTK import.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Local thumbs up/down: ratings helpers and deterministic scoring.
 
 The store itself lives in ``UiStore`` (``ratings.json``); this module is

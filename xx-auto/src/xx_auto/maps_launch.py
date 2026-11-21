@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Maps-tile resolution against installed desktop entries (AU7)."""
 
 from __future__ import annotations

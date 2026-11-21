@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Credential storage for xx-note WebDAV sync.
 
 Passwords live in libsecret (the ``xx-note`` collection, ``webdav-password``

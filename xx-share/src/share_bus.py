@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Session-bus API between the xx-share UI and the background receiver.
 
 Bus name: ``io.piercingxx.XXShare1``

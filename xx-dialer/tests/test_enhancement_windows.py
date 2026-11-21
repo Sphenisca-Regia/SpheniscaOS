@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Port of EnhancementWindowsTest (app/.../telecom/FactSourceTest seam).
 
 Repeat-caller (15 min) and recent-outgoing (48 h) window edges: the exact

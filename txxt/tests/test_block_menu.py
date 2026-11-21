@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Conversation-menu Block must write the blocklist (bug_txxt finding 30).
 
 Headless: the page is allocated without ``__init__`` (no display), the

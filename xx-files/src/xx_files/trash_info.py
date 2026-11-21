@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Freedesktop Trash helpers: parse .trashinfo sidecars.
 
 The lane design uses the freedesktop Trash (``Gio.File.trash``,

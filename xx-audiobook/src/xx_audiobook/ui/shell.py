@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The window: the auth gate, then five bottom tabs with one navigation
 stack per tab and the mini-player above the bar (ui/App.kt,
 ui/navigation/AppNavHost.kt).

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Power profiles that work on phones (wm_power_night lane).
 
 Driver detection, governor mapping/fallbacks, the helper allowlist,

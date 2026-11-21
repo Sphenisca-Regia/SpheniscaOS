@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L5 media tests: EXIF/metadata scrub (fail closed) + fit math.
 
 Ports the Android scrubber contracts (``ImageMetadataScrubber``,

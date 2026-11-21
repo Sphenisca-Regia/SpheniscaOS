@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real-service contacts integration: backend vs xx-contacts.
 
 Starts the real ``xx-contacts`` service on a private session bus

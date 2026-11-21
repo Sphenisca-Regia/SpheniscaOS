@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pick out of the service: the D-Bus service launches the GUI.
 
 The service never touches GTK: ``Pick`` holds the caller's invocation,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure conversation logic.
 
 Port of the pure ``core/`` conversation model:

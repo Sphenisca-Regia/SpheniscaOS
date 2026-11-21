@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Launcher-wide font (design.md "Fonts"): one display-level provider sets the
 configured family on every shell window and popover. Surfaces no longer

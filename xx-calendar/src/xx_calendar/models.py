@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GUI-free calendar models: ports of the Android pure-JVM core.
 
 Ports ``core/RRuleModel.kt``, ``core/ScopeResolver.kt``, ``core/TimeMath.kt``,

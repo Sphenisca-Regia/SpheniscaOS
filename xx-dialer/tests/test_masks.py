@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Mask-builder tests — port of ui/MaskBuilderTest.kt."""
 from xx_dialer.masks import Draft, build, digits_of, neighbor_draft, preview
 from xx_dialer.policy import PatternRule

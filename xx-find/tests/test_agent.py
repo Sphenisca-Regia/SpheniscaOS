@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Agent gate: no I/O until enabled AND paired; erase needs its own key."""
 
 from __future__ import annotations

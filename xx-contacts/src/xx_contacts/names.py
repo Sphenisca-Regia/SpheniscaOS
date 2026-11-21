@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Name rules for the editor. Port of EditorNames.kt: First + Last only."""
 
 from __future__ import annotations

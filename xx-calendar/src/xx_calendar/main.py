@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Calendar app shell: xx_ui design system with Schedule/Day/Month pages.
 
 Reads instances through the service's ``ListInstances`` operation running

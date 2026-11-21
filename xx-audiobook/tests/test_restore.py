@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Mini-player restore: paused state only, newer pointer wins."""
 
 from fake_server import DETAIL_1

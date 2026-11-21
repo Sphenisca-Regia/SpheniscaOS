@@ -2,7 +2,7 @@
 name = "xxwm"
 version = "0.1.0"
 edition = "2021"
-license = "GPL-3.0-only"
+license = "MPL-2.0"
 description = "XX-WM window manager: handset and tiling policy for the river compositor"
 publish = false
 

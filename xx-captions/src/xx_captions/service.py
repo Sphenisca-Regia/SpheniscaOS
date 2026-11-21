@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """io.piercingxx.Captions1 session service (lane 2: capture + store).
 
 SessionController owns the session state with no D-Bus and no GTK:

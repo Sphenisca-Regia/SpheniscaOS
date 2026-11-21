@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """D-Bus input validation (translation of alarm/AlarmClockApiTest.kt).
 
 Android intents are OUT; the pure request rules live on guarding the

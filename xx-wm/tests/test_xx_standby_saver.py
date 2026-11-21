@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the battery-saver ("Saver") quick-settings tile.
 
 Sorts after the other tile tests on purpose: quick_actions is shared via

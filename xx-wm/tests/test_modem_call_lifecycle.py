@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ModemMonitor call lifecycle fixes (review 2026-11-11, P1.2).
 
 A failed GetAll on a new call retries with backoff, StateChanged is

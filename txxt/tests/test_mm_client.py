@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L3 modem-client tests: MM Messaging + mmsd-tng against faithful fakes.
 
 The fakes model the REAL signatures and reply shapes (XXWM_RULES.md):

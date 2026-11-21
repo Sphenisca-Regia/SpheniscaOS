@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Top status bar: a thin Layer.TOP strip that reserves the camera area.
 
 Phones with a punch-hole front camera need the top few millimetres kept

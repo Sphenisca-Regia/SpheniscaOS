@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Journal tab: activities grouped into local days, newest first.
 
 Grouping and totals live in core/journal; rows are xx ListRows inside a

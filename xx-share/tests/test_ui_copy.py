@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Share-window copy and states, as pure functions (no display needed).
 
 Pins the minimal rules: empty lists show no caption, Send needs a device

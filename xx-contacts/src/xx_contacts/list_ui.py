@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L2 contacts list UI: search, sections, jump strip, row menu.
 
 Phone-first 360x720 over ``Adw.NavigationView`` with the shared

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shell side of dialer call screening (``io.piercingxx.XXDialer.Policy1``).
 
 Service ``io.piercingxx.XXDialer.Policy`` at ``/io/piercingxx/XXDialer/Policy``

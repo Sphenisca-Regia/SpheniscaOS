@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """XX-Dialer entry point: Adw.Application GUI, or the headless policy service.
 
 The ``--service`` path serves the Policy1 endpoint the shell consults

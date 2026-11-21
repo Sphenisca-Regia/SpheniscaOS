@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Desktop theme bridge (wm_apptheme lane).
 
 Third-party apps only see the desktop settings and gtk.css; desktop_theme

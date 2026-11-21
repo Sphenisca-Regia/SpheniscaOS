@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane bug_shell telephony findings: 6, 12 and lower-severity L1.
 
 6: a waiting call that becomes the ringing call must be screened (consult)

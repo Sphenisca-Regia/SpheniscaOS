@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Profile field validation. Port of ui/profile/ProfileEditModel.kt.
 
 Height is typed in display units but stored in metres: metric input is

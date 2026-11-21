@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """In-shell polkit authentication agent.
 
 With no agent in the session nothing can prompt for the device

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Base32 codec (RFC 4648). Port of Android `engine/Base32.kt`."""
 
 from __future__ import annotations

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Player service units: dispatch, sequencing, errors, signals, persistence.
 
 Synchronous doubles (inline executor, immediate idle_add, recording

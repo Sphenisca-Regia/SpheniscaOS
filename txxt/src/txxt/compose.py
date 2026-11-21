@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Compose send gate and outgoing validation.
 
 Ports ``ui/SendGate.kt`` (one send at a time: the decision lives in

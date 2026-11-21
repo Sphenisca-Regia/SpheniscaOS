@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Recurrence tests: DST boundaries, monthly edges, BYSETPOS, exceptions.
 
 Headless: zoneinfo only, no display, no GTK import.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """snap.py --script for the overflow menu and the licenses pages.
 
 CALC_SURFACE=menu opens the overflow menu and paints the popover (its

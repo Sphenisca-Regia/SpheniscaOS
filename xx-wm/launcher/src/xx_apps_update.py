@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """xx-apps-update: install the XX apps that changed, from signed releases.
 
 Fetches the xx-os repository's release tags into a cache clone, picks the
@@ -36,7 +37,7 @@ import tarfile
 import tempfile
 from typing import NamedTuple
 
-REPO_URL = "https://github.com/PiercingXX/xx-os.git"
+REPO_URL = "https://github.com/Sphenisca-Regia/SpheniscaOS.git"
 SIGNERS_FILE = "/usr/share/xx-wm/release-signers"
 SIGNER = "release@xx-os"
 RELEASE_TAG_RE = re.compile(r"v(\d{4})\.(\d{2})\.(\d{2})(?:\.(\d+))?")

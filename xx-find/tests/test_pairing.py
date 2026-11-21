@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pairing QR/OTC payload + keystore seam. No bus, keyring or network."""
 
 from __future__ import annotations

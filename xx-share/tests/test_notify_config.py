@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 from notify import (
     ACTION_ACCEPT,
     ACTION_DECLINE,

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """GUI-side contact writes through the contacts service (single writer).
 
 The service owns ``io.piercingxx.Contacts`` and is the only process

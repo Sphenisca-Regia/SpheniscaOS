@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Year-bounded listening stats and session history (M5).
 
 Mirrors ui/stats/StatsScreen.kt: the year switcher (MIN_YEAR 2000 through

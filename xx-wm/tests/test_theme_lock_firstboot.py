@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Theme sweep: lock screen + first-boot wizard sheets are pure functions of
 their ThemePreset with no hardcoded legacy colors. Headless — only touches
 the pure theme_css() builders, never GTK widgets."""

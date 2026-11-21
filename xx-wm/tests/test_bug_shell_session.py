@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane bug_shell session findings: 3, 9, 10, 13 and lower-severity L2/L3/L5.
 
 3: the shell's own launcher must not appear in the drawer (NoDisplay +

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """xx-find-agent launcher. The agent refuses to run until enabled AND paired."""
 from xx_find.agent import main
 

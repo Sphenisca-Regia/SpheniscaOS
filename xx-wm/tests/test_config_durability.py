@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ShellConfig durability + PIN hardening: atomic saves (crash-safe replace,
 0600 modes) and PBKDF2 pin storage with transparent legacy-sha256 upgrade.
 Pure logic, no GTK imports."""

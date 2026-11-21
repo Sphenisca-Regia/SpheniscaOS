@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L3 fix-up round 3: the search entry must not autofocus (Broadway).
 
 Regression: ``set_focusable(False)`` left the ``SearchEntry``'s inner

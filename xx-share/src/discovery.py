@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """UDP multicast discovery: announce, listen, register fallback, scan.
 
 The socket factory and clock are injectable so headless tests drive the

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Milestone 9 acceptance: settings/accounts/logs/backup/polish.
 
 Headless: log redaction + ring/file behavior, versioned backup

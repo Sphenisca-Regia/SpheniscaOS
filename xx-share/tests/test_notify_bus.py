@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real-bus coverage for the receive prompt (needs dbus-run-session).
 
 A fake ``org.freedesktop.Notifications`` service (real Gio object with

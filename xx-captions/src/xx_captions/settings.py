@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Settings and transcript history (`xx-captions --settings`).
 
 One undecorated window on the xx_ui design system: engine and language

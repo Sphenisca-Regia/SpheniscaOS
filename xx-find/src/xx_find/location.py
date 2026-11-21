@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Location sourcing: GeoClue2 first, ModemManager as fallback.
 
 Only pure parsing/selection lives here so it is unit-testable without

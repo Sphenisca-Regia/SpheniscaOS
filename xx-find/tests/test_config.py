@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Config defaults: disabled until the owner opts in."""
 
 from __future__ import annotations

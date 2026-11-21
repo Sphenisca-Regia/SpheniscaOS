@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The main-loop lint runs green over the player sources."""
 
 import subprocess

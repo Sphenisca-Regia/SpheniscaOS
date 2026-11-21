@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real display power-off over zwlr_output_power_manager_v1.
 
 Covers the vendored output-power protocol XML (upstream order pins the

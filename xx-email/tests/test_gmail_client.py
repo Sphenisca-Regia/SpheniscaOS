@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Gmail client tests: golden JSON parsing plus endpoint/401 behavior.
 
 Ports GmailJsonTest (uint64-as-string, ignore-unknown-keys) and

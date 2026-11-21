@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Throwaway signed-release repositories for the updater and release tests.
 
 Every key is generated in the test's tmp dir; the real release key is never

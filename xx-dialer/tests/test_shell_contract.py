@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lock-screen handoff contract: dialer service vs the XX-WM shell.
 
 The shell keeps the lock-screen + incoming-call surface and consults

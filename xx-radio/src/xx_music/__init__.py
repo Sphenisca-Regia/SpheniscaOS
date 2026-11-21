@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx_music: the reusable, source-agnostic music player core.
 
 Engine interface, models, app spec (extension points), paths, worker

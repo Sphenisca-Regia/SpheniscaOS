@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for the 20.4 session-start app preload gate.
 
 Preloading warms swipe-bound apps into RAM so a gesture opens a resident

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """systemd session target + portal wiring (postmarketOS VM fix-up).
 
 xdg-desktop-portal.service has Requisite=graphical-session.target, which

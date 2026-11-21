@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-weather: ZIP-code weather (NWS, US only).
 
 Adw.Application with forecast / places / settings pages plus a day
@@ -47,7 +48,7 @@ LICENSE_ROWS = (
     ("NWS weather.gov", "Forecasts \u00b7 US public domain"),
     ("Open-Meteo.com", "Weather data \u00b7 CC BY 4.0"),
     ("Zippopotam.us", "ZIP lookup from GeoNames \u00b7 CC BY 4.0"),
-    ("weather", "App code \u00b7 GPL-3.0-only"),
+    ("weather", "App code \u00b7 MPL-2.0"),
 )
 
 FOOTER_TEXT = ("NWS weather.gov \u00b7 Open-Meteo.com (CC BY 4.0) "

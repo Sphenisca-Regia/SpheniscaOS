@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Phone-default model: small streaming Zipformer (mobile-data sized).
 
 The full-size download costs phones 310 MB for 68 MB on disk; the 20M

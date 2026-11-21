@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Watches ModemManager1 DBus for voice calls and incoming SMS, emitting
 callbacks so the shell can show/hide CallUI and CallBar and post SMS

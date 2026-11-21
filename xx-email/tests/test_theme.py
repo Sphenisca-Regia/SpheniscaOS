@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx_ui adoption contract for xx-email (headless, no display).
 
 The app owns no theme reader and no theme CSS: one xx_ui.apply() at

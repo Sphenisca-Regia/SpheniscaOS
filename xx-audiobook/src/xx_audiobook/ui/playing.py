@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Now Playing, its sheets, and the mini-player.
 
 Mirrors ui/player/NowPlayingScreen.kt: the cover centered (capped so the

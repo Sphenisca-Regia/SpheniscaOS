@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App preferences. Linux mapping of Android `VaultSettings` plus the lock
 settings this lane requires: single JSON row with defaults when never set."""
 

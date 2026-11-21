@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """App config: JSON file, tolerant parse, stdlib only.
 
 Lives at ~/.config/xx-dialer/config.json. Missing keys fall back to

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Speech-to-text engine adapter interface plus a scripted fake.
 
 Real backends (sherpa-onnx default, Vosk fallback) live behind this

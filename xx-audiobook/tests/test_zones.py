@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Zones against the fake HA endpoints: cast, transport, bring-back."""
 
 import json

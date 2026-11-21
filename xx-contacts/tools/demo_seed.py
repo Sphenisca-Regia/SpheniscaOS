@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Fill a HOME dir with realistic contacts through the app's real store.
 
 Usage: demo_seed.py HOME_DIR

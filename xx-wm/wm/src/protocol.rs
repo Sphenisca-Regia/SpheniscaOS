@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 //! Client bindings generated from river's protocol files.
 #![allow(
     dead_code,

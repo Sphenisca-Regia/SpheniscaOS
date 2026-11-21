@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """DnD/Focus schedule matcher: day windows, overnight wrap, malformed input."""
 
 import sys

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Motion-gated resident step sampler: cheap polls while still, dense while moving.
 
 A 10 s burst every 15 min covers ~1% of the day, and banking its count

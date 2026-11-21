@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Run the XX-WM shell from this checkout inside the current Wayland display
 # (the nested river from run-nested.sh), sealed off from the host desktop:
 # its own HOME and its own D-Bus session, so it cannot take the host's

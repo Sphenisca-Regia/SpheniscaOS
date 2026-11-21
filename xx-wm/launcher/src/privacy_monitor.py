@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Privacy indicators (Android/GrapheneOS parity): live mic/camera/location use.
 
 Mic/camera come from the PipeWire graph: one long-lived `pw-dump --monitor`

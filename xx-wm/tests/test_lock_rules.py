@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """PIN rules shared by the wizard and Settings, the PIN check in front of
 security changes, Remove PIN, and a reset config.json never replacing a
 PIN the root helper still holds.

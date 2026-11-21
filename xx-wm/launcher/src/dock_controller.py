@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Docked mode on river: what the phone does while a monitor is connected.
 
 xxwm moves the phone's work to the monitor when one appears and back

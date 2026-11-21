@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway flows: scripted Play-edition behaviors through the real window.
 
 Preview, post-equals continuation, editable errors, history tap rules,

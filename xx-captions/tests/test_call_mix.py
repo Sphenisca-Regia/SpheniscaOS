@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Call mode: downlink+uplink are mixed to one real-time stream.
 
 Regression test: feeding the two 100 ms directions into one engine one

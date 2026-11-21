@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The Engine contract, exercised through the fake engine."""
 
 import inspect

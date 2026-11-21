@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """CastMessage framing and message builders for the Cast V2 protocol.
 
 The envelope is a tiny protobuf with six fields; it is hand-encoded so

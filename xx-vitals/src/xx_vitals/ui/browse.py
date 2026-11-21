@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Browse tab: search over six categories with honest "not tracked" rows.
 
 Category data lives in core/browse; series math in core/detail. Category and

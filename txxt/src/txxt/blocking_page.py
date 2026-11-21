@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Blocking page: blocked numbers, content-filter terms, dialer import.
 
 Ports ``ui/BlockingActivity`` (edits the four persisted rule sets and the

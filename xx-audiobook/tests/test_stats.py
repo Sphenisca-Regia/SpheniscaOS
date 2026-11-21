@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Stats: year bounds, zero-filled series, sessions paging and delete."""
 
 from datetime import date

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """OpenRC hosts start the session through a PAM login (review P2).
 
 polkit grants the helper's actions only to callers in an active logind

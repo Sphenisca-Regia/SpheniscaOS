@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Plain text helpers for the music screens. Pure: no GTK, no I/O."""
 
 from __future__ import annotations

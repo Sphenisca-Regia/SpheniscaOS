@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Quarantine page: review held messages from unknown senders.
 
 Ports ``ui/QuarantineActivity``: threads held by the unknown-sender rule

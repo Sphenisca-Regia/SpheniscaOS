@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Store tests: schema, DAO helpers, log semantics, rules loading."""
 from xx_dialer.store import (
     CallRow,

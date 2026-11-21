@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Session-scoped GSettings defaults (launcher/data/gschema).
 
 squeekboard (server-context-service.c) and xx-keyboard / phosh-osk-stevia

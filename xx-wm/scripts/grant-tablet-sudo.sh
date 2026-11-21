@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Let scripts/deploy.sh write the shell's datadir on the XX-WM smoke
 # tablet without a password, from this laptop.
 #

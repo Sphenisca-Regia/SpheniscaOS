@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Daemon over a private bus: real methods, real signals, GUI coexistence.
 
 The GUI must start while the daemon runs (a shared bus name would make it

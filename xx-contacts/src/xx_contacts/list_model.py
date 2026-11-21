@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """L2 list/search logic without GTK: sections, jump strip, debounce, URIs.
 
 The GTK layer (``list_ui``) runs :func:`fetch_rows` in a worker thread and

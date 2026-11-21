@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Storage roots: home folders plus removable media.
 
 Port of the Android ``Volume``/``VolumeLabels``/``Volumes``/``BackNav``

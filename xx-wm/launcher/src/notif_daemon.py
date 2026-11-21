@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 In-process org.freedesktop.Notifications DBus service.
 

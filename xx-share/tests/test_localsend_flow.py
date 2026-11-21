@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Fake-official-client flow: prepare-upload -> chunked upload -> done.
 
 The official LocalSend sender (Rust core, ``upload_body``) streams file

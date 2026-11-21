@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Checklist sort + item-wise merge (port of ChecklistSorter/ChecklistMerge).
 
 Sorting is a stable partition per task block on editor save only — never

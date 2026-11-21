@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Session wrapper and service lifecycle (review P2, session/install).
 
 The real launcher/data/xx-wm.in runs under `sh` with a fake shell

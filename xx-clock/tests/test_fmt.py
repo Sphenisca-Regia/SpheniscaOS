@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Relative-time text (port of the until() half of util/Fmt.kt)."""
 
 from xx_clock import fmt

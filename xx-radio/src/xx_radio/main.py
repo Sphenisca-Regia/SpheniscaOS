@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """XX-Radio entry point: the xx_music core with the YouTube Music engine.
 
 Everything app-specific lives in SPEC. The window, pages, player service

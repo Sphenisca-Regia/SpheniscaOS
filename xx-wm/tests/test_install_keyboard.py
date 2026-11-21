@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """xx-keyboard install/session wiring (lane kb_brand).
 
 install.sh builds and installs xx-keyboard and no longer installs the

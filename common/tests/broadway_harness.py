@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Spawn a private gtk4-broadwayd and run a driver script against it.
 
 Shared by the Broadway tests; skips cleanly when the daemon binary is

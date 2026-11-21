@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """YouTubeMusicEngine: contract signatures and catalog wiring.
 
 The fake client mirrors the real ytmusicapi 1.12.3 signatures one by one

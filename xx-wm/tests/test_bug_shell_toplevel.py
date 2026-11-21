@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane bug_shell findings 1+2: toplevel thread marshalling and resync lifecycle.
 
 Finding 1: registry change callbacks must reach the GTK main thread. The old

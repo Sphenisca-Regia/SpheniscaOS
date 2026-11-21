@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for system_settings.py parsers (pure logic, injected output)."""
 import os
 import stat

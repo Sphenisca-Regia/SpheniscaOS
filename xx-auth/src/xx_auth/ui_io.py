@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Import/export page: real Aegis vault files through file pickers. Linux
 mapping of Android `ui/ImportExportScreen.kt` (SAF → Gtk.FileDialog, async;
 heavy crypto on worker threads)."""

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Phone-integration backends: KDE Connect, Syncthing, adbd, SSH address.
 
 GTK-free pure logic plus thin worker-only probes. Every blocking call

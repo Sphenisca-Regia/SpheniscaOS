@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """XX-Vitals — Linux phone port (scaffold)."""
 
 __version__ = "0.1.0"

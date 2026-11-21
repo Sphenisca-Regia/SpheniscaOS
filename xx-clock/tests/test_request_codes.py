@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Stable schedule keys (translation of scheduler/SchedulerRequestCodeTest.kt)."""
 
 from xx_clock import request_codes as codes

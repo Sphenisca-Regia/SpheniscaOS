@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Note editor page: live-styled TextView + read view, autosave, undo.
 
 The buffer restyles itself on every change (headings, bold/italic,

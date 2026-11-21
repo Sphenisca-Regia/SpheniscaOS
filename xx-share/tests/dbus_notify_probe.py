@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Real-bus probe: fake org.freedesktop.Notifications over a session bus.
 
 Runs under ``dbus-run-session`` (no display needed). Registers a Gio

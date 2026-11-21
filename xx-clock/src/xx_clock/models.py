@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Alarm and timer models (port of model/Alarm.kt + model/TimerItem.kt)."""
 
 from __future__ import annotations

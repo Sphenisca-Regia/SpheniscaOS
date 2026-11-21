@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """QR gate tests. Translated from the `ReviewPassTest` scanner cases; image
 decoding itself is backend-driven and tested with fakes."""
 from xx_auth import qr

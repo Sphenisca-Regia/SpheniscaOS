@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """install.sh: the Nerd Font zip is checked against a pinned sha256.
 
 download_nerd_font_fallback is extracted from install.sh and sourced in

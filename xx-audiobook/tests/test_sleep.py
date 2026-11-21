@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sleep timer: 10 s fade, pause-aware countdown, end-of-chapter mode."""
 
 import pytest

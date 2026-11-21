@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """backlight.find: the screen node, never the FLX1's vibrator LED or a
 workstation's keyboard LEDs."""
 from pathlib import Path

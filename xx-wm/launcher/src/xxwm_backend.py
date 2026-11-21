@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Window list and switching through the xxwm window manager (river).
 
 river gives clients a read-only window list but no way to activate or close

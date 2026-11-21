@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Fill a HOME/XDG dir with realistic xx-vitals data via the real store APIs.
 
 Usage: python3 xx-vitals/tools/demo_seed.py OUT_HOME [--days N]

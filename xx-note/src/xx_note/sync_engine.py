@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Sync reconciliation between the local folder and WebDAV.
 
 Applies :mod:`xx_note.sync_policy` verdicts per note: pull/push/merge/

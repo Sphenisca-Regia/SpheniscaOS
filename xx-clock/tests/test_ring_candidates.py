@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Ring fallback order (translation of audio/RingCandidatesTest.kt)."""
 
 from xx_clock import ring_candidates as module

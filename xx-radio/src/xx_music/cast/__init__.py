@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Source-agnostic Cast sending: discovery, V2 client, LAN serving."""
 
 from xx_music.cast.client import CastClient, CastError

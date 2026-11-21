@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Which sysfs node is the screen backlight.
 
 Mainline phones expose /sys/class/backlight/<name>. Halium phones (the

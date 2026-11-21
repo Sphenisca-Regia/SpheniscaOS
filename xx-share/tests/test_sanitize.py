@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 from sanitize import sanitize_filename, unique_path
 
 

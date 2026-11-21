@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """The mini player above the bottom tabs (when a queue exists).
 
 A 64 px row on ``surface``: 48 px art, title, artist (or the player's

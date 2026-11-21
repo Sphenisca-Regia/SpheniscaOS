@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Add-account page: image-file scan, paste, manual entry. Linux mapping of
 Android `ui/AddAccountScreen.kt`; all three land in the same vault path,
 and a successful add returns to the list, where the new row is the

@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Cut a signed xx-os release: an SSH-signed annotated tag on the checked-out
 # commit, which must be clean, on the remote's main, a descendant of the
 # previous release, and green in CI. The tag is verified against the

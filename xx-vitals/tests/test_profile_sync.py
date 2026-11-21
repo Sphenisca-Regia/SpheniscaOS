@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Profile sync UI helpers: login copy, setup gating, state lines, host save.
 
 Headless: no display, no keyring (MemorySecretBackend only), HOME pointed at

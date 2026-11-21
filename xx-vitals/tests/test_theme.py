@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Theme contract: the app owns no theme reader or CSS of its own.
 
 All theming comes from the shared xx_ui design system: one apply() at

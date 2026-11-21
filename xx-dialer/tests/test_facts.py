@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """facts.py over the warm tables: no D-Bus, never a contacts round trip."""
 from datetime import datetime
 

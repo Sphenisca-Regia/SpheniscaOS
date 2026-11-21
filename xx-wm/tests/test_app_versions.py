@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Per-app versions: manifest generation and the version-bump gate.
 
 Drives scripts/app_versions.py against the real tree (manifest matches the

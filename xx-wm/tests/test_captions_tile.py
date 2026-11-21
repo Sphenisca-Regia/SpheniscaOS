@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Shell side of live captions: Captions tile, volume-row toggle, privacy.
 
 Contract under test: ``ref/xx-captions/docs/shell-integration.md``

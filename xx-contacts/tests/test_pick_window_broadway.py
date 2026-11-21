@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pick-window Broadway smoke test: the real GUI half of Pick.
 
 Builds the real ``ContactsApp`` pick-mode window (what the headless

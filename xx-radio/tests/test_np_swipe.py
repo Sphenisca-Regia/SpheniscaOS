@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Now Playing: swiping the stage changes songs in both looks (owner:
 "let me swipe on the screen to change music")."""
 import inspect

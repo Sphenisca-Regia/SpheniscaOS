@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Aegis vault tests. Translated from Android
 `setup/VaultImportExportTest.kt` plus the `ReviewPassTest` import cases;
 the vault under test is plaintext secrets in, ciphertext out, through the

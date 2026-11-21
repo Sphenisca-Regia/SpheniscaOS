@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lossless iCalendar codec (RFC 5545 subset, Revision 2 §1).
 
 Every VEVENT keeps its original properties and parameters, including

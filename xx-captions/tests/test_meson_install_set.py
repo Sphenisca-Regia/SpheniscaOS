@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Every scaffold module must be installed by meson.build (no orphans)."""
 from __future__ import annotations
 

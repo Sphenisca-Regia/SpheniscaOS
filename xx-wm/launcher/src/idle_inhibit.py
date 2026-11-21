@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Process-wide idle-inhibit hub: who is keeping the screen on.
 
 Two producers feed the DisplayManager's named idle inhibitors through

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Wired service on a private bus: real service process, fake engine.
 
 Uses ``xx_radio.service.build_service`` (the production wiring) with the

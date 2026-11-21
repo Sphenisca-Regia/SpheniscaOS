@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Estate-only bearer for media URLs (M2).
 
 Mirrors playback/StreamAuth.kt: the header is attached only to requests

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Keybind sheet: Super+/ shows the window manager's live key bindings
 as a centered, read-only sheet on the focused monitor.
 

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane-2 round trip: owner + phone + server with fakes only.
 
 Phone seals a location fix to the owner key, the server stores the

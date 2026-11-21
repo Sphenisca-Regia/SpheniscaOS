@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Static guard: every signal connected in src/ must exist in GTK4, and
 known removed APIs must not be used. Mirrors the shell's gtk4 api guard
 so the same class of crash can never go green here."""

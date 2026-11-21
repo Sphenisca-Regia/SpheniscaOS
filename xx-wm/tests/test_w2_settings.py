@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """W2 settings tests: deep links, 320 px rows, Shell section, WiFi password.
 
 window.py is imported against recorder fakes (no display): fake widgets

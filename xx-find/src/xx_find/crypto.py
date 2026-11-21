@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Crypto interface: sealed boxes for reports, signatures for commands.
 
 Backend is PyNaCl (libsodium): distro-packaged as `python3-nacl`

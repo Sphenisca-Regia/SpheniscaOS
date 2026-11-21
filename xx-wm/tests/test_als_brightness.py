@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Automatic brightness: paused while blanked, smoothed, ramped.
 
 The ALS poll used to keep running while the display was blanked (writing

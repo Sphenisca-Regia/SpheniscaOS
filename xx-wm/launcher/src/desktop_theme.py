@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Every app follows the shell theme (desktop bridge for third-party apps).
 
 Suite apps theme themselves through xx_ui; third-party GTK3/GTK4/libadwaita

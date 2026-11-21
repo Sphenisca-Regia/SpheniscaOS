@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Seeded + empty screenshots of every screen in four themes, plus 320 px
 # and text-scale-2 fit checks:
 #   xx-audiobook/tools/snap_all.sh OUTDIR [TARGET ...]

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver for the milestone 9 audit (not collected by pytest).
 
 Opens every page against a seeded realistic store (including

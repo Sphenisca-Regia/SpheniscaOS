@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 One shared drag-to-reorder sheet for home slots, pinned apps and folder
 members — the shell's counterpart to the Android launcher's ReorderSheet.

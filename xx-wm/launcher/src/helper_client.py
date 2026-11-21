@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Async client for the privileged helper service (``f_helper``).
 
 The shell never runs as root: battery charge limits, per-app network

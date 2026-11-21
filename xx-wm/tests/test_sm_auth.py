@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane sm_auth: polkit agent, updates, uninstall, owner update script.
 
 Helper methods run against recording fakes — never the real package

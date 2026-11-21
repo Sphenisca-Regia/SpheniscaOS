@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Tests for weather.py — cache staleness and formatting, injected clock/fetcher."""
 from pathlib import Path
 

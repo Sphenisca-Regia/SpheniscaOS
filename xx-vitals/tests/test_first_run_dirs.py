@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """First-run directories: a clean device has no ~/.local/share at all.
 
 Regression test for the postmarketOS first-launch crash (do_activate ->

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """MPRIS2 media access for the drive screen (replaces Media3).
 
 Pure helpers (parse/sort) stay importable without gi; the Gio-backed

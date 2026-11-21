@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Alert evaluation + desktop notifications. Gtk-free except inside
 ``send_fire`` so tests import this without a display."""
 

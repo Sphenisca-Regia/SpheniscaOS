@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MPL-2.0
 """Seed a fake HOME with realistic xx-dialer data for screenshots/tests.
 
 Usage: demo_seed.py <homedir>

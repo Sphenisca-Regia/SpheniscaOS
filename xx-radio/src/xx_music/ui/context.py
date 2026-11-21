@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """What every music screen gets: the engine, the worker, the player, the
 art loader, the window's store, the health monitor and the app's hooks.
 

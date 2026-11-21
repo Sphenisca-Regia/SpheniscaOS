@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """
 Backup and restore — versioned JSON export of the shell configuration.
 

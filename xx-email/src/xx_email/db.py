@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """sqlite3 store for XX Email (stdlib only, no GTK).
 
 Ports Room XxEmailDb v3 (ref/xx-email data/db/): the same 8 tables and

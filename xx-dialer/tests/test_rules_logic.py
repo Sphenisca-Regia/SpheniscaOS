@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Rules-screen logic tests: precedence, labels, countdown, tallies."""
 import time
 

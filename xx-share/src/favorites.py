@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Favorites: pinned peer fingerprints with optional auto-accept.
 
 Thin helpers over ShareConfig.data so both the service (auto-accept

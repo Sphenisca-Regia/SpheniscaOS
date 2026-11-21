@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 from main import parse_args
 
 

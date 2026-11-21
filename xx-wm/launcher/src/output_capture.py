@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Last-seen stills via grim.
 
 In-process wlr-screencopy on a second Display blocked in read() and never

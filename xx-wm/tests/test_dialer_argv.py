@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Dialer call placement (P2-D, W1 telephony).
 
 Dialing prefers Voice.CreateCall + Call.Start over D-Bus and falls back

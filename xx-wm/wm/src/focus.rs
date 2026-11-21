@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 //! Keyboard focus for one seat, decided once per manage sequence. Pure, so
 //! it is unit-tested; wm.rs turns the answer into river requests.
 

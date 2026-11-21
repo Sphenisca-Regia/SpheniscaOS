@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """ContactBook xx-contacts D-Bus migration (wm_contacts1).
 
 The shell's ContactBook now reads primarily from the xx-contacts session

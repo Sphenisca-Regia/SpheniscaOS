@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Lane 5 Broadway smoke test: the real Rules/People/Setup pages.
 
 Builds the real dialer view (Recents + Keypad + People + Rules +

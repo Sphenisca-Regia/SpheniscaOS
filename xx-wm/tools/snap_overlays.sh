@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # Render the shell overlay surfaces (recents, the shade in four states,
 # call UI, HUD, power menu, banner) for every theme.
 #   xx-wm/tools/snap_overlays.sh OUTDIR [theme ...]

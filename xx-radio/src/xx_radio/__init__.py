@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """XX-Radio: an unofficial YouTube Music player for Linux phones."""
 
 __version__ = "0.1.0"

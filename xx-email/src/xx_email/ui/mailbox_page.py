@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Mailbox page: chip-filtered inbox over the L1/L2 store (thin view).
 
 Ports MailboxScreen/MailboxViewModel over xx_email.mailbox (pure) and

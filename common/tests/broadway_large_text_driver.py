@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Broadway driver: at text scale 1.5, long tab labels, a shrinking page
 title, wrapping rows and the button pair keep a 320 px window 320 wide.
 

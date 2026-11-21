@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Monotonic id sequence (port of MonotonicIdSequence in data/ClockStore.kt).
 
 Alarms and timers draw from ONE shared namespace so ids never collide

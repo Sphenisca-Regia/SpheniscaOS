@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Installer/packaging fix-ups from the first real postmarketOS install (W3).
 
 pmOS v26.06 Phosh on generic-x86_64 (VM) showed: a meson build-output

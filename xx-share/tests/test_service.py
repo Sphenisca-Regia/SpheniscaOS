@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Accept policy and visibility timers without GTK or network."""
 import service as service_module
 from config import ShareConfig

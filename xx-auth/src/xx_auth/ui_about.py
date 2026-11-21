@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """About page: version, offline promise, open-source licenses."""
 
 from __future__ import annotations

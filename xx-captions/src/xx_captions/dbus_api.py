@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """D-Bus contract for io.piercingxx.Captions1 (pure, no gi import).
 
 The service implementation (lane 2) owns a real Gio connection; this

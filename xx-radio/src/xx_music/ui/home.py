@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Home: mood chips, then shelves, painted from the disk cache first.
 
 Shelves: the engine's first shelf (quick picks) as columns of song

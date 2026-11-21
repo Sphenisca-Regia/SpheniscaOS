@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """First-run engine state: is the private venv present and healthy?
 
 The distro packages can be too old to stream (M0: Debian yt-dlp answers

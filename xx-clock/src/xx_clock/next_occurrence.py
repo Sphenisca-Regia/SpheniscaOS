@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Pure recurrence math (port of time/NextOccurrence.kt).
 
 Alarms are (hour, minute, days_mask); the next occurrence is computed fresh

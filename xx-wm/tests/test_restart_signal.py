@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Deploy and xxdb restart the shell with SIGUSR1; the xx-wm wrapper
 respawns a child that died of it (wait status 138). A config save still
 waiting out its coalescing delay must reach the disk first."""

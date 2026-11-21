@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Wizard PIN minimum: 6 digits enforced at both gates — the typing-hint
 clear threshold (_pin_add) and the Next-button validation (_on_pin_next).
 Headless: the methods run against a namespace self + widget fakes, so no

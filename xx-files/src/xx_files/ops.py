@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 """Filesystem operations for xx-files: worker bodies + Gio bridges.
 
 Listing, counting, trashing, restoring, copying and deleting all run
