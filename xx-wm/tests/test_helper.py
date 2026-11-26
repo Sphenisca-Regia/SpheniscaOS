@@ -597,7 +597,7 @@ def test_default_authorize_asks_polkit_and_replies(layout, method, args,
                                                    action, flags):
     """No injected authorize: the production polkit path, over a bus
     fake with the real callback contract, gets past authorization (the
-    core then answers, here possibly with "apk not available") and
+    core then answers, here possibly with "neither apk nor apt-get") and
     passes AllowUserInteraction only for the interactive actions."""
     pytest.importorskip('gi')
     seen = []
@@ -618,7 +618,7 @@ def test_default_authorize_asks_polkit_and_replies(layout, method, args,
                             SimpleNamespace(unpack=lambda: args), invocation)
     assert invocation.replies == 1
     assert invocation.error is None or (
-        'apk not available' in invocation.error[1]), invocation.error
+        'neither apk nor apt-get' in invocation.error[1]), invocation.error
 
     assert seen == [(getattr(helper, action), flags)]
     assert service._pending_auth == 0

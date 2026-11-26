@@ -359,8 +359,9 @@ def read_log(name: str, on_done: ResultCallback) -> None:
 
 
 def refresh_package_index(on_done: ResultCallback) -> None:
-    """Refresh the apk package index (harmless, ``allow_active=yes``) as
-    a helper job, so a slow mirror is never killed mid-update.
+    """Refresh the apk or apt package index (harmless,
+    ``allow_active=yes``) as a helper job, so a slow mirror is never
+    killed mid-update.
 
     ``on_done(True, None)`` once JobFinished reports success,
     ``(False, error)`` otherwise.
@@ -370,8 +371,9 @@ def refresh_package_index(on_done: ResultCallback) -> None:
 
 
 def upgrade_system(on_done: ResultCallback) -> None:
-    """Run ``apk upgrade`` as a helper job (``auth_admin_keep``: the
-    in-shell polkit agent prompts for the device password).
+    """Run ``apk upgrade`` / ``apt-get upgrade`` as a helper job
+    (``auth_admin_keep``: the in-shell polkit agent prompts for the
+    device password).
 
     ``on_done(True, output)`` with the upgrade output tail for the
     shell's update log once JobFinished arrives, ``(False, error)``

@@ -53,11 +53,26 @@ class TestRefreshPackageIndex:
             'apk', 'update']
         assert run.cmds == []
 
-    def test_without_apk_fails(self):
+    def test_without_apk_or_apt_fails(self):
         core = helper.HelperCore(run=FakeRun())
-        with pytest.raises(helper.HelperError) as exc:
-            core.refresh_argv(which=_which_map(set()))
-        assert exc.value.dbus_name == helper.ERROR_FAILED
+        for present in (set(), {'pacman'}):
+            with pytest.raises(helper.HelperError) as exc:
+                core.refresh_argv(which=_which_map(present))
+            assert exc.value.dbus_name == helper.ERROR_FAILED
+
+    def test_job_runs_apt_get_update_on_debian(self):
+        core = helper.HelperCore(run=FakeRun())
+        argv = core.refresh_argv(which=_which_map({'apt', 'apt-get'}))
+        assert argv[0] == 'env'
+        assert 'DEBIAN_FRONTEND=noninteractive' in argv
+        tool = argv.index('apt-get')
+        assert argv[-1] == 'update'
+        assert 'DPkg::Lock::Timeout=300' in argv[tool:]
+
+    def test_apk_wins_over_apt(self):
+        core = helper.HelperCore(run=FakeRun())
+        assert core.refresh_argv(
+            which=_which_map({'apk', 'apt-get'})) == ['apk', 'update']
 
 
 # ------------------------------------------------------------ UpgradeSystem
@@ -70,11 +85,31 @@ class TestUpgradeSystem:
             'apk', 'upgrade']
         assert run.cmds == []
 
-    def test_without_apk_fails(self):
+    def test_without_apk_or_apt_fails(self):
         core = helper.HelperCore(run=FakeRun())
         with pytest.raises(helper.HelperError) as exc:
             core.upgrade_argv(which=_which_map({'pacman'}))
         assert exc.value.dbus_name == helper.ERROR_FAILED
+
+    def test_apt_upgrade_never_asks_and_never_removes(self):
+        """Stdin is closed and the password was the only prompt: debconf,
+        conffiles, apt-listchanges and needrestart must all answer for
+        themselves, and the upgrade may add packages but not remove any."""
+        core = helper.HelperCore(run=FakeRun())
+        argv = core.upgrade_argv(which=_which_map({'apt-get'}))
+        env = argv[1:argv.index('apt-get')]
+        assert argv[0] == 'env'
+        assert set(env) == {'DEBIAN_FRONTEND=noninteractive',
+                            'APT_LISTCHANGES_FRONTEND=none',
+                            'NEEDRESTART_MODE=l'}
+        apt = argv[argv.index('apt-get') + 1:]
+        assert '-y' in apt
+        assert 'Dpkg::Options::=--force-confdef' in apt
+        assert 'Dpkg::Options::=--force-confold' in apt
+        assert apt[-2:] == ['upgrade', '--with-new-pkgs']
+        for verb in ('dist-upgrade', 'full-upgrade', 'autoremove',
+                     'remove', 'purge'):
+            assert verb not in apt
 
 
 # ------------------------------------------------------------ RemovePackage
@@ -245,6 +280,35 @@ class TestInteractiveFlags:
         assert run.cmds == []
         assert spawned == [['apk', 'update'], ['apk', 'upgrade'],
                            ['apk', 'del', 'vim']]
+
+    def test_service_runs_apt_jobs_on_debian(self):
+        pytest.importorskip('gi')
+        spawned = []
+
+        def authorize(conn, sender, action, interactive, callback):
+            callback(True, UID, None)
+
+        def spawn(argv, on_exit):
+            spawned.append(list(argv))
+            on_exit(0, 'ok\n')
+
+        core = helper.HelperCore(run=FakeRun(), spawn=spawn)
+        service = helper.HelperService(connection=object(), core=core,
+                                       authorize=authorize)
+        errors = []
+        invocation = SimpleNamespace(
+            return_value=lambda _v: None,
+            return_dbus_error=lambda name, msg: errors.append((name, msg)))
+        import unittest.mock as mock
+        with mock.patch('shutil.which', _which_map({'apt', 'apt-get'})):
+            for method in ('RefreshPackageIndex', 'UpgradeSystem'):
+                service._on_method_call(
+                    service.connection, ':1.7', '/p', 'i', method,
+                    SimpleNamespace(unpack=lambda: ()), invocation)
+        assert errors == []
+        assert spawned == [core.refresh_argv(which=_which_map({'apt-get'})),
+                           core.upgrade_argv(which=_which_map({'apt-get'}))]
+        assert [argv[-1] for argv in spawned] == ['update', '--with-new-pkgs']
 
     def test_introspection_lists_new_methods(self):
         assert 'name="RefreshPackageIndex"' in helper.INTROSPECT_XML

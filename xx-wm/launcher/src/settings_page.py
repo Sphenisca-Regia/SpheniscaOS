@@ -2260,7 +2260,7 @@ class SettingsPage:
         if not _Path(script).expanduser().exists():
             import system_settings
 
-            if system_settings.detect_backend() == 'apk':
+            if system_settings.detect_backend() in ('apk', 'apt'):
                 win._show_status('Update script not found — using in-shell update.')
                 win._on_update_now(_btn)
                 return
@@ -2382,8 +2382,8 @@ class SettingsPage:
 
     def _on_update_now(self, anchor=None) -> None:
         """'Update now': the owner's update-system.sh when installed (it
-        is THE update path); otherwise the native path on apk (in-shell
-        upgrade + Flatpak), the terminal script on pacman."""
+        is THE update path); otherwise the native path on apk and apt
+        (in-shell upgrade + Flatpak), the terminal script on pacman."""
         import settings_updates
 
         win = self._win
@@ -2398,7 +2398,7 @@ class SettingsPage:
         import system_settings
 
         backend = system_settings.detect_backend()
-        if backend == 'apk':
+        if backend in ('apk', 'apt'):
             self._confirm_native_update(anchor)
         elif backend == 'pacman':
             self._confirm_terminal_update(anchor)
@@ -2635,15 +2635,15 @@ class SettingsPage:
         import helper_client
 
         helper_client.upgrade_system(
-            lambda ok, output: self._on_apk_upgraded(ok, output))
+            lambda ok, output: self._on_system_upgraded(ok, output))
 
-    def _on_apk_upgraded(self, ok: bool, output) -> None:
+    def _on_system_upgraded(self, ok: bool, output) -> None:
         import settings_updates
         import system_settings
 
         log_path = settings_updates.new_log_path()
-        settings_updates.append_log(
-            log_path, '== apk upgrade ==\n%s\n' % (output or ''))
+        settings_updates.append_log(log_path, '== %s upgrade ==\n%s\n' % (
+            system_settings.detect_backend() or 'system', output or ''))
         if not ok:
             self._update_status_text(
                 'System update failed: %s' % (output or 'unknown error'))

@@ -38,10 +38,12 @@ None of it has run on hardware yet.
      cgroup paths, and show a failed block in the UI.
    - river text-input: fixed by our river patch (`wm/river/patches/0001-…`, see
      `wm/README.md` "Patched river"); offer it upstream so the patch can go.
-   - Software updates on Debian: the helper's `RefreshPackageIndex` and
-     `UpgradeSystem` run apk only and fail with "apk not available" on Debian
-     (Mobian, FuriOS). An apt path (`apt-get update`, then an upgrade with the
-     same password prompt) is still to be written.
+   - Software updates on Debian: the helper's apt path (`apt-get update`,
+     `apt-get upgrade --with-new-pkgs`) and Settings' in-shell update on apt
+     are in code with fake-run tests only. On the FLX1s and Librem 5: "Check
+     for updates" refreshes and counts, "Update now" prompts for the password,
+     upgrades with no question asked, and the log under the update log dir
+     shows `== apt upgrade ==`.
    - Before leaving alpha: drop ALPHA_ALLOW_CONTAINER_BRIDGES (helper; the
      firewall then stops letting DHCP and DNS in from Android container
      bridges, see `docs/helper.md`).

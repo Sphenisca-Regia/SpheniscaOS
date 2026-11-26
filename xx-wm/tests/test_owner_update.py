@@ -296,6 +296,12 @@ class TestUpdateNowRouting:
         settings_page.SettingsPage._on_update_now(self, object())
         assert calls == {'native': True}
 
+    def test_missing_script_falls_back_to_native_on_apt(self, monkeypatch):
+        settings_page, self, calls = _page_self(
+            monkeypatch, None, backend='apt')
+        settings_page.SettingsPage._on_update_now(self, object())
+        assert calls == {'native': True}
+
     def test_missing_script_falls_back_to_terminal(self, monkeypatch):
         settings_page, self, calls = _page_self(
             monkeypatch, None, backend='pacman')

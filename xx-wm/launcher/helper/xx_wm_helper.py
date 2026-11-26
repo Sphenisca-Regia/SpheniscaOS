@@ -239,6 +239,19 @@ IDLE_EXIT_SECONDS = 60
 JOB_TAIL_LINES = 40
 JOB_TAIL_CHARS = 4000
 
+# apt jobs run with stdin closed and nobody at a terminal, so nothing may
+# stop to ask: debconf answers its defaults, apt-listchanges stays quiet,
+# needrestart only lists (restarting the display manager or ModemManager
+# mid-upgrade would take the session or a call down with it), and a
+# changed conffile keeps the local copy. The variables go through env(1)
+# so the spawn contract stays a bare argv list. The lock wait covers
+# PackageKit or unattended-upgrades holding the dpkg lock for a while.
+APT_ENV = ['env', 'DEBIAN_FRONTEND=noninteractive',
+           'APT_LISTCHANGES_FRONTEND=none', 'NEEDRESTART_MODE=l']
+APT_LOCK_WAIT = ['-o', 'DPkg::Lock::Timeout=300']
+APT_KEEP_CONFIG = ['-o', 'Dpkg::Options::=--force-confdef',
+                   '-o', 'Dpkg::Options::=--force-confold']
+
 POLKIT_TIMEOUT_MS = 10_000
 # G_MAXINT: an interactive check waits for as long as the password dialog
 # is open (the bus still answers NoReply if polkitd goes away).
@@ -881,23 +894,37 @@ class HelperCore:
             return 'pacman'
         return None
 
+    def _index_backend(self, which=None) -> str:
+        """'apk' (postmarketOS) or 'apt' (Debian: Mobian, FuriOS), the
+        two managers whose refresh and upgrade the helper runs itself.
+        pacman is left out on purpose (see refresh_argv)."""
+        which_fn = which or shutil.which
+        if which_fn('apk'):
+            return 'apk'
+        if which_fn('apt-get'):
+            return 'apt'
+        raise _failed('neither apk nor apt-get is available on this system')
+
     def refresh_argv(self, which=None) -> list[str]:
-        """argv for the apk index refresh job (``apk update``): harmless
-        and non-destructive, so its policy stays ``allow_active=yes``.
+        """argv for the index refresh job (``apk update`` / ``apt-get
+        update``): harmless and non-destructive, so its policy stays
+        ``allow_active=yes``.
 
         Never ``pacman -Sy``: a partial pacman sync breaks the system on
         Arch, so Arch counts come from ``checkupdates`` (own temp db) and
         upgrades run in a terminal instead."""
-        if not (which or shutil.which)('apk'):
-            raise _failed('apk not available on this system')
-        return ['apk', 'update']
+        if self._index_backend(which) == 'apk':
+            return ['apk', 'update']
+        return APT_ENV + ['apt-get', '-q'] + APT_LOCK_WAIT + ['update']
 
     def upgrade_argv(self, which=None) -> list[str]:
-        """argv for the ``apk upgrade`` job. Interactive
-        ``auth_admin_keep``: the agent prompts for the device password."""
-        if (which or shutil.which)('apk') is None:
-            raise _failed('apk not available on this system')
-        return ['apk', 'upgrade']
+        """argv for the ``apk upgrade`` / ``apt-get upgrade`` job.
+        Interactive ``auth_admin_keep``: the agent prompts for the device
+        password, so the job itself must never stop to ask anything."""
+        if self._index_backend(which) == 'apk':
+            return ['apk', 'upgrade']
+        return (APT_ENV + ['apt-get', '-q', '-y'] + APT_LOCK_WAIT
+                + APT_KEEP_CONFIG + ['upgrade', '--with-new-pkgs'])
 
     def remove_argv(self, pkg: str, which=None) -> list[str]:
         """argv for the job removing one validated, non-protected distro

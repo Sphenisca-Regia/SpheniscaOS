@@ -213,12 +213,21 @@ inactive, and the same `pkcheck` then exits 1.
 - `ReadLog` accepts only its fixed allowlist (`messages`, `xx-wm`,
   `dmesg`) — never a free-form path. Read-only and size-capped, so
   its action stays `allow_active=yes`.
-- `RefreshPackageIndex` runs only `apk update` (never a partial
-  `pacman -Sy`) as a package job; harmless, so its action stays
+- `RefreshPackageIndex` runs only `apk update` on postmarketOS or
+  `apt-get update` on Debian (Mobian, FuriOS), never a partial
+  `pacman -Sy`, as a package job; harmless, so its action stays
   `allow_active=yes`.
-- `UpgradeSystem` runs only `apk upgrade` as a package job (the reply
-  is the job id, the output tail comes with `JobFinished`);
-  interactive `auth_admin_keep`.
+- `UpgradeSystem` runs only `apk upgrade`, or on Debian `apt-get -y
+  upgrade --with-new-pkgs` (new dependencies come in, nothing is
+  removed), as a package job (the reply is the job id, the output tail
+  comes with `JobFinished`); interactive `auth_admin_keep`. The apt jobs
+  never stop to ask: `DEBIAN_FRONTEND=noninteractive`, a changed
+  conffile keeps the local copy (`--force-confdef --force-confold`),
+  needrestart only lists (`NEEDRESTART_MODE=l`, so no service restarts
+  under the session), and apt waits up to 5 min for a dpkg lock held
+  by PackageKit or unattended-upgrades. An upgrade interrupted
+  half-way (battery, crash) leaves dpkg asking for `dpkg --configure
+  -a`; the job then fails with that in its tail rather than running it.
 - `RemovePackage` accepts only a safe single package name (lowercase
   alnum plus `.+-_`, max 128 chars) and always refuses the protected
   list (kernels, privilege escalation, the shell and its stack);

@@ -3,7 +3,7 @@
 
 File reads and the ``xx-apps-update --check`` probe only (no D-Bus): the
 blocking package commands live in system_settings (worker threads) and the
-privileged apk work in the root helper. ``home``/``sysfs`` paths are
+privileged apk and apt work in the root helper. ``home``/``sysfs`` paths are
 injectable so tests never touch the real machine. ``run_xx_apps_check``
 shells out and must run on a worker thread, never the main loop.
 """
